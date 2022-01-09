@@ -440,7 +440,7 @@
     "address": {
       "address": "Saint-Louis",
       "additional": "Plage de Gniling Mbao, Sowène, Route de Potou",
-      "additional": "Parc de la Langue de Barbarie"
+      "additional2": "Parc de la Langue de Barbarie",
       "postal": 01200,
       "coordinates": [15.799827606942069, -16.52727364088627]
     },
