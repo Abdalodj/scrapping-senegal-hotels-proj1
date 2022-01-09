@@ -1,4 +1,4 @@
-const obj = [
+[
   {
     "name": "Radisson Blu Hotel, Dakar Sea Plaza",
     "desc": "Installé à Dakar, dans le quartier huppé de la corniche de Fann, le Radisson Blu Hotel, Dakar Sea Plaza occupe un bâtiment contemporain pourvu d’une piscine extérieure. Vous trouverez un parcours de golf à proximité. Revêtus d’un sol en marbre, tous les hébergements climatisés du Radisson Blu Daka incluent un mobilier de marque, une télévision à écran plat ainsi qu’une salle de bains privative avec une douche à l'italienne. Certains donnent sur l'océan Atlantique. Le restaurant sur place sert une cuisine internationale fusion. Le chef met également à l’honneur une version moderne des spécialités traditionnelles sénégalaises. Vous pourrez savourer des boissons et des cocktails en plein air, au bar de la piscine. Situé à seulement 20 mètres de la plage, le Radisson Blu constitue un point de départ idéal pour découvrir le musée Théodore-Monod d'Art africain de l’Institut fondamental d'Afrique noire (IFAN) de Dakar consacré à l'Afrique de l'Ouest et à l’île de Gorée. Sur demande, vous bénéficierez d’un service de navette aéroport depuis celui de Léopold-Sédar-Senghor.",
@@ -18,7 +18,7 @@ const obj = [
       "coordinates": [14.694905671645008, -17.473057797784982]
     },
     "contact": {
-      "phone": "	+221 33 869 33 33",
+      "phone": "  +221 33 869 33 33",
       "email": "info.dakar@radissonblu.com",
       "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-dakar-sea-plaza"
     },
