@@ -1,11 +1,6 @@
 [
   {
-    "name": "Radisson Blu Hotel, Dakar Sea Plaza",
-    "desc": "Installé à Dakar, dans le quartier huppé de la corniche de Fann, le Radisson Blu Hotel, Dakar Sea Plaza occupe un bâtiment contemporain pourvu d’une piscine extérieure. Vous trouverez un parcours de golf à proximité. Revêtus d’un sol en marbre, tous les hébergements climatisés du Radisson Blu Daka incluent un mobilier de marque, une télévision à écran plat ainsi qu’une salle de bains privative avec une douche à l'italienne. Certains donnent sur l'océan Atlantique. Le restaurant sur place sert une cuisine internationale fusion. Le chef met également à l’honneur une version moderne des spécialités traditionnelles sénégalaises. Vous pourrez savourer des boissons et des cocktails en plein air, au bar de la piscine. Situé à seulement 20 mètres de la plage, le Radisson Blu constitue un point de départ idéal pour découvrir le musée Théodore-Monod d'Art africain de l’Institut fondamental d'Afrique noire (IFAN) de Dakar consacré à l'Afrique de l'Ouest et à l’île de Gorée. Sur demande, vous bénéficierez d’un service de navette aéroport depuis celui de Léopold-Sédar-Senghor.",
-    "category": "hotel",
-    "rating": 7.6,
-    "reviews": 7,
-    "price": 120853,
+    "name": "Hôtel Radisson Blu Hotel, Dakar Sea Plaza",
     "mediaUrls": [
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/232822147.jpg?k=656b8d46411a70ca13f3b896bf7b7620c844848f2ff37095dac2646f7025436c&o=&hp=1",
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/45998935.jpg?k=8652cd4d4eae866d1e0c4f6c27a016a07e4ad16da1ea04ff46275af1749318b3&o=&hp=1",
@@ -62,79 +57,10 @@
       "Restaurant",
       "Parking gratuit",
       "Bar"
-    ],
-    "currency": "XOF",
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.473057797784982, 14.694905671645008]
-    },
-    "address": {
-      "address": "Dakar",
-      "additional": "Route De La Corniche Ouest",
-      "postal": 10700,
-      "coordinates": [14.694905671645008, -17.473057797784982]
-    },
-    "contact": {
-      "phone": "  +221 33 869 33 33",
-      "email": "info.dakar@radissonblu.com",
-      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-dakar-sea-plaza"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Terrou-Bi",
-    "desc": "Face à la mer, le Terrou-Bi propose un hébergement contemporain, une connexion Wi-Fi gratuite, une piscine extérieure, un jardin bien entretenu avec des coins salon, un casino et une plage privée. Les chambres et suites de Terrou-Bi disposent d'une télévision et d'une salle de bains privative équipée d'une baignoire ou d'une douche et de toilettes. Certaines offrent une vue sur le jardin, tandis que d'autres donnent sur la piscine. Un petit-déjeuner continental vous sera servi tous les matins, tandis que le restaurant sur place vous proposera des spécialités régionales et une cuisine internationale. Le Terrou-Bi peut organiser des excursions pour découvrir la région environnante ainsi que des animations musicales. Un service de navette aéroport est en outre disponible moyennant un supplément.",
-    "category": "hotel",
-    "rating": 7.9,
-    "reviews": 3,
-    "price": 114368,
-    "currency": "XOF",
+    "name": "Hôtel Terrou-Bi",
     "mediaUrls": [
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/33075123.jpg?k=75b085b477fd6ed0004a8c4470d10b6717072de93527080a1c53330f327b5984&o=&hp=1",
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/166572893.jpg?k=0b7eade22ed8dcfa8638f1e819b952c218cbe26c74de07c9782dd6b28befdece&o=&hp=1",
@@ -190,78 +116,10 @@
       "Centre de remise en forme",
       "Plateau/bouilloire dans tous les hébergements",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.466087370277506, 14.677012967038177]
-    },
-    "address": {
-      "address": "Gueule Tapee, Dakar",
-      "additional": "Boulevard Martin Luther King",
-      "postal": 11179,
-      "coordinates": [14.677012967038177, -17.466087370277506]
-    },
-    "contact": {
-      "phone": "+221 33 839 90 39",
-      "email": "contact@terroubi.com",
-      "url": "https://www.terroubi.com/index.php"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Lamantin Beach Resort & SPA",
-    "desc": "Situé sur la côte ouest du Sénégal, cet hôtel 5 étoiles bénéficie d'un accès direct à la plage et au port de plaisance. Il dispose d'un restaurant gastronomique, d'un centre de remise en forme et d'une piscine extérieure. Le Lamantin Beach Resort & SPA se compose de huttes traditionnelles ; les chambres sont décorées dans un style typiquement africain. Toutes comprennent une terrasse privée et sont équipées d'une télévision par satellite et d'un minibar. La plupart des chambres sont dotées d'un lecteur DVD. Le Lamantin Beach Resort & SPA dispose de 2 restaurants et d'un bar doté d'une terrasse ombragée avec des cocotiers. Le petit-déjeuner est servi tous les matins. Doté d'une réception ouverte 24h/24 et d'un parking privé gratuit sur place, l'hôtel est accessible par l'autoroute N1. Le club de golf de Saly se trouve à 7,2 km.",
-    "category": "hotel",
-    "rating": 8,
-    "reviews": 2,
-    "price": 189309,
-    "currency": "XOF",
+    "name": "Hôtel Lamantin Beach Resort & SPA",
     "mediaUrls": [
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/278885350.jpg?k=158819b2b0a01c248bb7d9bb69fac5e49518645ac1d8e53b81493117712af2b7&o=&hp=1",
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/265762924.jpg?k=b39f7e73259ed21e3587c960e673b0f5f3a1c1d710db651091a37f03b27a6435&o=&hp=1",
@@ -316,78 +174,10 @@
       "Navette aéroport",
       "Chambres familiales",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.035466484751225, 14.449088370078302]
-    },
-    "address": {
-      "address": "Saly Portudal",
-      "additional": "Saly Nord",
-      "postal": 38168,
-      "coordinates": [14.449088370078302, -17.035466484751225]
-    },
-    "contact": {
-      "phone": "+221 33 957 07 77",
-      "email": "reservation@lelamantin.com",
-      "url": "https://www.lelamantin.com/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Pullman Dakar Teranga",
-    "desc": "Le Pullman Dakar Teranga bénéficie d'un emplacement privilégié au cœur du quartier des affaires de Dakar. Situé à seulement 1,5 km de l'océan, il propose une piscine extérieure et un centre d'affaires. Les chambres modernes du Pullman Dakar Teranga disposent d'une télévision et d'un coffre-fort. Toutes comprennent une salle de bains privative avec baignoire, douche et toilettes, ainsi qu'un balcon privé. L'établissement propose un menu petit-déjeuner chaque matin. À la réception ouverte 24h/24, vous profiterez d'un service de change et d'un service de fax/photocopies. Une connexion Internet par câble est disponible dans les parties communes. L'embarcadère des ferrys à destination de l'île de Gorée est accessible en 11 minutes de route. Vous bénéficierez d'un parking privé sur place. L'hôtel propose également un service de voiturier et un service de location de voitures. C'est le quartier préféré des voyageurs visitant Dakar, selon les commentaires clients indépendants.",
-    "category": "hotel",
-    "rating": 8.3,
-    "reviews": 2,
-    "price": 150750,
-    "currency": "XOF",
+    "name": "Hôtel Pullman Dakar Teranga",
     "mediaUrls": [
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/149363724.jpg?k=359125cd99e5c466d8cf0acc26cd795dfa171f3c3a58afe62738b41a97d52216&o=&hp=1",
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/168423518.jpg?k=81cd4294c38edfd15aee24370e8c3e92f9e743351cd94975f9be949984ce8080&o=&hp=1",
@@ -443,78 +233,10 @@
       "Centre de remise en forme",
       "Plateau/bouilloire dans tous les hébergements",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.43101906943381, 14.667852905047933]
-    },
-    "address": {
-      "address": "Dakar",
-      "additional": "10 Rue Colbert",
-      "postal": 14522,
-      "coordinates": [14.667852905047933, -17.43101906943381]
-    },
-    "contact": {
-      "phone": "+221 33 889 22 00",
-      "email": "dakar.reservation@accor.com",
-      "url": "https://all.accor.com/hotel/0563/index.en.shtml"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Neptune",
-    "desc": "L'hôtel Neptune dispose d'un espace de 400 m² avec piscine extérieure et spa ainsi que d'une plage privée. Il propose un hébergement individuel au toit de chaume, dans des jardins tropicaux à la périphérie de Mbour. Chacune des suites climatisées de l'hôtel Neptune est dotée d'un grand salon avec une télévision par satellite. Chaque suite comprend une salle de bains privative avec baignoire. Le restaurant de l'hôtel offre une vue sur la piscine. Il sert des spécialités africaines et européennes. Situé au sein de la station balnéaire de Saly, cet hôtel met à votre disposition du matériel et des installations vous permettant de pratiquer le canoë-kayak, le surf, le badminton et le beach-volley. Vous trouverez également une salle de remise en forme et une table de ping-pong. Les plus jeunes pourront profiter de la pataugeoire. La plage privée de l'hôtel est équipée de transats et de parasols ; elle se trouve à seulement 150 mètres de l'établissement. L'hôtel Neptune se situe à 80 km au sud de Dakar. Il propose un service de transfert aéroport et dispose d'un parking privé gratuit.",
-    "category": "hotel",
-    "rating": 7.7,
-    "reviews": 5,
-    "price": 71300,
-    "currency": "XOF",
+    "name": "Hôtel Neptune",
     "mediaUrls": [
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/114060947.jpg?k=4dd1fa18ea7ba34778ca67a92fd840b79d388be196783b60cfcfdb52c004cebd&o=&hp=1",
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/115406858.jpg?k=6fe0a01bd0ca206bd8f2a238d965b4536ef9ee76fa208820b77eea8059f2d2a1&o=&hp=1",
@@ -559,201 +281,10 @@
       "Spa et centre de bien-être",
       "Bar",
       "Plage privée"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.005151442607524, 14.438399790257526]
-    },
-    "address": {
-      "address": "Saly Portudal",
-      "additional": "Station de Saly - BP 742",
-      "postal": 99999,
-      "coordinates": [14.438399790257526, -17.005151442607524]
-    },
-    "contact": {
-      "phone": "(+221) 33 957 23 20",
-      "email": "contact@hotel-neptune-senegal.com",
-      "url": "https://hotel-neptune-senegal.com/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Les Palétuviers ",
-    "desc": "Doté d'une piscine extérieure et d'un spa avec centre de bien-être, l'établissement Les Palétuviers se situe à Toubacouta. Une connexion Wi-Fi est disponible gratuitement. Les chambres sont dotées de la climatisation, d'une terrasse et d'un salon. Les salles de bains privatives sont pourvues d'une douche. Certaines chambres offrent une vue sur mer. Un restaurant se situe sur place. L'établissement propose d'autres services comme un bureau d'excursions. L'aéroport international de M'bour est à 208 km. Un parking est disponible gratuitement sur place.",
-    "category": "hotel",
-    "rating": 8.7,
-    "reviews": 8,
-    "price": 121680,
-    "currency": "XOF",
-    "mediaUrls": [
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116875999.jpg?k=87c7a8a2766d56540781bdf4451e58c54c0268c9318d2bb54ff0afdcdc9010e3&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299882.jpg?k=36de73353c86fe34126093ea6971d397e40cf859220fc36e364fc6585c93dcd4&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299807.jpg?k=4f78f820ffe43c1ca4e46dd256bd16104b052c3b014494178bcf654b0702f91a&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299376.jpg?k=265d0e4f4ce3c5433dc816e7dd569bd5ff78d1f7f44c6cd15c8e607856b01da9&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299607.jpg?k=c0dccc9a48c0cb4365d77f390b5bbbb065704a4299643a303c8de3e523b4ce28&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299649.jpg?k=aefaf156cb65f493307753c30fa592e075e0b96719bc5ab2f84ec508b658dbca&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117164233.jpg?k=35601c0cf6e1db9c2a3a88311b21e31403936fbf2d0aa3f10837b83b5482e35d&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117164957.jpg?k=1b1723af48d18b10e9749133490ba5e281abe7dd619a900f975ba214d2034c18&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299883.jpg?k=8be434c862804ce23e18395c4d724bb3f231e44ac0676446fd0f063c95a5cb91&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299804.jpg?k=34b30d89df32508236a3491200fb8c0117819edcc02db47f1a5998a9b79f0c07&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299811.jpg?k=f61dd0f05585bd11458834c73362daabc3474673ac86828de03275c6deeb2f82&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299689.jpg?k=499df26812a1a5d51a57568b7d9e99ea2a5cba7f40b0cdefd220ad0f385886ca&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299588.jpg?k=7c220c77015f160baeabf10fcd3b0b0fadb1983b54a7eed2f1ab11d346937550&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299591.jpg?k=7398acc58f18f2e15627e7a3807cadf8f4336c38f79c3d11d1d62a6c2fc19bea&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299595.jpg?k=2394d9b2c461b081d854fd8d1bb75b87862491758eadfcb920348c378da66690&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299577.jpg?k=f1f7c115f6f4347f4eda75cf5d5ed978a5d61190e91cfe23915c732eab8e4840&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299479.jpg?k=63b6c244c034650e4a03f30700dd48e395acd729fa2c674a0b2d70a9986d06a0&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299391.jpg?k=f90ba814af44a7189fd28673392ecaaa19536ab011ac7d428332d109bcb721e1&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299390.jpg?k=4e19ab25da1c818ca4092759c750acbc7246c243b794808b8b45cd4b4f8040be&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/128284136.jpg?k=2cf46d60dfd2104bcbfc7d293038f48bbd48d2fe5b4287c70ffcb5b168c350b2&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299362.jpg?k=7b32e70a84313b00fab727a05e958185fdf7f80c834b6436cd75867b7083dac8&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299364.jpg?k=b7656125aee589d02f7718b932eb042abf373a97dd34875f3efffc8ecba403cf&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116873547.jpg?k=593cbb1e65f9fdcdf5a6559dbe10045218bfc7854f9e8549aa96e22125bb5e36&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117161798.jpg?k=3c4ec25ae57c7666bbceae40a226be77574e45cb2f242ca28f4b7caa97f97f95&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117161897.jpg?k=f1d3ef65012c3b70bfc0c9badbcc1ad53021a309908c6aea7313acf63e85ceee&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116875869.jpg?k=5276837383a8f806eeb0e5ee0e7ffe60906c544c2ff24be24270362ed0b5fffa&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117161144.jpg?k=87bdf5ad4b55da74954f8e585481d6e1943d132fe3f8d1d0687956c54b556d40&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116917561.jpg?k=25dfad4fda4841892dfed3f6202bb77662bedb9e62a3e0752ae771db616e05f1&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116917446.jpg?k=4ce28e8a13c123e5c8eeaab5a6f5792f39516ca9ba3b4e0e208d87e934cb6776&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116913686.jpg?k=9da1042dd7a51113b9612301e9179a4bd5b30e3e02dc8395910921099eff17be&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116913596.jpg?k=b0a30550d3c4d0f083e27d9c964a283bf195fda4f64a4ecb578b9d5581051016&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116913504.jpg?k=dae4154ee342063575450008a0be3fd91e2479a926b602828fc30a128c5c00e5&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116875775.jpg?k=75bf1ea0dd997e0264965dbd88e9e51a519082591fefcda6389bb65b838c3936&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116875446.jpg?k=b11782953a0fdc1ee3522c9e5f7c28eb56ad7efacb4d3ec2d8fbbe5d1edad777&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116875449.jpg?k=381daeaddfbfa5b47a9ae9090b6b6bb5795ce8e49a59edf7b8f2306f9c8368d1&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116874305.jpg?k=3230a4223faec307a1c3e4f15f3b854c6087ce5e042326cb9395bb617558fba6&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116874280.jpg?k=b1e86bbe02713bf97c6fea96d5e05bb8f08023c9628a1a6afade72bec9a05591&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116874247.jpg?k=7acf43549bcfef463b561ec58de8c5badbacd3f97671cb9ac61a2604433be34a&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116874146.jpg?k=99ddabc89a54556bed357f810dae13b09dc62cbafdbe9471155880c08ba0c8df&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117159425.jpg?k=17bc0807952c8e64b1c821c140e01bb5130cae858fc1552567c68f4be10ef945&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117159565.jpg?k=36340cfef064c9bb105891964b6de10a244ed343ab7c259906a2b1685d6d83e8&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116873831.jpg?k=19f39609591a8f6c9572c8cc4c467e19107b11ab2d532cca7c4ada3454783d41&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/54389432.jpg?k=5d129e72b96150bf35de36db3d7c2a0451bfa0b6b76cf3472f5901ed96774ee3&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116873621.jpg?k=10dff799d7d6f87badd58c3b4288ecfbdc90f73d533bc306a6c67a04a647e5de&o=&hp=1",
-      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/54389355.jpg?k=0d4823c97a6834797495711adb2a1f144ae297d38a5d6015d3e10f669bccb513&o=&hp=1"
-    ],
-    "hotelServices": [
-      "1 piscine",
-      "Bar",
-      "Plage privée"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-16.47926437175363, 13.784991118279605]
-    },
-    "address": {
-      "address": "Toubakouta - Fatick",
-      "additional": null,
-      "postal": 10000,
-      "coordinates": [13.784991118279605, -16.47926437175363]
-    },
-    "contact": {
-      "phone": "+221 33 948 77 76",
-      "email": "reception@paletuviers.com",
-      "url": "https://www.lespaletuviers.com/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
-  },
-  {
-    "name": "Hotelgandiol - Saint-Louis",
-    "desc": "Situé à Saint-Louis, à 30 km de l'office de tourisme, l'Hotelgandiol - Saint-Louis propose un restaurant, un parking privé gratuit, une piscine extérieure et un bar. Chaque hébergement de cet hôtel 4 étoiles offre une vue sur la piscine. Vous aurez accès à un jardin et à une plage privée. Il propose une réception ouverte 24h/24, un salon commun et un service de change. Toutes les chambres sont équipées de la climatisation, d'un réfrigérateur, d'un minibar, d'une bouilloire, d'une baignoire, de peignoirs et d'un bureau. Les chambres comprennent une télévision à écran plat, une salle de bains privative et une terrasse avec vue sur le lac. L'Hotelgandiol - Saint-Louis sert un petit-déjeuner à la carte. Une terrasse bien exposée est présente. La région est prisée des amateurs de randonnée et de pêche. L'Hotelgandiol - Saint-Louis assure un service de location de voitures. Le bureau des douanes se trouve à 31 km de l'hôtel.",
-    "category": "hotel",
-    "rating": 7.2,
-    "reviews": 3,
-    "price": 26000,
-    "currency": "XOF",
+    "name": "Hôtel Hotelgandiol - Saint-Louis",
     "mediaUrls": [
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/258275058.jpg?k=3c29a197251af4635b0773e024354e426a0078c58df8ceffe0fabe01f3ab4d0e&o=&hp=1",
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/258274949.jpg?k=91d09e42166a896fbca4de50fa8242f76fce2e9e134e114b5256e8eb4110aef8&o=&hp=1",
@@ -806,79 +337,65 @@
       "Bar",
       "Front de mer",
       "Plage privée"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-16.52727364088627, 15.799827606942069]
-    },
-    "address": {
-      "address": "Saint-Louis",
-      "additional": "Plage de Gniling Mbao, Sowène, Route de Potou",
-      "additional2": "Parc de la Langue de Barbarie",
-      "postal": 01200,
-      "coordinates": [15.799827606942069, -16.52727364088627]
-    },
-    "contact": {
-      "phone": "+34 657 63 81 50",
-      "email": "info@hotelgandiol.com",
-      "url": "https://www.hotelgandiol.com/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "FaDu’GH",
-    "desc": "FaDu’GH est situé à Somone et dispose d'un restaurant, d'une piscine extérieure et d'un bar. Cet hébergement climatisé se trouve à 10 km de Saly Portudal. Vous bénéficierez d'un parking privé sur place et d'une connexion Wi-Fi gratuite. Cette maison de vacances comprend 4 chambres, 4 salles de bains, du linge de lit, des serviettes, une télévision par satellite à écran plat, un coin repas, une cuisine entièrement équipée et une terrasse avec vue sur la piscine. Pour plus de commodité, l'établissement peut fournir des serviettes et du linge de lit moyennant des frais supplémentaires. Un petit-déjeuner à la carte est servi chaque matin. Le FaDu'GH possède une terrasse. Un jardin, un barbecue et une aire de jeux pour enfants sont disponibles sur place. Vous séjournerez à 17 km de Mbour et à 16 km de Toubab Dialaw.",
-    "category": "hotel",
-    "rating": 8.2,
-    "reviews": 3,
-    "price": 96000,
-    "currency": "XOF",
+    "name": "Hôtel Les Palétuviers",
+    "mediaUrls": [
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116875999.jpg?k=87c7a8a2766d56540781bdf4451e58c54c0268c9318d2bb54ff0afdcdc9010e3&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299882.jpg?k=36de73353c86fe34126093ea6971d397e40cf859220fc36e364fc6585c93dcd4&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299807.jpg?k=4f78f820ffe43c1ca4e46dd256bd16104b052c3b014494178bcf654b0702f91a&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299376.jpg?k=265d0e4f4ce3c5433dc816e7dd569bd5ff78d1f7f44c6cd15c8e607856b01da9&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299607.jpg?k=c0dccc9a48c0cb4365d77f390b5bbbb065704a4299643a303c8de3e523b4ce28&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299649.jpg?k=aefaf156cb65f493307753c30fa592e075e0b96719bc5ab2f84ec508b658dbca&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117164233.jpg?k=35601c0cf6e1db9c2a3a88311b21e31403936fbf2d0aa3f10837b83b5482e35d&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117164957.jpg?k=1b1723af48d18b10e9749133490ba5e281abe7dd619a900f975ba214d2034c18&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299883.jpg?k=8be434c862804ce23e18395c4d724bb3f231e44ac0676446fd0f063c95a5cb91&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299804.jpg?k=34b30d89df32508236a3491200fb8c0117819edcc02db47f1a5998a9b79f0c07&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299811.jpg?k=f61dd0f05585bd11458834c73362daabc3474673ac86828de03275c6deeb2f82&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299689.jpg?k=499df26812a1a5d51a57568b7d9e99ea2a5cba7f40b0cdefd220ad0f385886ca&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299588.jpg?k=7c220c77015f160baeabf10fcd3b0b0fadb1983b54a7eed2f1ab11d346937550&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299591.jpg?k=7398acc58f18f2e15627e7a3807cadf8f4336c38f79c3d11d1d62a6c2fc19bea&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299595.jpg?k=2394d9b2c461b081d854fd8d1bb75b87862491758eadfcb920348c378da66690&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299577.jpg?k=f1f7c115f6f4347f4eda75cf5d5ed978a5d61190e91cfe23915c732eab8e4840&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299479.jpg?k=63b6c244c034650e4a03f30700dd48e395acd729fa2c674a0b2d70a9986d06a0&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299391.jpg?k=f90ba814af44a7189fd28673392ecaaa19536ab011ac7d428332d109bcb721e1&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299390.jpg?k=4e19ab25da1c818ca4092759c750acbc7246c243b794808b8b45cd4b4f8040be&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/128284136.jpg?k=2cf46d60dfd2104bcbfc7d293038f48bbd48d2fe5b4287c70ffcb5b168c350b2&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299362.jpg?k=7b32e70a84313b00fab727a05e958185fdf7f80c834b6436cd75867b7083dac8&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117299364.jpg?k=b7656125aee589d02f7718b932eb042abf373a97dd34875f3efffc8ecba403cf&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116873547.jpg?k=593cbb1e65f9fdcdf5a6559dbe10045218bfc7854f9e8549aa96e22125bb5e36&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117161798.jpg?k=3c4ec25ae57c7666bbceae40a226be77574e45cb2f242ca28f4b7caa97f97f95&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117161897.jpg?k=f1d3ef65012c3b70bfc0c9badbcc1ad53021a309908c6aea7313acf63e85ceee&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116875869.jpg?k=5276837383a8f806eeb0e5ee0e7ffe60906c544c2ff24be24270362ed0b5fffa&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117161144.jpg?k=87bdf5ad4b55da74954f8e585481d6e1943d132fe3f8d1d0687956c54b556d40&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116917561.jpg?k=25dfad4fda4841892dfed3f6202bb77662bedb9e62a3e0752ae771db616e05f1&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116917446.jpg?k=4ce28e8a13c123e5c8eeaab5a6f5792f39516ca9ba3b4e0e208d87e934cb6776&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116913686.jpg?k=9da1042dd7a51113b9612301e9179a4bd5b30e3e02dc8395910921099eff17be&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116913596.jpg?k=b0a30550d3c4d0f083e27d9c964a283bf195fda4f64a4ecb578b9d5581051016&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116913504.jpg?k=dae4154ee342063575450008a0be3fd91e2479a926b602828fc30a128c5c00e5&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116875775.jpg?k=75bf1ea0dd997e0264965dbd88e9e51a519082591fefcda6389bb65b838c3936&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116875446.jpg?k=b11782953a0fdc1ee3522c9e5f7c28eb56ad7efacb4d3ec2d8fbbe5d1edad777&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116875449.jpg?k=381daeaddfbfa5b47a9ae9090b6b6bb5795ce8e49a59edf7b8f2306f9c8368d1&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116874305.jpg?k=3230a4223faec307a1c3e4f15f3b854c6087ce5e042326cb9395bb617558fba6&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116874280.jpg?k=b1e86bbe02713bf97c6fea96d5e05bb8f08023c9628a1a6afade72bec9a05591&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116874247.jpg?k=7acf43549bcfef463b561ec58de8c5badbacd3f97671cb9ac61a2604433be34a&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116874146.jpg?k=99ddabc89a54556bed357f810dae13b09dc62cbafdbe9471155880c08ba0c8df&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117159425.jpg?k=17bc0807952c8e64b1c821c140e01bb5130cae858fc1552567c68f4be10ef945&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/117159565.jpg?k=36340cfef064c9bb105891964b6de10a244ed343ab7c259906a2b1685d6d83e8&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116873831.jpg?k=19f39609591a8f6c9572c8cc4c467e19107b11ab2d532cca7c4ada3454783d41&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/54389432.jpg?k=5d129e72b96150bf35de36db3d7c2a0451bfa0b6b76cf3472f5901ed96774ee3&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/116873621.jpg?k=10dff799d7d6f87badd58c3b4288ecfbdc90f73d533bc306a6c67a04a647e5de&o=&hp=1",
+      "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/54389355.jpg?k=0d4823c97a6834797495711adb2a1f144ae297d38a5d6015d3e10f669bccb513&o=&hp=1"
+    ],
+    "hotelServices": [
+      "1 piscine",
+      "Bar",
+      "Plage privée"
+    ]
+  },
+  {
+    "name": "Maison de vacances FaDu’GH",
     "mediaUrls": [
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/321983094.jpg?k=663cacc9ef52d5e0adc696aad66193a517290635aba25dedf8f33ba1ba259daf&o=&hp=1",
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262341332.jpg?k=3de969054554a735d8a699f037f5e7b04f7b3106823e326ef996acb1b7f68498&o=&hp=1",
@@ -932,78 +449,10 @@
       "Parking gratuit",
       "Navette aéroport",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.07461400, 14.48504250]
-    },
-    "address": {
-      "address": "La Somone",
-      "additional": "Rue du château d'eau, kanda Fadu's GH",
-      "postal": null,
-      "coordinates": [14.48504250, -17.07461400]
-    },
-    "contact": {
-      "phone": null,
-      "email": null,
-      "url": null
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Hotel L'Adresse Dakar",
-    "desc": "Situé à Dakar, à 750 mètres de la plage Estendera Vivier, l'Hotel L'Adresse Dakar propose un restaurant, un parking privé gratuit, une piscine extérieure et un bar. Il propose un salon commun, une bagagerie et une connexion Wi-Fi gratuite dans l'ensemble de ses locaux. La réception est ouverte 24h/24. Des services d'étage et de change sont assurés. Les chambres comprennent une armoire. Leur salle de bains privative est pourvue d'un sèche-cheveux. Certaines chambres sont équipées d'un coin salon. Elles comprennent également un bureau et une bouilloire. Un petit-déjeuner buffet est servi sur place. L'Hotel L'Adresse Dakar possède une terrasse bien exposée. Vous séjournerez à 1 km de la plage de Ngor Rights et à 2,1 km de celle de Ouakam.",
-    "category": "hotel",
-    "rating": 8.9,
-    "reviews": 3,
-    "price": 77000,
-    "currency": "XOF",
+    "name": "Hôtel Hotel L'Adresse Dakar",
     "mediaUrls": [
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/244008774.jpg?k=ab31fd71f966a644ca3e0ecc390d2054bd626c0c1037abd65eeba496b4fd8ebc&o=&hp=1",
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/244008240.jpg?k=1012c2397fbbddafa0bfa668ad5a5092d5571848690498959cf3a24e11a78732&o=&hp=1",
@@ -1048,78 +497,10 @@
       "Restaurant",
       "Parking gratuit",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.515767240448817, 14.741754117329979]
-    },
-    "address": {
-      "address": "Dakar",
-      "additional": "Almadies Zone 7",
-      "postal": 99999,
-      "coordinates": [14.741754117329979, -17.515767240448817]
-    },
-    "contact": {
-      "phone": "+221 33 827 17 17",
-      "email": "reception@ladressedakar.com",
-      "url": "https://ladressedakar.com/en/home-2/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Hotel Lagon 2",
-    "desc": "Situé juste en face de la mer, l'Hotel Lagon 2 se trouve dans le centre de Dakar. Elle est gratuite. Une connexion Wi-Fi, une réception ouverte 24h/24 et un bar spacieux avec des lumières colorées et une décoration de style moderne. Toutes les chambres et suites climatisées disposent d'un coin salon, d'un minibar et d'une télévision par satellite. La salle de bains privative est pourvue d'une baignoire. Un petit-déjeuner buffet est servi chaque matin à l'Hotel Lagon 2. Vous pourrez déguster des plats internationaux au restaurant avant de prendre un cocktail au bar de l'hôtel. Cet établissement se trouve à 62 km de l'aéroport international Blaise Diagne (DSS) et un service de navette peut être organisé moyennant des frais supplémentaires. Un parking privé gratuit est disponible sur place et la gare de Dakar se trouve à 4 minutes en voiture. C'est le quartier préféré des voyageurs visitant Dakar, selon les commentaires clients indépendants.",
-    "category": "hotel",
-    "rating": 7.6,
-    "reviews": 4,
-    "price": 72000,
-    "currency": "XOF",
+    "name": "Hôtel Hotel Lagon 2",
     "mediaUrls": [
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/188300873.jpg?k=62d6a81a9dfb3b3e8923b7d90d90532c0f1e073675c0e64f5148a3d0391f14a6&o=&hp=1",
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/188254942.jpg?k=9476906ab32148c70d0565b00770f8ad77be5f112ef2430cc3a5e32b95b04f24&o=&hp=1",
@@ -1159,78 +540,10 @@
       "Restaurant",
       "Parking gratuit",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.426915640021637, 14.668198800632629]
-    },
-    "address": {
-      "address": "Dakar",
-      "additional": "Route de la Corniche Est, BP 3115",
-      "postal": 99999,
-      "coordinates": [14.668198800632629, -17.426915640021637]
-    },
-    "contact": {
-      "phone": "+221 33 889 25 25",
-      "email": "commercial.lagon@orange.sn",
-      "url": "https://www.lelagondakar.com/hotel.html"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "International Hotel Dakar",
-    "desc": "Situé à Dakar, à 2,1 km de la plage de Yoff, l'International Hotel Dakar possède un restaurant, un parking privé gratuit, un bar et un salon commun. Des chambres familiales sont disponibles et vous profiterez aussi d’une terrasse. Vous pourrez profiter d’une réception ouverte 24h/24 ainsi que de services d’étage et de change. Les chambres sont dotées d'une bouilloire, d'une télévision à écran plat, d'un coffre-fort et d'une connexion Wi-Fi gratuite. Certaines sont équipées d'un balcon. L’hôtel sert un petit-déjeuner continental tous les matins. L'International Hotel Dakar se trouve à 9 km du monument de la Renaissance africaine et à 10 km de la Grande Mosquée de Dakar.",
-    "category": "hotel",
-    "rating": 8.5,
-    "reviews": 3,
-    "price": 46740,
-    "currency": "XOF",
+    "name": "Hôtel International Hotel Dakar",
     "mediaUrls": [
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202154454.jpg?k=6b894541284845483227489e06d15ba0bef8b713abf3a7c3c6aa840c91178dad&o=&hp=1",
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197482860.jpg?k=5426f4731299974340d3aa57ec12c8e798367422da6fb6e4d9a188b958f2b1fa&o=&hp=1",
@@ -1286,78 +599,10 @@
       "Parking gratuit",
       "Chambres familiales",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.467860671641198, 14.745371063771298]
-    },
-    "address": {
-      "address": "Dakar",
-      "additional": "Foire C.I.C.E.S, Rue VDN 651",
-      "postal": 38233,
-      "coordinates": [14.745371063771298, -17.467860671641198]
-    },
-    "contact": {
-      "phone": "+221 78 436 91 17",
-      "email": "info@hotelvdn.com",
-      "url": "https://www.dakarhotelinternationalvdn.com/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "BOMA LifeStyle Hotel",
-    "desc": "Situé à Dakar, à 1,2 km de la plage du Virage, le BOMA LifeStyle Hotel propose un restaurant, un parking privé gratuit, une piscine extérieure et un bar. Chaque hébergement de cet hôtel 4 étoiles offre une vue sur le jardin. Vous aurez accès à un jardin et à une plage privée. Il propose une réception ouverte 24h/24, des transferts aéroport, un service d'étage et une connexion Wi-Fi gratuite. Les chambres climatisées comprennent un bureau, une bouilloire, un réfrigérateur, un minibar, un coffre-fort, une télévision à écran plat, une terrasse et une salle de bains privative avec douche. Le BOMA LifeStyle Hotel sert un petit-déjeuner continental ou à la carte. Vous séjournerez à 3,2 km du monument de la Renaissance africaine et à 10 km de la Grande Mosquée de Dakar. L'aéroport Léopold-Sédar-Senghor, le plus proche, est implanté à 2 km.",
-    "category": "hotel",
-    "rating": 8.7,
-    "reviews": 1,
-    "price": 94500,
-    "currency": "XOF",
+    "name": "Hôtel BOMA LifeStyle Hotel",
     "mediaUrls": [
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/273343235.jpg?k=8f6da3a00bf0d97cc714aa4b0b48fabdb14baad0246ebe6b2cd172fca7ee002d&o=&hp=1",
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/280457271.jpg?k=5ebdd3fa8eb61c37df1cb924d1a391eda102a8f8a33f3fa62579522340320fb7&o=&hp=1",
@@ -1402,78 +647,10 @@
       "Plateau/bouilloire dans tous les hébergements",
       "Bar",
       "Plage privée"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.50396816868095, 14.75032386141609]
-    },
-    "address": {
-      "address": "Dakar",
-      "additional": "Route de l'Aeroport Ngor Almadies",
-      "postal": 12000,
-      "coordinates": [14.75032386141609, -17.50396816868095]
-    },
-    "contact": {
-      "phone": "+221 33 859 02 50",
-      "email": "info@hotelboma.net",
-      "url": "https://www.hotelbomadakar.com/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Hôtel Fleur de Lys Plateau",
-    "desc": "Situé à Dakar, l'hôtel Hôtel Fleur de Lys Plateau propose un restaurant, une piscine intérieure et une connexion Wi-Fi gratuite. Climatisées, les chambres comprennent un minibar et une télévision avec chaînes à la carte. Elles sont également dotées d'une table à manger. Leur salle de bains privative est pourvue d'une baignoire ou d'une douche et d'un sèche-cheveux. Vous pourrez également bénéficier de l'accès à une piscine privée, d'un coin salon extérieur et d'un coffre-fort. Le Hôtel Fleur de Lys Plateau met à votre disposition une navette aéroport, une réception ouverte 24h/24 et une terrasse. Les autres installations incluent un salon commun, un bureau d'excursions et un service de billetterie. De plus, un parking gratuit est disponible sur place. L'hôtel se situe à 1,6 km de la Grande Mosquée de Dakar, à 4 km de la Maison des Esclaves et à 8,9 km de Monument de la Renaissance africaine. Enfin, le Hôtel Fleur de Lys Plateau est à 11 km de l'aéroport international Blaise Diagne. C'est le quartier préféré des voyageurs visitant Dakar, selon les commentaires clients indépendants.",
-    "category": "hotel",
-    "rating": 7.5,
-    "reviews": 2,
-    "price": 50000,
-    "currency": "XOF",
+    "name": "Hôtel Hôtel Fleur de Lys Plateau",
     "mediaUrls": [
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/90589051.jpg?k=dc39cc2d87eb3317c8e208506cad750778fe0d087fd37b01927ffc30c047de12&o=&hp=1",
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266868135.jpg?k=055c5ee562d6e245d08000526c13f6fc3f6ece5eefaef431a93ed35a44e3c3c0&o=&hp=1",
@@ -1530,78 +707,10 @@
       "Restaurant",
       "Parking gratuit",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.436086410291498, 14.66736183539956]
-    },
-    "address": {
-      "address": "Dakar",
-      "additional": "64 Rue Felix faure",
-      "postal": "12345",
-      "coordinates": [14.66736183539956, -17.436086410291498]
-    },
-    "contact": {
-      "phone": "+221 33 849 46 00",
-      "email": "infos@hotelfleurdelysdakar.com",
-      "url": "https://hotelfleurdelysdakar.com/plateau/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Rysara Hotel",
-    "desc": "Le Rysara Hotel se trouve dans le quartier de Jambaars, à seulement 5 minutes des plages de Dakar. Présentant une architecture à la fois moderne et originale, cet hôtel bénéficie d'un emplacement idéal pour partir à la découverte de la ville. Les chambres de style contemporain de l'établissement sont climatisées et disposent d'une télévision par câble et satellite à écran LCD. Leur salle de bains privative est pourvue d'une douche ainsi que de peignoirs et de chaussons fournis gratuitement. Un petit-déjeuner continental est servi sur la terrasse ou en chambre. Le restaurant élégant de l'hôtel propose une cuisine originale, et vous pourrez terminer la soirée avec un cocktail dans le cadre chic du bar-salon. Idéalement situé dans le centre de Dakar, le Rysara Hotel est à 50 minutes de l'aéroport international Blaise Diagne. Il se trouve à proximité des quartiers commerçants et à seulement 5 minutes de marche de la place Soweto.",
-    "category": "hotel",
-    "rating": 8.1,
-    "reviews": 6,
-    "price": 95000,
-    "currency": "XOF",
+    "name": "Hôtel Rysara Hotel",
     "mediaUrls": [
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/43317721.jpg?k=781f80b17e81b8d63f3c48ddee625d2287730b911415ea1375ef7d2e8a399dc3&o=&hp=1",
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/43315178.jpg?k=cc0dffea2ed253059d6b7ccffa9a28a20e83c19e7f33d4db115db7fb58b9d299&o=&hp=1",
@@ -1657,78 +766,10 @@
       "Réception ouverte 24h/24",
       "Chambres non-fumeurs",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.437075298843098, 14.659705714138468]
-    },
-    "address": {
-      "address": "Dakar",
-      "additional": "8 Avenue des Jambaars",
-      "postal": 20000,
-      "coordinates": [14.659705714138468, -17.437075298843098]
-    },
-    "contact": {
-      "phone": "+221 33 822 60 60",
-      "email": "info@rysarahotel.sn",
-      "url": "http://www.rysarahotel.sn/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "THE PALMS Luxury Boutique Hotel",
-    "desc": "Situé à Dakar, l’établissement THE PALMS Luxury Boutique Hotel dispose d’un restaurant, d’une réception ouverte 24h/24, d’un bar, d’une piscine extérieure, d’une terrasse ainsi que d’un jardin et offre une vue sur ce dernier. Vous bénéficierez gratuitement d’une connexion Wi-Fi et d’un parking privé sur place. La chambre d’hôtes THE PALMS Luxury Boutique Hotel possède un coin salon muni d’une télévision à écran plat ainsi qu’une salle de bains privative pourvue de peignoirs, de chaussons et d’une douche. Le linge de lit et les serviettes de toilette vous seront fournis moyennant des frais supplémentaires. L’hôtel sert un petit-déjeuner continental. Vous pourrez vous détendre dans le coin salon commun. L’établissement THE PALMS Luxury Boutique Hotel est implanté à 2,9 km de la plage du Virage et à 5 km du monument de la Renaissance africaine. L'aéroport le plus proche, celui de Dakar - Léopold-Sédar-Senghor, se trouve, quant à lui, à 4 km. Par ailleurs, la chambre d'hôtes assure un service de navette aéroport moyennant des frais supplémentaires.",
-    "category": "hotel",
-    "rating": 8.6,
-    "reviews": 5,
-    "price": 127000,
-    "currency": "XOF",
+    "name": "B&B / Chambre d'hôtes THE PALMS Luxury Boutique Hotel",
     "mediaUrls": [
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/309433401.jpg?k=c45d4a6f1418de0fcbf4630a3b6330d01dd03d7e2051688a01ddc589cd2ac761&o=&hp=1",
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/308973292.jpg?k=5629e4aea7e01096cd7e438fdb565fd7269263d5c2a2df336f8818b118ddc342&o=&hp=1",
@@ -1784,78 +825,10 @@
       "Restaurant",
       "Parking gratuit",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.519415708867996, 14.742996093597135]
-    },
-    "address": {
-      "address": "Dakar",
-      "additional": "Route du Meridien Almadies",
-      "postal": 00001,
-      "coordinates": [14.742996093597135, -17.519415708867996]
-    },
-    "contact": {
-      "phone": "+221 33 868 05 05",
-      "email": "frontdesk@palmsboutique.org",
-      "url": "https://www.thepalmsdakar.com/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Hôtel du Parc Exotique",
-    "desc": "Situé à Ngaring, à 2,6 km de la plage de Ngaparou, l'Hôtel du Parc Exotique propose un restaurant, un parking privé gratuit, une piscine extérieure et un bar. Chaque hébergement de cet hôtel 4 étoiles offre une vue sur le jardin. Vous aurez accès à un jardin et à une terrasse. Vous pourrez prendre un verre au snack-bar. Les chambres sont équipées de la climatisation, d'une armoire, d'une télévision à écran plat, d'une salle de bains privative, de linge de lit, de serviettes et d'un balcon avec vue sur la piscine. Toutes les chambres disposent d'un coffre-fort. L'Hôtel du Parc Exotique sert un petit-déjeuner continental ou buffet. Vous pourrez profiter d'un jacuzzi. Moyennant des frais supplémentaires, l'Hôtel du Parc Exotique assure un service de navette aéroport, le plus proche étant celui de Blaise Diagne, situé à 21 km.",
-    "category": "hotel",
-    "rating": 7.8,
-    "reviews": 5,
-    "price": 35000,
-    "currency": "XOF",
+    "name": "Hôtel Hôtel du Parc Exotique",
     "mediaUrls": [
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245094249.jpg?k=0dd45b66cdd8ee0a57c470c540986fc6e972ca88182bb246779fd3ca247eb030&o=&hp=1",
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245094261.jpg?k=f2c63b17623cdb8d9e0ad1da6ac8aaa6c4e3213e0cdbb407d6f50eacfe655311&o=&hp=1",
@@ -1887,78 +860,10 @@
     "hotelServices": [
       "1 piscine",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.042920197286445, 14.481093943933114]
-    },
-    "address": {
-      "address": "Ngaring",
-      "additional": "Piste Nguerigne-Somone",
-      "postal": 47360,
-      "coordinates": [14.481093943933114, -17.042920197286445]
-    },
-    "contact": {
-      "phone": "+221 33 958 55 67",
-      "email": "parc.exotique@gmail.com",
-      "url": "https://hotel-du-parc-exotique.business.site/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": "08:00",
-        "fermeture": "19:00",
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": "08:00",
-        "fermeture": "19:00",
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": "08:00",
-        "fermeture": "19:00",
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": "08:00",
-        "fermeture": "19:00",
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": "08:00",
-        "fermeture": "19:00",
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": "08:00",
-        "fermeture": "19:00",
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": "08:00",
-        "fermeture": "19:00",
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Villa Keur Bibou",
-    "desc": "Piste Nguerigne-Somone, Située sur l'île de N'gor, à Dakar, la Villa Keur Bibou propose une piscine extérieure, un bain à remous, ainsi qu'un bateau privé avec son skipper. L'établissement se trouve à 5 minutes à pied de la plage, à 2 km du golf des Almadies et à 5 km du monument de la Renaissance africaine. La villa comprend un coin salon doté d'un canapé et d'une télévision à écran plat. Il propose des logements dotés d'un balcon. La salle de bains privative est pourvue d'une douche. La cuisine est équipée d'un réfrigérateur, de plaques de cuisson et d'ustensiles de cuisine. La Villa Keur Bibou possède un jardin, une terrasse et un bar. Un salon commun et un bureau d'excursions sont également à votre disposition. Vous pourrez également utiliser un bateau privé avec skipper. L'aéroport Blaise Diagne de Dakar est à 59 km. Un service de navette aéroport peut être organisé sur demande.",
-    "category": "hotel",
-    "rating": 10,
-    "reviews": 4,
-    "price": 137500,
-    "currency": "XOF",
+    "name": "Villa Villa Keur Bibou",
     "mediaUrls": [
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/26226939.jpg?k=00a558c919da3622c529b83f4640861c3b738d17f64c88c443841a1b25ec12b7&o=&hp=1",
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/276198781.jpg?k=2bc5de4b93499e8f3f931c2bc03728efb68dfed2b289003a1d58051ba635cea1&o=&hp=1",
@@ -2011,78 +916,10 @@
       "Connexion Wi-Fi gratuite",
       "Navette aéroport",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.515078168145763, 14.756197329499798]
-    },
-    "address": {
-      "address": "Dakar",
-      "additional": "Ile De N'gor, Plage N°2",
-      "postal": 18524,
-      "coordinates": [14.756197329499798, -17.515078168145763]
-    },
-    "contact": {
-      "phone": "+221 33 301 18 18 92",
-      "email": "michelmontesinos@yahoo.fr",
-      "url": "https://www.vacances-dakar.fr/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Hotel Jardin Savana Dakar",
-    "desc": null,
-    "category": "hotel",
-    "rating": 7.7,
-    "reviews": 5,
-    "price": 89000,
-    "currency": "XOF",
+    "name": "Hôtel Hotel Jardin Savana Dakar",
     "mediaUrls": [
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/223355004.jpg?k=bd4d0e4bd23fff954dbb3294ca1714c4281f23fbe7180a352f4899ab418135db&o=&hp=1",
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235641852.jpg?k=d61d9d251e3dcba7c27e352396e07eaff45b8917e6742db7a602c40e564d730c&o=&hp=1",
@@ -2138,78 +975,10 @@
       "Centre de remise en forme",
       "Restaurant",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.431504255745413, 14.653723057050167]
-    },
-    "address": {
-      "address": "Dakar",
-      "additional": "Petite Corniche Est 1015",
-      "postal": 10000,
-      "coordinates": [14.653723057050167, -17.431504255745413]
-    },
-    "contact": {
-      "phone": "+221 33 849 42 42",
-      "email": null,
-      "url": "https://savana.sn/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Fathala Wildlife Reserve",
-    "desc": "Situé à Toubakouta, le Fathala Wildlife Reserve dispose d'une piscine extérieure et vous propose de découvrir la faune. Des places de stationnement privées sont disponibles gratuitement sur place. Offrant une vue sur le jardin depuis les chambres, les logements comprennent une salle de bains privative pourvue d'une baignoire ou d'une douche. Le restaurant de l'hôtel prépare des spécialités locales. Le Fathala Wildlife Reserve possède un jardin. Enfin, l'aéroport de Gambie est à 58 km de l'établissement.",
-    "category": "hotel",
-    "rating": 8.6,
-    "reviews": 5,
-    "price": 101024,
-    "currency": "XOF",
+    "name": "Appart'hôtel Fathala Wildlife Reserve",
     "mediaUrls": [
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/40837698.jpg?k=0d2f92981e18953865701aaf6e1c7043645e996ed6eb1f4316bf76ecafb58886&o=&hp=1",
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226052195.jpg?k=7d38ddc6cc0d311b87741ae8b0a69ea5cdfd2ac9f720a8ba6e0af1d4f7c1c8be&o=&hp=1",
@@ -2260,78 +1029,55 @@
     "hotelServices": [
       "1 piscine",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-16.44656292621958, 13.653977224824052]
-    },
-    "address": {
-      "address": "Toubakouta",
-      "additional": "Sokane-Karang",
-      "postal": 52732,
-      "coordinates": [13.653977224824052, -16.44656292621958]
-    },
-    "contact": {
-      "phone": "+221 70 525 06 20",
-      "email": "book@fathala.com",
-      "url": "https://www.fathala.com/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Hotel Royam",
-    "desc": "Installé à Saly Portudal, l'Hotel Royam comprend un jardin tropical avec une piscine extérieure, une plage privée, une terrasse ombragée pourvue de chaises longues et un bar à cocktails. Des visites et des animations sont organisées. Les chambres climatisées sont situées dans des bungalows présentant une décoration traditionnelle africaine. Ils incluent une terrasse privée donnant sur le jardin ou la piscine ainsi qu'une salle de bains privative. Certains hébergements proposent un minibar, une télévision ou une vue sur la mer. Le petit-déjeuner buffet se compose d'un grand choix de pâtisseries, de crêpes, de fruits frais, d'œufs, de céréales et de fromages. Surplombant la mer et le jardin, le restaurant prépare une cuisine locale traditionnelle et vous trouverez également un snack-bar. Vous profiterez gratuitement d'une connexion Wi-Fi dans les parties communes et d'un parking privé. Des massages pourront être dispensés sur place et vous aurez la possibilité de pratiquer plusieurs activités nautiques, comme la planche à voile, la motomarine, le bateau à pédales ou la pêche en mer dans les environs. Vous pourrez également partir en excursions en quad ou buggy, ou encore faire de l'équitation. Vous atteindrez la réserve naturelle de Bandia à seulement 15 km et l'aéroport international Blaise-Diagne de Dakar à 33 km.",
-    "category": "hotel",
-    "rating": 8.1,
-    "reviews": 2,
-    "price": 63250,
-    "currency": "XOF",
+    "name": "Villa Villa la Linguère",
+    "mediaUrls": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/267899755.jpg?k=7b29b68bc89fe495e0efbcb6212433e3ab6956958d9be081f106235c0bc621fb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123549914.jpg?k=bfea3c10fd8a28d106242f4c7c922819174d2baf40407f3badb10334ced8fce6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/267899752.jpg?k=bc4d646bc4ada242f05f6d126f40354351a7952bd6514c3497b804760533bb12&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/267899750.jpg?k=d812690f1fba450087768a56ce4608f09e799e5c9bc50417730ae0fa070714b2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/267899757.jpg?k=afd6c078e89788b59eae452fbc57ab7b0089ace45635509a2db4b49d9aafe6fb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/267899759.jpg?k=cf3fd1c1906f59f6e35fd823602280a7248a29f06c3a4704040467833d188a46&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182927030.jpg?k=11cf484b2298fdb6cc169295670c471442fea43143817417fd1749ce242dc33a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/267899745.jpg?k=37edea50427c3422a6484394f293dc7537d7893346e1e10dcbe06389e3883ace&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182230088.jpg?k=c94c664867d026e1e143050f1d22a7db3247c007a16b9c9d057ec39a7a2e3971&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182230090.jpg?k=349691d0a9c8df7791b56f9f2199894d04411048f6c1244a831dd365df5694c5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123550050.jpg?k=eb02b6328e30f54e95cfc5b8590ec5317eb014a956a5d3b93eb005cea9d94b70&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182216113.jpg?k=971911cbe9d719426f88cbf7fa6e87b9c0d6b39a61df0db53eca16cfa9614500&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182216069.jpg?k=ae8bbe83a023ca451dd89c8e0752dab959e83d6504cca5cdc45a39ade60bc7fe&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182230092.jpg?k=137b76457d0752a29b5a32ce6d7a978dc2582b3788ce726bff9beef565d3620a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182229478.jpg?k=25d8fadbfd9f3176a44d6506d2e5b8ec0108df2da4855156cd40251efceff466&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123550305.jpg?k=d0c25e812e81cf381566c0cd2ca7a68d23f4cae5322866b1692b54af4e10910e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182229616.jpg?k=e996117fb1d6a453d407119e6386d6cc14e6fd404c7fd54137095cf2be913e39&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182229525.jpg?k=d8c1969d728115d1caa8e8eb5caad159b15fd10208dcc8890f50d945a8c5fb27&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/115991055.jpg?k=a2e85cab475aea762821aac2e2fb5ecbd34138c3cc74fbf6fafb970c83dc4c4e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/115990968.jpg?k=7cab15e2494199c7f89a5b0cd1c576e04a1c02a0cbec8cb514decbd678d83131&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182189097.jpg?k=ec58dc7e05f855e0da517c048cbbaf02adc55efe62c0ab0b931cd05f7f1d9e96&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182189884.jpg?k=fa0469f21faf4971af305956490dcabb3687ca097cc4fb851d86436139601f1a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182188626.jpg?k=646e9ab4ac2228097ed99ac2bccf2a2bc50be68cc4fb3e8376797ef53396ae5e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182926721.jpg?k=7d88bf1b65588ead0def8cc4b00b6857fadd64b8561e311f691f3d7c3f8307cd&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123550133.jpg?k=c119b5a5b3ea834b81c1ad9f943df47b0ed73b4057a3f93ef59b40c6d39fee6d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182215859.jpg?k=060c697b2e8608fd4a6d1d842d033c3b96f98ff8f407c0ad8098b3e385c7c005&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182215932.jpg?k=865390dbcd9042d8cfc6ead5e711e219122b7edde072697f013e6f53f8e79011&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182926624.jpg?k=1ae536f8a855bd8d2ac3fee55d2e91039eee2a9f5f95dcac5bca51aa88f10eec&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123550116.jpg?k=49eb72077c789b4502b701513152a3522e3094e2c94dd47c3911f80abd5c825b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/115966890.jpg?k=87a4ecb86f90ec8275a2c231b4efee72bbe70b67965948144e388a70044509fe&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/115966845.jpg?k=426cf513a2d4f22d01fe20322f6bc36af1f8a35b1a93f22fbca49ab3536e11c3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123549978.jpg?k=2a5c954aa8c24fda80a727baab0da79d61a59d79038cb5bde60187d84708cb0f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/115966335.jpg?k=9ac4aaad825e2845ae55ce7bc77cb0a6917084681cf82a8c8d8f2a1d8974a8c4&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/115965927.jpg?k=c72fd6d6b8b180fa27167ef2d321f05278c5cd346a31afd68a1796d7a1176db6&o=&hp=1"
+    ],
+    "hotelServices": [
+      "1 piscine",
+      "Connexion Wi-Fi gratuite",
+      "Parking gratuit",
+      "Navette aéroport"
+    ]
+  },
+  {
+    "name": "Hôtel Hotel Royam",
     "mediaUrls": [
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/43485378.jpg?k=a92ebdd2b4bddf5b24e6f0ae420fe738aa6466d1a65da83fdb9649f709ed8df5&o=&hp=1",
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/39604711.jpg?k=5fbf686ee585fac337e9a5cc96b479f5319a90787bd863980611b88657d1b9d5&o=&hp=1",
@@ -2386,78 +1132,10 @@
       "Navette aéroport",
       "Chambres familiales",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.005887786576253, 14.43784845134611]
-    },
-    "address": {
-      "address": "Saly Portudal",
-      "additional": "Station Balnéaire, Saly 1 BP 843 Mbour",
-      "postal": 99999,
-      "coordinates": [14.43784845134611, -17.005887786576253]
-    },
-    "contact": {
-      "phone": "+221 77 286 28 96",
-      "email": "royam@orange.sn",
-      "url": "https://royam-hotel-saly.com/en/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Riad côté jardin",
-    "desc": "Situé à 1 km de la plage de M’bour, le Riad côté jardin propose des hébergements, une piscine extérieure, un bar, ainsi qu’une réception ouverte 24h/24, pour plus de commodité. Une connexion Wi-Fi est accessible gratuitement dans l'ensemble des locaux et la climatisation est disponible moyennant des frais supplémentaires. Un petit-déjeuner continental ou à la carte vous sera servi à l’appart'hôtel. Le Riad côté jardin possède aussi un barbecue, un jardin et une terrasse bien exposée. Le Palm Beach se trouve à 2,3 km des hébergements.",
-    "category": "hotel",
-    "rating": 8.6,
-    "reviews": 2,
-    "price": 22000,
-    "currency": "XOF",
+    "name": "Appart'hôtel Riad côté jardin",
     "mediaUrls": [
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192244641.jpg?k=0061b83354e5a4591956469a913134c4f335f18778af1ff908e34862b84fb54c&o=&hp=1",
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/191875006.jpg?k=b3f83bd41abbc66e5c32bd0be4bd037edebe53e003e5899824f33cadb6635939&o=&hp=1",
@@ -2501,78 +1179,10 @@
       "Navette aéroport",
       "Chambres familiales",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-16.9924495840364, 14.431968318275182]
-    },
-    "address": {
-      "address": "Saly Portudal",
-      "additional": "Piste des Charrettes",
-      "postal": 23002,
-      "coordinates": [14.431968318275182, -16.9924495840364]
-    },
-    "contact": {
-      "phone": "+221 78 453 75 35",
-      "email": "riadcotejardin@gmail.com",
-      "url": "https://web.facebook.com/Riad-C%C3%B4t%C3%A9-Jardin-%C3%A0-Saly-S%C3%A9n%C3%A9gal-150831252283934/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Amour Sénégal",
-    "desc": "La villa climatisée dispose d'un coin repas extérieur, d'un salon avec télévision par satellite et lecteur DVD, ainsi que de 5 chambres. La cuisine est équipée d'un four, d'une cuisinière et d'un réfrigérateur. Des épiceries et des restaurants vous attendent dans le centre de Ngaparou, à seulement 600 mètres de l'hébergement. Une connexion Wi-Fi gratuite est accessible dans l'ensemble de cet établissement qui peut organiser des excursions et un service de navette aéroport.",
-    "category": "hotel",
-    "rating": 8.3,
-    "reviews": 1,
-    "price": 110000,
-    "currency": "XOF",
+    "name": "B&B / Chambre d'hôtes Amour Sénégal",
     "mediaUrls": [
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/18869266.jpg?k=ef7865058023f3cb13692449c88f0cf2086f941c55f8e0a1775f83c874e5f423&o=&hp=1",
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294708361.jpg?k=cf785e42265ae67a36b110253f5ce6064eec65d438aa161d4f12c0b9487f303f&o=&hp=1",
@@ -2619,78 +1229,10 @@
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311329663.jpg?k=6c72b444907ade05bd1cc8e97d1af6f2cbea1786bb06c883322620f025e49d32&o=&hp=1",
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311329664.jpg?k=4a2a3d621b2689f6c301900370042b409529bc987eb6e8ec877cbb5cbc5a0d7d&o=&hp=1"
     ],
-    "hotelServices": ["1 piscines"],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.053595983051018, 14.456465105840575]
-    },
-    "address": {
-      "address": "Ngaparou",
-      "additional": "Route de Saly",
-      "postal": 10000,
-      "coordinates": [14.456465105840575, -17.053595983051018]
-    },
-    "contact": {
-      "phone": "+221 77 882 51 78",
-      "email": "amourprovence@gmail.com",
-      "url": "http://www.amoursenegal.com/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    "hotelServices": []
   },
   {
-    "name": "Le Clos Des Papillons",
-    "desc": "Situé à Saly Portudal, l'établissement Le Clos Des Papillons dispose d'une piscine extérieure, d'un restaurant et d'une connexion Wi-Fi gratuite. Les chambres comprennent la climatisation. Certaines offrent une vue sur le jardin. La réception est ouverte 24h/24. Vous pourrez aussi profiter d'un jardin, d'une terrasse ainsi que d'un parking gratuit. Par ailleurs, le Bed & Breakfast Le Clos Des Papillons se trouve à 3,1 km du parcours de golf de Saly. L'aéroport Blaise Diagne est accessible à 22 km.",
-    "category": "hotel",
-    "rating": 8.7,
-    "reviews": 1,
-    "price": 41000,
-    "currency": "XOF",
+    "name": "B&B / Chambre d'hôtes Le Clos Des Papillons",
     "mediaUrls": [
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/170854079.jpg?k=f0413e4763f32050a9d5e032ad1f1791a13e4dfa3fa1df470f60bb604c462890&o=&hp=1",
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/271586756.jpg?k=df65b799b78439a551f2f8efecdd206dd8b5a48d61bd5f9356b93cc8c6708e80&o=&hp=1",
@@ -2736,78 +1278,10 @@
       "Chambres familiales",
       "Parking gratuit",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-16.99957291374027, 14.436747391636082]
-    },
-    "address": {
-      "address": "Saly Portudal",
-      "additional": "Saly Niakh Niakhal",
-      "postal": 18524,
-      "coordinates": [14.436747391636082, -16.99957291374027]
-    },
-    "contact": {
-      "phone": "221 77 174 07 55",
-      "email": "clospapillons@gmail.com",
-      "url": "http://www.leclosdespapillonssenegal.com/"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   },
   {
-    "name": "Novotel Dakar",
-    "desc": "Le Novotel Dakar est situé dans le centre de Dakar, face à l'océan Atlantique et l'île historique de Gorée. Il propose une piscine extérieure, une salle de sport et un court de tennis. Les chambres sont spacieuses et décorées dans un style contemporain. Elles sont équipées d'une salle de bains privative et d'une télévision. Vous bénéficierez gratuitement d'une connexion Wi-Fi. Un petit-déjeuner est servi tous les matins. Vous pourrez déguster une cuisine régionale au restaurant. Après le dîner, vous pourrez vous détendre en savourant une boisson au bar ou dans les élégants salons climatisés de l'hôtel. Le Novotel Dakar se trouve à 5 minutes de la place de l'Indépendance et à 45 km de l'aéroport international Blaise Diagne. Un parking privé est à votre disposition sur place.",
-    "category": "hotel",
-    "rating": 7.2,
-    "reviews": 8,
-    "price": 121000,
-    "currency": "XOF",
+    "name": "Hôtel Novotel Dakar",
     "mediaUrls": [
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/251626832.jpg?k=8360cdb4ecc9c90d5784a42e55c2abfa0f5e508c6cb12c7cced811587f984a30&o=&hp=1",
       "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/150381532.jpg?k=b571ee4a48673690aeac33c1f36fbe592c276c6e624dfecb058f4741cc8c76dd&o=&hp=1",
@@ -2862,68 +1336,6 @@
       "Restaurant",
       "Parking",
       "Bar"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [-17.426742411258257, 14.669053720444532]
-    },
-    "address": {
-      "address": "Dakar",
-      "additional": "Avenue Abdoulaye Fadiga, BP 2073",
-      "postal": 18524,
-      "coordinates": [14.669053720444532, -17.426742411258257]
-    },
-    "contact": {
-      "phone": "+221 33 849 49 94",
-      "email": "dakar.reservation@accor.com",
-      "url": "https://all.accor.com/hotel/0529/index.en.shtml"
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": null,
-        "fermeture": null,
-        "open": true,
-        "all": true
-      }
-    },
-    "score": { "n": 0, "l": 0, "e": [0, 0, 0, 0, 0] },
-    "createdAt": null,
-    "updatedAt": null
+    ]
   }
 ]
