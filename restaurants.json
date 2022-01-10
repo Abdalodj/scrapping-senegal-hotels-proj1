@@ -27,7 +27,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.51021620000006,
+        14.7455586
+      ]
     },
     "address": {
       "address": "Almadies",
@@ -36,13 +39,15 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.7455586,
+        -17.51021620000006
+      ]
     },
     "contact": {
       "phone": [
         "+221338606878",
-        "Delivery to 783147474 or 338593828",
-        "Landline: 338606878"
+        "Livraison 783147474 ou 338593828"
       ],
       "email": [],
       "url": [
@@ -128,20 +133,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.504127,
+        14.752951
+      ]
     },
     "address": {
       "address": "Almadies",
       "additional": [
-        "Route de l’Aéroport Derrière le Casino du Cap Vert",
-        ""
+        "Route de l’Aéroport Derrière le Casino du Cap Vert"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.752951,
+        -17.504127
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 76 730 21 20"
+        "+221 76 730 21 20"
       ],
       "email": [],
       "url": [
@@ -234,7 +244,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.515628,
+        14.74016
+      ]
     },
     "address": {
       "address": "Almadies",
@@ -243,7 +256,10 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.74016,
+        -17.515628
+      ]
     },
     "contact": {
       "phone": [
@@ -303,105 +319,6 @@
     "updatedAt": null
   },
   {
-    "name": "AM – Gelato",
-    "desc": [
-      "Si vous desirez deguster de la bonne glace 100% italienne fais avec des produits fraits, il vous suffit juste d’aller à une seule adresse A&M Gelato.",
-      " "
-    ],
-    "category": "restaurant",
-    "price": 1000,
-    "mediaUrls": [
-      "https://anaresto.com/wp-content/uploads/2017/10/AMgelato14-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/10/AMgelato1-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/10/AMgelato2-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/10/AMgelato3-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/10/AMgelato4-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/10/AMgelato6-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/10/AMgelato7-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/10/AMgelato8-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/10/AMgelato5-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/10/AMGelato13-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/10/AMgelato16-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/10/AMgelato11-555x415.jpg"
-    ],
-    "services": [
-      "Parking",
-      "Terrasse",
-      "Wi-Fi gratuit"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [0, 0]
-    },
-    "address": {
-      "address": "Liberté 6",
-      "additional": [
-        "VDN, Liberté 6 Extension Cité CPI",
-        "Dakar,"
-      ],
-      "postal": "",
-      "coordinates": [0, 0]
-    },
-    "contact": {
-      "phone": [
-        "Appeler +221 78 014 25 27"
-      ],
-      "email": [],
-      "url": [
-        "https://www.facebook.com/Atelier.de.la.glace/"
-      ]
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": "11H:00",
-        "fermeture": "00H:00",
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": "11H:00",
-        "fermeture": "00H:00",
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": "11H:00",
-        "fermeture": "00H:00",
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": "11H:00",
-        "fermeture": "00H:00",
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": "11H:00",
-        "fermeture": "02H:00",
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": "11H:00",
-        "fermeture": "02H:00",
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": "15H:00",
-        "fermeture": "02H:00",
-        "open": true,
-        "all": true
-      }
-    },
-    "score": {
-      "n": 0, "l": 0, "e": [0, 0, 0, 0, 0]
-    },
-    "createdAt": null,
-    "updatedAt": null
-  },
-  {
     "name": "Aroma",
     "desc": [
       "Aroma est un Salon de thé/Café/Pâtisserie se trouvant aux Almadies. En effet, ce salon propose des pâtisseries, plats salés, café, thé dans une ambiance lumineuse et cosy. Vous pourrez y trouver des bagels au saumon notamment, des salades, des sandwitch et autres… N’hesitez pas à jeter un coup d’oeil sur leur carte de menu dans les photos."
@@ -431,20 +348,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.508652,
+        14.735917
+      ]
     },
     "address": {
       "address": "Almadies",
       "additional": [
-        "Route des Almadies, à 100m de la UBA",
-        ""
+        "Route des Almadies, à 100m de la UBA"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.735917,
+        -17.508652
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 820 50 03"
+        "+221 33 820 50 03"
       ],
       "email": [],
       "url": [
@@ -504,8 +426,7 @@
   {
     "name": "Au Paname",
     "desc": [
-      "Au Paname, le nom laisserait croire que c’est un restaurant situé à Paris mais c’est bien un Fast Food à Dakar. Ils proposent les délices du Sénégal. L’accueil est chaleureux, la carte est très variée (des Fast food, au Dibi, en passant par les pizza et les plats locaux), l’ambiance est sympa et les locaux sont très propres. Vous trouverez les menus parmi les photos de cette page.",
-      " "
+      "Au Paname, le nom laisserait croire que c’est un restaurant situé à Paris mais c’est bien un Fast Food à Dakar. Ils proposent les délices du Sénégal. L’accueil est chaleureux, la carte est très variée (des Fast food, au Dibi, en passant par les pizza et les plats locaux), l’ambiance est sympa et les locaux sont très propres. Vous trouverez les menus parmi les photos de cette page."
     ],
     "category": "restaurant",
     "price": 3000,
@@ -529,24 +450,29 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.472399,
+        14.742017
+      ]
     },
     "address": {
       "address": "Ouest-Foire",
       "additional": [
-        "91 rond point sipres vdn Central Dakar",
-        ""
+        "91 rond point sipres vdn Central Dakar"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.742017,
+        -17.472399
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 77 867 09 09"
+        "+221 77 867 09 09"
       ],
       "email": [],
       "url": [
-        "https://www.facebook.com/aupanamedakar/"
+        "https://www.facebook.com/aupanamedakar/ "
       ]
     },
     "schedule": {
@@ -603,8 +529,7 @@
     "name": "Aux Fins Palais",
     "desc": [
       "Aux Fins Palais vous propose une cuisine variée. En effet, ils propose les plats d’un restaurant, d’une Boulangerie et d’une Pâtisserie.",
-      "Ainsi, ils servent les menus suivants: petit-déjeuner, déjeuner, café et boissons",
-      " "
+      "Ainsi, ils servent les menus suivants: petit-déjeuner, déjeuner, café et boissons"
     ],
     "category": "restaurant",
     "price": 4000,
@@ -630,7 +555,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.440109,
+        14.669908
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
@@ -639,7 +567,10 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.669908,
+        -17.440109
+      ]
     },
     "contact": {
       "phone": [
@@ -732,20 +663,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.510929,
+        14.750946
+      ]
     },
     "address": {
       "address": "Ngor",
       "additional": [
-        "Ngor Village",
-        ""
+        "Ngor Village"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.750946,
+        -17.510929
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 77 681 38 88"
+        "+221 77 681 38 88"
       ],
       "email": [],
       "url": [
@@ -831,7 +767,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.468545,
+        14.724622
+      ]
     },
     "address": {
       "address": "Sacré-coeur",
@@ -840,11 +779,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.724622,
+        -17.468545
+      ]
     },
     "contact": {
       "phone": [
-        "Appeler +221 78 120 20 30"
+        "+221 78 120 20 30"
       ],
       "email": [],
       "url": [
@@ -931,20 +873,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.435936,
+        14.666415
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
       "additional": [
-        "Avenue de La République, en face du Café De Rome",
-        ""
+        "Avenue de La République, en face du Café De Rome"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.666415,
+        -17.435936
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 823 84 00"
+        "+221 33 823 84 00"
       ],
       "email": [],
       "url": []
@@ -1039,7 +986,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.516758200000027,
+        14.7393276
+      ]
     },
     "address": {
       "address": "Almadies",
@@ -1048,11 +998,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.7393276,
+        -17.516758200000027
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 820 92 38"
+        "+221 33 820 92 38"
       ],
       "email": [],
       "url": [
@@ -1139,21 +1092,26 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.436916,
+        14.66713
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
       "additional": [
-        "143, Avenue Lamine Gueye, Building Maginot",
-        ""
+        "143, Avenue Lamine Gueye, Building Maginot"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.66713,
+        -17.436916
+      ]
     },
     "contact": {
       "phone": [
         "000000000",
-        "Tel: +221 33 821 96 37"
+        "+221 33 821 96 37"
       ],
       "email": [],
       "url": [
@@ -1263,20 +1221,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.429913,
+        14.67209
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
       "additional": [
-        "10 Rue Ramez Bourgi Dakar, Sénégal",
-        ""
+        "10 Rue Ramez Bourgi Dakar, Sénégal"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.67209,
+        -17.429913
+      ]
     },
     "contact": {
       "phone": [
-        "Tél. 33 822 00 10 /33 822 00 20"
+        "+22133 822 00 10"
       ],
       "email": [
         "classicburger@orange.sn"
@@ -1365,16 +1328,21 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.517046,
+        14.740449
+      ]
     },
     "address": {
       "address": "Almadies",
       "additional": [
-        "Corniche des Almadies",
-        ""
+        "Corniche des Almadies"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.740449,
+        -17.517046
+      ]
     },
     "contact": {
       "phone": [],
@@ -1460,20 +1428,25 @@
     "services": [],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.437142,
+        14.668685
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
       "additional": [
-        "117 Avenue Lamine Guèye",
-        ""
+        "117 Avenue Lamine Guèye"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.668685,
+        -17.437142
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 821 07 63"
+        "+221 33 821 07 63"
       ],
       "email": [
         "email: cherine927@hotmail.fr"
@@ -1571,7 +1544,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.43655,
+        14.661068
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
@@ -1580,7 +1556,10 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.661068,
+        -17.43655
+      ]
     },
     "contact": {
       "phone": [
@@ -1642,103 +1621,6 @@
     "updatedAt": null
   },
   {
-    "name": "Dietymeals Dakar",
-    "desc": [
-      "Dietymeals Dakar est un concept de Service traiteur qui vous propose des menus Diet élaborés par A.Achouata Chamor diététicienne-nutritionniste.",
-      "Dietymeals Dakar n’est pas un restaurant physique , A.Achouata Chamor habite en centre-ville et fait des livraisons.",
-      "Avec DIETYmeals vous pouvez manger bon et sain"
-    ],
-    "category": "restaurant",
-    "price": 8000,
-    "mediaUrls": [
-      "https://anaresto.com/wp-content/uploads/2018/02/dietmeals10-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/dietmeals12-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/dietmeals3-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/dietmeals11-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/dietmeals14-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/dietmeals13-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/dietmeals9-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/dietmeals2-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/dietmeals4-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/dietmeals6-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/dietmeals7-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/dietmeals5-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/dietmeals8-555x415.jpg"
-    ],
-    "services": [
-      "Service de livraison"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [0, 0]
-    },
-    "address": {
-      "address": "Dakar Centre Ville",
-      "additional": [
-        "Centre Ville",
-        ""
-      ],
-      "postal": "",
-      "coordinates": [0, 0]
-    },
-    "contact": {
-      "phone": [
-        "Pour commander Appelez au 707765981 où inbox\nOn vous livre au lieu qui vous convient bureau maison etc …"
-      ],
-      "email": [],
-      "url": []
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": "24/7",
-        "fermeture": "24/7",
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": "07:00",
-        "fermeture": "23:00",
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": "07:00",
-        "fermeture": "23:00",
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": "07:00",
-        "fermeture": "23:00",
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": "07:00",
-        "fermeture": "23:00",
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": "07:00",
-        "fermeture": "23:00",
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": "07:00",
-        "fermeture": "23:00",
-        "open": true,
-        "all": true
-      }
-    },
-    "score": {
-      "n": 0, "l": 0, "e": [0, 0, 0, 0, 0]
-    },
-    "createdAt": null,
-    "updatedAt": null
-  },
-  {
     "name": "Esprit Sushi Dakar",
     "desc": [
       "Esprit Sushi Dakar est un Restaurant japonais qui propose un large choix avec des recettes classiques et originales.\nEsprit Sushi propose la livraison, à emporter et sur place dans un cadre moderne et convivial."
@@ -1780,7 +1662,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.43279,
+        14.674175
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
@@ -1789,11 +1674,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.674175,
+        -17.43279
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 821 70 00"
+        "+221 33 821 70 00"
       ],
       "email": [],
       "url": []
@@ -1851,8 +1739,7 @@
   {
     "name": "Feel Pasta",
     "desc": [
-      "Feel Pasta est un restaurant qui propose de la restauration rapide. Ce restaurant se trouve au niveau de Tally américaine en face lycée français Jean Mermoz, plus précisément à Ouakam. Venez découvrir des formules de pâtes avec des compositions diverses et variés ainsi que des bagels, des sandwitch, des sushis, des paninis et de bons desserts. N’hésitez pas à y faire un tour et laisser des commentaires.",
-      " "
+      "Feel Pasta est un restaurant qui propose de la restauration rapide. Ce restaurant se trouve au niveau de Tally américaine en face lycée français Jean Mermoz, plus précisément à Ouakam. Venez découvrir des formules de pâtes avec des compositions diverses et variés ainsi que des bagels, des sandwitch, des sushis, des paninis et de bons desserts. N’hésitez pas à y faire un tour et laisser des commentaires."
     ],
     "category": "restaurant",
     "price": 2000,
@@ -1872,20 +1759,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.487075,
+        14.719803
+      ]
     },
     "address": {
       "address": "Ouakam",
       "additional": [
-        "Tally américaine en face lycée français Jean Mermoz",
-        ""
+        "Tally américaine en face lycée français Jean Mermoz"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.719803,
+        -17.487075
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: 00221 33 860 15 16"
+        "+221 33 860 15 16"
       ],
       "email": [
         "Mail: feelpasta@gmail.com"
@@ -1969,7 +1861,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.466488,
+        14.716917
+      ]
     },
     "address": {
       "address": "Sacré-coeur",
@@ -1978,11 +1873,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.716917,
+        -17.466488
+      ]
     },
     "contact": {
       "phone": [
-        "Appeler +221 77 464 04 54"
+        "+221 77 464 04 54"
       ],
       "email": [],
       "url": []
@@ -2060,7 +1958,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.435185,
+        14.6671
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
@@ -2069,11 +1970,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.6671,
+        -17.435185
+      ]
     },
     "contact": {
       "phone": [
-        "Appeler +221 33 821 60 00"
+        "+221 33 821 60 00"
       ],
       "email": [],
       "url": [
@@ -2156,20 +2060,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.435048,
+        14.667347
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
       "additional": [
-        "Rue Moussé Diop x Rue Jules Ferry",
-        ""
+        "Rue Moussé Diop x Rue Jules Ferry"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.667347,
+        -17.435048
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: 00221 33 842 90 02"
+        "+221 33 842 90 02"
       ],
       "email": [],
       "url": [
@@ -2265,20 +2174,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.456957,
+        14.70173
+      ]
     },
     "address": {
       "address": "Sicap Amitié",
       "additional": [
-        "Sicap Amitié 3 Villa n° 4436",
-        ""
+        "Sicap Amitié 3 Villa n° 4436"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.70173,
+        -17.456957
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 825 80 81"
+        "+221 33 825 80 81"
       ],
       "email": [],
       "url": []
@@ -2380,7 +2294,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.473264,
+        14.7083
+      ]
     },
     "address": {
       "address": "Sacré-coeur",
@@ -2389,11 +2306,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.7083,
+        -17.473264
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: 33-825-4095 /77-403-2708"
+        "+221 33 825 40 95 / +221 77 403 27 08"
       ],
       "email": [
         "info@gogoscupcake.com"
@@ -2455,7 +2375,7 @@
   {
     "name": "Jet Café Beach",
     "desc": [
-      "Jet Café Beach est situé sur la petite corniche des Almadies à Dakar en bord de mer. Nous sommes heureux de vous accueillir dans une ambiance estivale pour tous vos banquets, mariages ou tout simplement pour déguster en famille ou entre amis nos plats de la cuisine française et des plats traditionnels du Sénégal.\nL’établissement Jet Café Beach a une très bonne capacité d’accueil, et constitué de trois espaces:\nune terrasse avec piscine à eau de mer, une salle climatisée et un rooftop bar, le tout surplombant l’océan atlantique.\nLe restaurant est conçu pour une ambiance chique et décontractée.",
+      "Jet Café Beach est situé sur la petite corniche des Almadies à Dakar en bord de mer. Nous sommes heureux de vous accueillir dans une ambiance estivale pour tous vos banquets, mariages ou tout simplement pour déguster en famille ou entre amis nos plats de la cuisine française et des plats traditionnels du Sénégal.\nL’établissement Jet Café Beach a une très bonne capacité d’accueil, et constitué de trois espaces une terrasse avec piscine à eau de mer, une salle climatisée et un rooftop bar, le tout surplombant l’océan atlantique.\nLe restaurant est conçu pour une ambiance chique et décontractée.",
       "Nous vous proposons également notre service traiteur pour tous vos repas de 2 à 500 personnes livré à domicile sur un vaste secteur.",
       "Site Internet"
     ],
@@ -2484,24 +2404,29 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.519824,
+        14.741616
+      ]
     },
     "address": {
       "address": "petite corniche",
       "additional": [
-        "Petite Corniche des Almadies, pas Loin de Chez Fatou",
-        ""
+        "Petite Corniche des Almadies, pas Loin de Chez Fatou"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.741616,
+        -17.519824
+      ]
     },
     "contact": {
       "phone": [
-        "Réservation restaurant:\n77 521 26 48",
-        "Organisation d’événements privés:\n77 536 13 63"
+        "Réservation restaurant 77 521 26 48",
+        "Organisation d’événements privés 77 536 13 63"
       ],
       "email": [
-        "Email:\nTAKEAWAYJCB@GMAIL.COM"
+        "Email TAKEAWAYJCB@GMAIL.COM"
       ],
       "url": [
         "http://jetcafebeach.com "
@@ -2581,7 +2506,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.507139,
+        14.754408
+      ]
     },
     "address": {
       "address": "Ngor",
@@ -2590,11 +2518,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.754408,
+        -17.507139
+      ]
     },
     "contact": {
       "phone": [
-        "Téléphone : +221 33 820 80 82"
+        "+221 33 820 80 82"
       ],
       "email": [
         "katia2009@orange.com"
@@ -2675,20 +2606,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.469512,
+        14.706096
+      ]
     },
     "address": {
       "address": "VDN",
       "additional": [
-        "4440 Amitié 3 VDN Dakar",
-        ""
+        "4440 Amitié 3 VDN Dakar"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.706096,
+        -17.469512
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 824 64 25"
+        "+221 33 824 64 25"
       ],
       "email": [],
       "url": []
@@ -2777,20 +2713,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.457257,
+        14.718891
+      ]
     },
     "address": {
       "address": "Almadies",
       "additional": [
-        "Croisement Ngor Almadie Dakar",
-        ""
+        "Croisement Ngor Almadie Dakar"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.718891,
+        -17.457257
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 820 59 20"
+        "+221 33 820 59 20"
       ],
       "email": [
         "Contact:  diayma@labriochedoree.org"
@@ -2848,102 +2789,6 @@
     "updatedAt": null
   },
   {
-    "name": "La cocotte restaurant traiteur",
-    "desc": [
-      "La cocotte est un traiteur qui se trouve à Sicap. Ce traiteur vous propose des menus riches et variés du lundi au samedi. Faites vous livrer gratuitement au bureau ou à la maison."
-    ],
-    "category": "restaurant",
-    "price": 2000,
-    "mediaUrls": [
-      "https://anaresto.com/wp-content/uploads/2017/06/cocotte3-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/06/cocotte19-539x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/06/cocotte18-555x415.jpeg",
-      "https://anaresto.com/wp-content/uploads/2017/06/cocotte5-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/06/cocotte4.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/06/cocotte2-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/06/11.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/06/cocotte9.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/06/cocotte8-500x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/06/cocotte7-409x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/06/cocotte15-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2017/06/cocotte20-555x415.jpg"
-    ],
-    "services": [
-      "Service de livraison"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [0, 0]
-    },
-    "address": {
-      "address": "Dieuppeul",
-      "additional": [
-        "Sicap Dieuppeul 3",
-        ""
-      ],
-      "postal": "",
-      "coordinates": [0, 0]
-    },
-    "contact": {
-      "phone": [
-        "Faites nous confiance pour vos événements on gère tous\n-Buffet\n-Cocktail\n-Anniversaire\n-Mariages\n-Baptême\n-Ganalé\n-Décorations\n-Pause-café\n-Déjeuner …\nService traiteur au complet\nTel: 778071122"
-      ],
-      "email": [],
-      "url": [
-        "https://www.facebook.com/cocottesenegal/"
-      ]
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": "09H:00",
-        "fermeture": "17H:00",
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": "09H:00",
-        "fermeture": "17H:00",
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": "09H:00",
-        "fermeture": "17H:00",
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": "09H:00",
-        "fermeture": "17H:00",
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": "09H:00",
-        "fermeture": "17H:00",
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": "09H:00",
-        "fermeture": "17H:00",
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": "07:00",
-        "fermeture": "23:00",
-        "open": true,
-        "all": true
-      }
-    },
-    "score": {
-      "n": 0, "l": 0, "e": [0, 0, 0, 0, 0]
-    },
-    "createdAt": null,
-    "updatedAt": null
-  },
-  {
     "name": "La Maison de Celine",
     "desc": [
       "La maison de Celine:",
@@ -2976,7 +2821,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.518064,
+        14.746216
+      ]
     },
     "address": {
       "address": "Ngor",
@@ -2985,12 +2833,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.746216,
+        -17.518064
+      ]
     },
     "contact": {
       "phone": [
-        "+221770998733",
-        "Tel: +221 77 099 87 33"
+        "+221 77 099 87 33"
       ],
       "email": [
         "lamaisondecelinealmadies@gmail.com"
@@ -3050,8 +2900,7 @@
   {
     "name": "La marée – chez Adji",
     "desc": [
-      "La marée, Chez Adji est l’endroit ou il faut être pour se faire plaisir en matière de fruit de mer. Situé en terrasse surplombant la jolie plage des Almadies, la vue sur l’océan Atlantique est imprenable.\nLarge choix de fruits de mer: Moules, coques, bernique, huîtres, oursins, Saint Jaques, poissons, calamar, crevettes, gambas… le paradis si vous en êtes amateurs. En plus, vraiment pas cher du tout.",
-      " "
+      "La marée, Chez Adji est l’endroit ou il faut être pour se faire plaisir en matière de fruit de mer. Situé en terrasse surplombant la jolie plage des Almadies, la vue sur l’océan Atlantique est imprenable.\nLarge choix de fruits de mer: Moules, coques, bernique, huîtres, oursins, Saint Jaques, poissons, calamar, crevettes, gambas… le paradis si vous en êtes amateurs. En plus, vraiment pas cher du tout."
     ],
     "category": "restaurant",
     "price": 6000,
@@ -3076,20 +2925,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.528633,
+        14.746882
+      ]
     },
     "address": {
       "address": "Almadies",
       "additional": [
-        "Pointe des Almadies",
-        ""
+        "Pointe des Almadies"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.746882,
+        -17.528633
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 77 550 73 58 /+221 33 820 06 80"
+        "+221 77 550 73 58 / +221 33 820 06 80"
       ],
       "email": [],
       "url": [
@@ -3181,7 +3035,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.430321,
+        14.670849
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
@@ -3190,11 +3047,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.670849,
+        -17.430321
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: 33 889 50 70 /71"
+        "+22133 889 50 70 / 71"
       ],
       "email": [
         "mail: lapampagrill@gmail.com"
@@ -3284,7 +3144,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.433867,
+        14.671489
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
@@ -3293,11 +3156,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.671489,
+        -17.433867
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 822 94 87"
+        "+221 33 822 94 87"
       ],
       "email": [],
       "url": []
@@ -3377,20 +3243,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.475845,
+        14.757469
+      ]
     },
     "address": {
       "address": "Yoff",
       "additional": [
-        "Rond point Yoff, Dakar",
-        ""
+        "Rond point Yoff, Dakar"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.757469,
+        -17.475845
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 78 132 33 71"
+        "+221 78 132 33 71"
       ],
       "email": [],
       "url": []
@@ -3472,20 +3343,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.43541,
+        14.66929
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
       "additional": [
-        "89, rue Joseph Gomis, Jardin de l'institut Français de Dakar,",
-        ""
+        "89, rue Joseph Gomis, Jardin de l'institut Français de Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.66929,
+        -17.43541
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 823 19 09"
+        "+221 33 823 19 09"
       ],
       "email": [],
       "url": []
@@ -3566,20 +3442,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.457846,
+        14.696145
+      ]
     },
     "address": {
       "address": "Point E",
       "additional": [
-        "Boulevard de l'EST X rue de kaolack, à côté de la SGBS",
-        ""
+        "Boulevard de l'EST X rue de kaolack, à côté de la SGBS"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.696145,
+        -17.457846
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 76 644 64 04"
+        "+221 76 644 64 04"
       ],
       "email": [
         "contact: info@lecolorado.com"
@@ -3668,7 +3549,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.464686,
+        14.724112
+      ]
     },
     "address": {
       "address": "Sacré-coeur",
@@ -3677,7 +3561,10 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.724112,
+        -17.464686
+      ]
     },
     "contact": {
       "phone": [
@@ -3685,7 +3572,7 @@
       ],
       "email": [],
       "url": [
-        "Page Facebook: https://www.facebook.com/Le-Comptoir-fastfood-1595318084015851/"
+        "Page Facebook: https://www.facebook.com/Le-Comptoir-fastfood-1595318084015851/ "
       ]
     },
     "schedule": {
@@ -3763,20 +3650,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.432,
+        14.669972
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
       "additional": [
-        "1, Place de l'indépendance",
-        ""
+        "1, Place de l'indépendance"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.669972,
+        -17.432
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: (221) 33 822 54 55"
+        "(221) 33 822 54 55"
       ],
       "email": [
         "adresse email: lecoste@lecoste.sn"
@@ -3868,7 +3760,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.428778,
+        14.672251
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
@@ -3877,11 +3772,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.672251,
+        -17.428778
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 822 20 80"
+        "+221 33 822 20 80"
       ],
       "email": [],
       "url": [
@@ -3972,7 +3870,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.527942,
+        14.74595
+      ]
     },
     "address": {
       "address": "Almadies",
@@ -3981,11 +3882,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.74595,
+        -17.527942
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 820 09 11"
+        "+221 33 820 09 11"
       ],
       "email": [
         "Email:  ledionevar@gmail.com"
@@ -4071,7 +3975,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.436027,
+        14.667607
+      ]
     },
     "address": {
       "address": "Corniche",
@@ -4080,7 +3987,10 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.667607,
+        -17.436027
+      ]
     },
     "contact": {
       "phone": [],
@@ -4171,7 +4081,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.434617,
+        14.671183
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
@@ -4180,7 +4093,10 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.671183,
+        -17.434617
+      ]
     },
     "contact": {
       "phone": [
@@ -4278,7 +4194,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.528050000000007,
+        14.745463
+      ]
     },
     "address": {
       "address": "Almadies",
@@ -4287,11 +4206,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.745463,
+        -17.528050000000007
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 820 77 03 ou + 221 78 128 92 92"
+        "+221 33 820 77 03 ou + 221 78 128 92 92"
       ],
       "email": [],
       "url": []
@@ -4374,7 +4296,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.455497,
+        14.726172
+      ]
     },
     "address": {
       "address": "Derklé",
@@ -4383,11 +4308,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.726172,
+        -17.455497
+      ]
     },
     "contact": {
       "phone": [
-        "Le Maréchal, en plein coeur de Derklé-Dakar vous accueille tous les jours. Venez, ainsi, découvrir nos spécialités TRAITEUR-DIBITERIE-FAST FOOD ou faites vous livrer au 783086464 /779492089."
+        "Le Maréchal, en plein coeur de Derklé-Dakar vous accueille tous les jours. Venez, ainsi, découvrir nos spécialités TRAITEUR-DIBITERIE-FAST FOOD ou faites vous livrer au 783086464 / 779492089."
       ],
       "email": [],
       "url": [
@@ -4447,8 +4375,7 @@
   {
     "name": "Le Mashawi",
     "desc": [
-      "Le Mashawi est un restaurant libanais se trouvant à Dakar Plateau. Venez, donc, découvrir la fameuse cuisine libanaise et faites une traversée gustative qui vous ramènera directement à Beyrouth. Falafel, mezzé, taboulé, caviar d’aubergine, hummus… des noms ainsi que des saveurs qui font rêver. Enfin, Le personnel est très accueillant et est à l’écoute des moindres demandes des clients.",
-      " "
+      "Le Mashawi est un restaurant libanais se trouvant à Dakar Plateau. Venez, donc, découvrir la fameuse cuisine libanaise et faites une traversée gustative qui vous ramènera directement à Beyrouth. Falafel, mezzé, taboulé, caviar d’aubergine, hummus… des noms ainsi que des saveurs qui font rêver. Enfin, Le personnel est très accueillant et est à l’écoute des moindres demandes des clients."
     ],
     "category": "restaurant",
     "price": 5000,
@@ -4471,16 +4398,21 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.437688,
+        14.669349
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
       "additional": [
-        "1 Rue Amadou Assane, Ndoye",
-        ""
+        "1 Rue Amadou Assane, Ndoye"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.669349,
+        -17.437688
+      ]
     },
     "contact": {
       "phone": [
@@ -4580,20 +4512,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.46535,
+        14.698995
+      ]
     },
     "address": {
       "address": "Point E",
       "additional": [
-        "Rue A après La gondole",
-        ""
+        "Rue A après La gondole"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.698995,
+        -17.46535
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: 00221 33 865 96 81 /77 873 05 05"
+        "+221 33 865 96 81 / 77 873 05 05"
       ],
       "email": [
         "Mail: lephenixjardin@gmail.com"
@@ -4679,7 +4616,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.494945,
+        14.755028
+      ]
     },
     "address": {
       "address": "Ngor",
@@ -4688,11 +4628,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.755028,
+        -17.494945
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: 338209469 /766694817"
+        "+221338209469 / 766694817"
       ],
       "email": [],
       "url": [
@@ -4753,8 +4696,7 @@
     "name": "Le Seoul",
     "desc": [
       "Le Seoul est le plus connu des restaurants asiatique de Dakar. Il propose ainsi, la cuisine asiatique en plein coeur de Dakar.",
-      "Contacts:",
-      " "
+      "Contacts:"
     ],
     "category": "restaurant",
     "price": 3000,
@@ -4771,24 +4713,30 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.436843,
+        14.669406
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
       "additional": [
-        "Centre ville /75, Rue Amadou Assane Ndoye (en face Hotel Ganale)",
+        "Centre ville / 75, Rue Amadou Assane Ndoye (en face Hotel Ganale)",
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.669406,
+        -17.436843
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 822 90 00"
+        "+221 33 822 90 00"
       ],
       "email": [],
       "url": [
-        "https://www.facebook.com/leseoul.sn/"
+        "https://www.facebook.com/leseoul.sn/ "
       ]
     },
     "schedule": {
@@ -4844,7 +4792,7 @@
   {
     "name": "LGM – Le Glacier Moderne",
     "desc": [
-      "Le glacier moderne LGM est un restaurant Glacier qui se trouve au POINT E /SENEGAL.",
+      "Le glacier moderne LGM est un restaurant Glacier qui se trouve au POINT E / SENEGAL.",
       "Contacts:"
     ],
     "category": "restaurant",
@@ -4873,7 +4821,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.457188,
+        14.697889
+      ]
     },
     "address": {
       "address": "Point E",
@@ -4882,7 +4833,10 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.697889,
+        -17.457188
+      ]
     },
     "contact": {
       "phone": [
@@ -4978,7 +4932,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.47412,
+        14.724809
+      ]
     },
     "address": {
       "address": "Sacré-coeur",
@@ -4987,11 +4944,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.724809,
+        -17.47412
+      ]
     },
     "contact": {
       "phone": [
-        "Appeler +221 78 156 77 43"
+        "+221 78 156 77 43"
       ],
       "email": [],
       "url": [
@@ -5049,105 +5009,6 @@
     "updatedAt": null
   },
   {
-    "name": "Lunch DKR",
-    "desc": [
-      "LUNCH DKR est un restaurant, Fast Food, Pizzeria qui a ouvert ses portes à Dakar.",
-      "Spécialités: TACOS et TORTILLA\nVenez tester, venez goûter, venez déguster nos fameux tacos, tortillas Chicken chicka, chicken curry, Kebab et plein d’autres plats",
-      "Faites vous livrez  au:"
-    ],
-    "category": "restaurant",
-    "price": 2500,
-    "mediaUrls": [
-      "https://anaresto.com/wp-content/uploads/2018/02/lunchDkr1-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/lunchDkr2-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/lunchDkr4-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/lunchDkr5-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/lunchDkr3-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/lunchDkr6-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/lunchDkr7-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/lunchDkr11-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/lunchDkr9-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/lunchDkr10-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/lunchDkr12-555x415.jpg",
-      "https://anaresto.com/wp-content/uploads/2018/02/lunchDkr8-555x415.jpg"
-    ],
-    "services": [
-      "Parking",
-      "Plats à emporter",
-      "Service de livraison"
-    ],
-    "position": {
-      "type": "Point",
-      "coordinates": [0, 0]
-    },
-    "address": {
-      "address": "Face à la cité des enseignants après le dépôt Dakar DEM DIKK en direction de Ouakam",
-      "additional": [
-        "Dakar,"
-      ],
-      "postal": "",
-      "coordinates": [0, 0]
-    },
-    "contact": {
-      "phone": [
-        "338603353 ou 778803833 🚦🛵🚦🛵🚦"
-      ],
-      "email": [],
-      "url": [
-        "https://www.facebook.com/lunchdkr93/"
-      ]
-    },
-    "schedule": {
-      "lundi": {
-        "ouverture": "12H:00",
-        "fermeture": "00H:00",
-        "open": true,
-        "all": true
-      },
-      "mardi": {
-        "ouverture": "12H:00",
-        "fermeture": "00H:00",
-        "open": true,
-        "all": true
-      },
-      "mercredi": {
-        "ouverture": "12H:00",
-        "fermeture": "00H:00",
-        "open": true,
-        "all": true
-      },
-      "jeudi": {
-        "ouverture": "12H:00",
-        "fermeture": "00H:00",
-        "open": true,
-        "all": true
-      },
-      "vendredi": {
-        "ouverture": "12H:00",
-        "fermeture": "02H:00",
-        "open": true,
-        "all": true
-      },
-      "samedi": {
-        "ouverture": "11H:00",
-        "fermeture": "02H:00",
-        "open": true,
-        "all": true
-      },
-      "dimanche": {
-        "ouverture": "12H:00",
-        "fermeture": "00H:00",
-        "open": true,
-        "all": true
-      }
-    },
-    "score": {
-      "n": 0, "l": 0, "e": [0, 0, 0, 0, 0]
-    },
-    "createdAt": null,
-    "updatedAt": null
-  },
-  {
     "name": "Maharaja Restaurant Dakar",
     "desc": [
       "Maharaja restaurant est un restaurant Indien situé à Ngor Virage, Villa n 05 Dakar sur la route de l’ancienne Aéroport. Nous servons le petit-déjeuner, le déjeuner, le dîner, boissons et café",
@@ -5170,7 +5031,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.49396,
+        14.754326
+      ]
     },
     "address": {
       "address": "Almadies",
@@ -5179,11 +5043,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.754326,
+        -17.49396
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 76 606 17 27 ou 338606163 "
+        "+221 76 606 17 27 ou 338606163 "
       ],
       "email": [
         "maharajadakar123@gmail.com"
@@ -5285,7 +5152,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.429808,
+        14.671979
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
@@ -5294,11 +5164,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.671979,
+        -17.429808
+      ]
     },
     "contact": {
       "phone": [
-        "Tel:  33 823 06 05 /33 822 24 42 /77 822 24 42"
+        " 33 823 06 05 / 33 822 24 42 / 77 822 24 42"
       ],
       "email": [
         "mailing@sortiradakar.com"
@@ -5389,7 +5262,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.502152,
+        14.753773
+      ]
     },
     "address": {
       "address": "Almadies",
@@ -5398,12 +5274,15 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.753773,
+        -17.502152
+      ]
     },
     "contact": {
       "phone": [
         "+221338200330",
-        "Tel: (+221)33 820 03 30",
+        "(+221)33 820 03 30",
         " Info/Résa: (+221)77 230 77 68"
       ],
       "email": [
@@ -5497,7 +5376,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.493716,
+        14.72759
+      ]
     },
     "address": {
       "address": "Ouakam",
@@ -5506,11 +5388,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.72759,
+        -17.493716
+      ]
     },
     "contact": {
       "phone": [
-        "Appeler +221 33 860 10 09"
+        "+221 33 860 10 09"
       ],
       "email": [],
       "url": [
@@ -5602,7 +5487,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.435052,
+        14.668874
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
@@ -5611,11 +5499,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.668874,
+        -17.435052
+      ]
     },
     "contact": {
       "phone": [
-        "Appeler +221 33 823 16 23"
+        "+221 33 823 16 23"
       ],
       "email": [
         "email: lemokaidakar@yahoo.fr"
@@ -5704,7 +5595,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.438955,
+        14.674358
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
@@ -5713,7 +5607,10 @@
         "Dakar,BP 1260"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.674358,
+        -17.438955
+      ]
     },
     "contact": {
       "phone": [
@@ -5801,20 +5698,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.519576,
+        14.742662
+      ]
     },
     "address": {
       "address": "Almadies",
       "additional": [
-        "Rue du Meridien Ngor /Almadies, derriere le Palais de Bureaux PhilipMorris",
-        ""
+        "Rue du Meridien Ngor / Almadies, derriere le Palais de Bureaux PhilipMorris"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.742662,
+        -17.519576
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: 77 379 71 50 /+221 33 820 86 87"
+        "77 379 71 50 / +221 33 820 86 87"
       ],
       "email": [
         "Mail: info@noliane.com"
@@ -5899,16 +5801,21 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.520968,
+        14.7434
+      ]
     },
     "address": {
       "address": "Almadies",
       "additional": [
-        "route des Almadies non loin de l'American Food Store",
-        ""
+        "route des Almadies non loin de l'American Food Store"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.7434,
+        -17.520968
+      ]
     },
     "contact": {
       "phone": [
@@ -6003,7 +5910,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.510205,
+        14.740169
+      ]
     },
     "address": {
       "address": "Almadies",
@@ -6012,17 +5922,20 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.740169,
+        -17.510205
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: 33 820 54 44 /78 467 27 17"
+        "+22133 820 54 44 / 78 467 27 17"
       ],
       "email": [
         "Mail: info@osushibar.com"
       ],
       "url": [
-        "https://www.instagram.com/osushibaralmadie/",
+        "https://www.instagram.com/osushibaralmadie/ ",
         "http://www.osushibar.com"
       ]
     },
@@ -6103,7 +6016,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.492193,
+        14.728102
+      ]
     },
     "address": {
       "address": "Gueule Tapée",
@@ -6112,13 +6028,16 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.728102,
+        -17.492193
+      ]
     },
     "contact": {
       "phone": [
-        "Ouakam, rue du monument de la renaissance en face Samu social; Tel: 33 824 71 99",
-        "Liberté 6, route du front de terre, après Pharmacie Leclerc, Tel: 33 867 41 99",
-        "Gueule Tapée, Tel: 33 822 66 99"
+        "Ouakam, rue du monument de la renaissance en face Samu social; 33 824 71 99",
+        "Liberté 6, route du front de terre, après Pharmacie Leclerc, 33 867 41 99",
+        "Gueule Tapée, 33 822 66 99"
       ],
       "email": [],
       "url": [
@@ -6211,7 +6130,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.50952,
+        14.738792
+      ]
     },
     "address": {
       "address": "Almadies",
@@ -6220,12 +6142,15 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.738792,
+        -17.50952
+      ]
     },
     "contact": {
       "phone": [
-        "Appeler +221 77 267 14 92",
-        "00221338481176 /00221338481177"
+        "+221 77 267 14 92",
+        "+221338481176 / +221338481177"
       ],
       "email": [],
       "url": [
@@ -6305,7 +6230,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.487151,
+        14.758454
+      ]
     },
     "address": {
       "address": "Cité Biagui",
@@ -6314,11 +6242,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.758454,
+        -17.487151
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 77 463 55 96"
+        "+221 77 463 55 96"
       ],
       "email": [],
       "url": [
@@ -6405,7 +6336,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.521375,
+        14.744942
+      ]
     },
     "address": {
       "address": "Mermoz",
@@ -6414,11 +6348,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.744942,
+        -17.521375
+      ]
     },
     "contact": {
       "phone": [
-        "Téléphone : 00221 33 820 20 55"
+        "+221 33 820 20 55"
       ],
       "email": [
         "Email: redstone@redstonedakar.com"
@@ -6510,7 +6447,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.494324,
+        14.754858
+      ]
     },
     "address": {
       "address": "Yoff",
@@ -6519,11 +6459,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.754858,
+        -17.494324
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: 338606400/782912532/763850923"
+        "+221338606400/782912532/763850923"
       ],
       "email": [
         "Email: royalchicken.sn@gmail.com"
@@ -6618,7 +6561,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.445968,
+        14.689486
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
@@ -6627,11 +6573,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.689486,
+        -17.445968
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 821 98 08"
+        "+221 33 821 98 08"
       ],
       "email": [
         "Email: restosalimto@gmail.com"
@@ -6734,7 +6683,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.486895,
+        14.719966
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
@@ -6743,7 +6695,10 @@
         "SFC, Dakar - OUAKAM : Tally Américain (Sortie Lycée Mermoz),"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.719966,
+        -17.486895
+      ]
     },
     "contact": {
       "phone": [
@@ -6850,7 +6805,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.520319,
+        14.741597
+      ]
     },
     "address": {
       "address": "Almadies",
@@ -6859,11 +6817,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.741597,
+        -17.520319
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 77 326 21 56"
+        "+221 77 326 21 56"
       ],
       "email": [
         "Email: hello@sharkys.sn"
@@ -6954,7 +6915,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.473489,
+        14.705841
+      ]
     },
     "address": {
       "address": "Mermoz",
@@ -6963,7 +6927,10 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.705841,
+        -17.473489
+      ]
     },
     "contact": {
       "phone": [],
@@ -7049,7 +7016,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.519935,
+        14.742569
+      ]
     },
     "address": {
       "address": "Almadies",
@@ -7058,11 +7028,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.742569,
+        -17.519935
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 820 90 09"
+        "+221 33 820 90 09"
       ],
       "email": [],
       "url": [
@@ -7148,20 +7121,25 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.43251,
+        14.672329
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
       "additional": [
-        "Rue Malenfant, en face de l'église Saint-Michel",
-        ""
+        "Rue Malenfant, en face de l'église Saint-Michel"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.672329,
+        -17.43251
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 76 680 64 78"
+        "+221 76 680 64 78"
       ],
       "email": [],
       "url": []
@@ -7244,16 +7222,21 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.48749,
+        14.718956
+      ]
     },
     "address": {
       "address": "Ouakam",
       "additional": [
-        "Ave Cheikh Anta Diop, Dakar",
-        ""
+        "Ave Cheikh Anta Diop, Dakar"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.718956,
+        -17.48749
+      ]
     },
     "contact": {
       "phone": [],
@@ -7349,7 +7332,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.435725,
+        14.666955
+      ]
     },
     "address": {
       "address": "Dakar Centre Ville",
@@ -7358,11 +7344,14 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.666955,
+        -17.435725
+      ]
     },
     "contact": {
       "phone": [
-        "Appeler +221 33 829 28 28"
+        "+221 33 829 28 28"
       ],
       "email": [
         "contact@thechickncorner.com"
@@ -7453,7 +7442,10 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.474569,
+        14.694606
+      ]
     },
     "address": {
       "address": "Corniche",
@@ -7462,15 +7454,18 @@
         "Dakar,"
       ],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.694606,
+        -17.474569
+      ]
     },
     "contact": {
       "phone": [
-        "Tel: +221 33 869 06 99"
+        "+221 33 869 06 99"
       ],
       "email": [],
       "url": [
-        "https://www.facebook.com/unogrilldakar/"
+        "https://www.facebook.com/unogrilldakar/ "
       ]
     },
     "schedule": {
@@ -7558,17 +7553,23 @@
     ],
     "position": {
       "type": "Point",
-      "coordinates": [0, 0]
+      "coordinates": [
+        -17.436749,
+        14.664576
+      ]
     },
     "address": {
       "address": "Dakar",
       "additional": [],
       "postal": "",
-      "coordinates": [0, 0]
+      "coordinates": [
+        14.664576,
+        -17.436749
+      ]
     },
     "contact": {
       "phone": [
-        "Tel:  33 865 62 62 (Ouakam) /33 822 65 65 (Centre-Ville) /33 865 63 63 (Nord-Foire) /33 832 97 97 (Maristes) /33 957 57 55 (Mbour)"
+        " 33 865 62 62 (Ouakam) / 33 822 65 65 (Centre-Ville) / 33 865 63 63 (Nord-Foire) / 33 832 97 97 (Maristes) / 33 957 57 55 (Mbour)"
       ],
       "email": [
         "contact@yumyum.sn"

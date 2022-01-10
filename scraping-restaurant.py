@@ -21,7 +21,7 @@ for i in range(1, 59):
   else:
     print('err')
 
-  time.sleep(1)
+  time.sleep(3)
 
 with open('urls_restaurants.txt', 'w+') as file:
   for link in links:

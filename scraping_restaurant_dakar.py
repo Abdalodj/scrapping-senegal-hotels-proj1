@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import traceback
+import pprint as pp
 import json
 
 restaurants = []
@@ -147,6 +148,12 @@ with open('urls_restaurants_dakar.txt', 'r') as file, open('restaurants.json', '
 
         services = soup.select('article > ul > li')
         restaurant["services"] = [item.text.strip('\n') for item in services]
+
+        coordBlock = soup.select_one('#page-canvas > #page-content > #map-detail')
+        lat = float(coordBlock.get('data-lat'))
+        lng = float(coordBlock.get('data-lng'))
+        restaurant["position"]["coordinates"] = [lng, lat]
+        restaurant["address"]["coordinates"] = [lat, lng]
           
         restaurants.append(restaurant)
       except Exception:
@@ -154,6 +161,8 @@ with open('urls_restaurants_dakar.txt', 'r') as file, open('restaurants.json', '
     else:
       print('err')
     """ break """
-    time.sleep(1)
+    time.sleep(3)
 
   json.dump(restaurants, restauJSON, indent=2, ensure_ascii=False)
+
+""" pp.pprint(restaurants) """
