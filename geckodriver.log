@@ -1,1531 +1,169 @@
-1641837644263	geckodriver	INFO	Listening on 127.0.0.1:64323
-1641837647352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64324" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileymNo4L"
-1641837648115	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileymNo4L\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:64324/devtools/browser/abae6921-91d8-46a4-b72e-3c32764fd740
-1641837651578	Marionette	INFO	Listening on port 64330
-1641837651665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.gstatic.com/recaptcha/releases/-FJgYf1d3dZ_QPcZP7bd85hc/styles__ltr.css without a browsingContextID set
-SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
-Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
-onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
-Line: 567, column: 0
-console.error: ({})
-JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1642671882766	geckodriver	INFO	Listening on 127.0.0.1:52690
+1642671885880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52691" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileItwmIj"
+1642671930827	geckodriver	INFO	Listening on 127.0.0.1:63193
+1642671933937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "63194" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileW8L00f"
+1642671934536	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileW8L00f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63194/devtools/browser/a94d7a5d-30d9-4135-9a93-34b2e89bba56
+1642671938045	Marionette	INFO	Listening on port 63202
+1642671938167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642671992803	Marionette	INFO	Stopped listening on port 63202
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18500, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1642672034789	geckodriver	INFO	Listening on 127.0.0.1:63378
+1642672037873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "63379" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilelgUqtx"
+1642672038525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilelgUqtx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63379/devtools/browser/8eefd4e8-f6af-4da3-b970-f9065b637804
+1642672041871	Marionette	INFO	Listening on port 63386
+1642672042129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642672219958	Marionette	INFO	Stopped listening on port 63386
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642672223518	geckodriver	INFO	Listening on 127.0.0.1:63638
+1642672226630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "63639" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofiledvPK9d"
+1642672227299	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofiledvPK9d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63639/devtools/browser/caf24439-b6d1-48ce-9648-1f10f6379d3e
+1642672231220	Marionette	INFO	Listening on port 63647
+1642672231510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642672247653	Marionette	INFO	Stopped listening on port 63647
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13800, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1642672369212	geckodriver	INFO	Listening on 127.0.0.1:63816
+1642672372310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "63817" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilenBtCKX"
+1642672373091	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilenBtCKX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63817/devtools/browser/8c98c29b-161a-476d-a880-1cb7eb1a3d35
+1642672376778	Marionette	INFO	Listening on port 63825
+1642672377151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642672515468	Marionette	INFO	Stopped listening on port 63825
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642672518309	geckodriver	INFO	Listening on 127.0.0.1:58553
+1642672521385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "58554" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileVnQttC"
+1642672522129	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileVnQttC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58554/devtools/browser/196809f3-0840-4201-9f1e-7480cd9a5940
+1642672525577	Marionette	INFO	Listening on port 58560
+1642672525626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642672728945	Marionette	INFO	Stopped listening on port 58560
+1642672734917	geckodriver	INFO	Listening on 127.0.0.1:61884
+1642672738012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61885" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileNhdapl"
+1642672738634	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileNhdapl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61885/devtools/browser/cfce3f6b-9e53-4cec-8c95-ed051e81dd44
+1642672741895	Marionette	INFO	Listening on port 61893
+1642672742273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642672787966	Marionette	INFO	Stopped listening on port 61893
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7024, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1642672790507	geckodriver	INFO	Listening on 127.0.0.1:62044
+1642672793590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62045" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilegO6tTb"
+1642672794159	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilegO6tTb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62045/devtools/browser/2f36eb9d-8414-4bee-8b03-88e13ac493d3
+1642672798010	Marionette	INFO	Listening on port 62052
+1642672798438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
-1641838609750	Marionette	INFO	Stopped listening on port 64330
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1642673391548	Marionette	INFO	Stopped listening on port 62052
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 19128, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1642674489455	geckodriver	INFO	Listening on 127.0.0.1:51180
+1642674492533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51181" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileGAs2s0"
+1642674492833	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileGAs2s0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51181/devtools/browser/477a4f24-0417-48c5-94d0-b7095df9f542
+1642674494407	Marionette	INFO	Listening on port 51188
+1642674494593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642674550224	Marionette	INFO	Stopped listening on port 51188
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 20180, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1642674583821	geckodriver	INFO	Listening on 127.0.0.1:51352
+1642674586897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51353" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileRqtDlf"
+1642674587194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileRqtDlf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51353/devtools/browser/0ec61339-4870-48ef-b889-8a427d5090ff
+1642674588900	Marionette	INFO	Listening on port 51360
+1642674588980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642674601834	Marionette	INFO	Stopped listening on port 51360
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15148, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1642674639880	geckodriver	INFO	Listening on 127.0.0.1:51471
+1642674642957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51472" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile8lTYeG"
+1642674643249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile8lTYeG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51472/devtools/browser/6fa6de72-69c1-412a-88fc-ee5da0c459d9
+1642674644859	Marionette	INFO	Listening on port 51478
+1642674645028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642674657125	Marionette	INFO	Stopped listening on port 51478
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
-(void 0)))
-DevTools listening on ws://localhost:59228/devtools/browser/12e86895-81c2-4282-9172-2bfb0da897bf
-1641837889713	Marionette	INFO	Listening on port 59234
-1641837890170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641838604264	Marionette	INFO	Stopped listening on port 59234
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 1148, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1642674658076	geckodriver	INFO	Listening on 127.0.0.1:51573
+1642674661196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51574" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileTyoXfK"
+1642674661489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileTyoXfK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51574/devtools/browser/674c13d7-dcc5-4f54-8f4b-3301837a6f68
+1642674663209	Marionette	INFO	Listening on port 51580
+1642674663272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642674900439	geckodriver	INFO	Listening on 127.0.0.1:51803
+1642674903559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51804" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileTfldo8"
+1642674903847	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileTfldo8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51804/devtools/browser/c6fbb3c9-5513-474e-a610-17fec5a29259
+1642674905529	Marionette	INFO	Listening on port 51811
+1642674905621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642674982305	Marionette	INFO	Stopped listening on port 51811
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1641838759306	geckodriver	INFO	Listening on 127.0.0.1:52074
-1641838762419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52075" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile1OQary"
-1641838762712	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile1OQary\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:52075/devtools/browser/151bafa4-98e2-4b36-8fdb-cd0f56c33c31
-1641838764360	Marionette	INFO	Listening on port 52083
-1641838764494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641838803304	geckodriver	INFO	Listening on 127.0.0.1:52236
-1641838806378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52237" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile9IWFS8"
-1641838806873	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile9IWFS8\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:52237/devtools/browser/5c96a914-1150-4800-ad93-83548dbabebb
-1641838809848	Marionette	INFO	Listening on port 52245
-1641838810098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641838915087	geckodriver	INFO	Listening on 127.0.0.1:52437
-1641838918137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52438" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile2JJs2E"
-1641838918460	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile2JJs2E\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:52438/devtools/browser/fc4a34a9-393f-4c9e-b52f-a05fbb917c38
-1641838920123	Marionette	INFO	Listening on port 52444
-1641838920179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641839076866	Marionette	INFO	Stopped listening on port 52444
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-nette" "--remote-debugging-port" "52614" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilema3kCM"
-1641838980768	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilema3kCM\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:52614/devtools/browser/952f26ef-5c85-4cff-9de8-b9b0ee722886
-1641838982543	Marionette	INFO	Listening on port 52622
-1641838982653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641839075534	Marionette	INFO	Stopped listening on port 52622
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-nette" "--remote-debugging-port" "52793" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilea6jPVk"
-1641839042068	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilea6jPVk\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:52793/devtools/browser/c8180765-8d63-49fc-9293-bac54d754110
-1641839043767	Marionette	INFO	Listening on port 52801
-1641839043836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641839073624	Marionette	INFO	Stopped listening on port 52801
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1641839258978	geckodriver	INFO	Listening on 127.0.0.1:53075
-1641839262072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53076" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileO0ZhHW"
-1641839262357	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileO0ZhHW\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:53076/devtools/browser/31f8b8ef-91d8-4011-8ed5-fa9db882828c
-1641839264005	Marionette	INFO	Listening on port 53083
-1641839264117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1641841376662	geckodriver	INFO	Listening on 127.0.0.1:53353
-1641841379741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53354" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileOoFIra"
-1641841380037	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileOoFIra\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:53354/devtools/browser/482cd1b9-b17a-47e7-b075-8be09366a416
-1641841381745	Marionette	INFO	Listening on port 53360
-1641841381787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641841454433	geckodriver	INFO	Listening on 127.0.0.1:53515
-1641841457500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53516" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileU6UJu1"
-1641841457782	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileU6UJu1\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:53516/devtools/browser/5f9ba178-8d1d-4273-8487-0f2379c52d95
-1641841459605	Marionette	INFO	Listening on port 53522
-1641841459679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641841486945	geckodriver	INFO	Listening on 127.0.0.1:53653
-1641841489990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53654" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile1TsBlj"
-1641841490254	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile1TsBlj\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:53654/devtools/browser/ce31f9c3-af2c-47e0-85df-d3c43bf218f5
-1641841491924	Marionette	INFO	Listening on port 53660
-1641841492029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641841511007	geckodriver	INFO	Listening on 127.0.0.1:53780
-1641841514113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53781" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileaLotev"
-1641841514445	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileaLotev\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:53781/devtools/browser/5a1b62d7-3cc6-4a27-95b3-fdbf24a33ec3
-1641841516232	Marionette	INFO	Listening on port 53788
-1641841516284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641841534672	geckodriver	INFO	Listening on 127.0.0.1:53919
-1641841537732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53920" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileldD6Tr"
-1641841538041	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileldD6Tr\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:53920/devtools/browser/4b665915-145b-4e9d-a4b6-3388eccd127d
-1641841540034	Marionette	INFO	Listening on port 53926
-1641841540389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641841556887	geckodriver	INFO	Listening on 127.0.0.1:54043
-1641841559938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54044" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile2obTE8"
-1641841560241	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile2obTE8\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:54044/devtools/browser/0cbc404d-8016-47a1-946d-fae0fb18ddb6
-1641841562112	Marionette	INFO	Listening on port 54051
-1641841562603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641841579191	geckodriver	INFO	Listening on 127.0.0.1:49507
-1641841582237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "49508" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile38aIDT"
-1641841582596	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile38aIDT\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:49508/devtools/browser/a8264d2f-65ae-4167-93b8-ac46db35e9dc
-1641841585190	Marionette	INFO	Listening on port 49516
-1641841585784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641841620282	Marionette	WARN	Ignoring event 'pageshow' beca1641841620365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "49645" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileQRwbcR"
-1641841620777	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileQRwbcR\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:49645/devtools/browser/6ca9b46d-9db8-4575-80be-c95cdb63b990
-1641841623427	Marionette	INFO	Listening on port 49652
-1641841623584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641841643568	geckodriver	INFO	Listening on 127.0.0.1:49787
-1641841646571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "49788" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileMz1ksw"
-1641841646897	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileMz1ksw\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:49788/devtools/browser/4ee79cce-dff2-463e-888c-da6c88e9d25a
-1641841649781	Marionette	INFO	Listening on port 49798
-1641841650259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641841668504	geckodriver	INFO	Listening on 127.0.0.1:49917
-1641841671027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "49918" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile24iWtM"
-1641841671395	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile24iWtM\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:49918/devtools/browser/c77f681b-8c0b-4b63-98bc-7e17fc14ee2f
-1641841674638	Marionette	INFO	Listening on port 49924
-1641841674746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641841695179	geckodriver	INFO	Listening on 127.0.0.1:50107
-1641841698221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "50108" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilekm6KFz"
-1641841698533	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilekm6KFz\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:50108/devtools/browser/4e7dbe32-0ae9-486d-93d5-ab43db4842d2
-1641841700835	Marionette	INFO	Listening on port 50115
-1641841700885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-1641842697036	geckodriver	INFO	Listening on 127.0.0.1:55232
-1641842700099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55233" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileCgldka"
-1641842701584	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileCgldka\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:55233/devtools/browser/a2f02a43-3f53-4603-8519-2c08a9384338
-1641842706628	Marionette	INFO	Listening on port 55239
-1641842707176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641842742914	Marionette	INFO	Stopped listening on port 55239
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messagDevTools listening on ws://localhost:55345/devtools/browser/0733cc70-7a2b-4f29-8a56-c73fdb241a71
-1641842744209	Marionette	INFO	Listening on port 55350
-1641842744272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641842775984	Marionette	INFO	Stopped listening on port 55350
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-DevTools listening on ws://localhost:55462/devtools/browser/3accc11b-174d-4411-8559-9595613d64da
-1641842776286	Marionette	INFO	Listening on port 55467
-1641842776553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641842944846	Marionette	INFO	Stopped listening on port 55467
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-el closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1641842806902	geckodriver	INFO	Listening on 127.0.0.1:55587
-1641842809959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55588" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofiledpbwHZ"
-1641842810729	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofiledpbwHZ\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:55588/devtools/browser/c7e94ea3-5b09-4205-a0d8-bcf7b9d9f2f6
-1641842814822	Marionette	INFO	Listening on port 55593
-1641842815301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641842942957	Marionette	INFO	Stopped listening on port 55593
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-\rust_mozprofileaTJp9O"
-1641842841238	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileaTJp9O\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:55715/devtools/browser/27b9c812-91fd-43d5-b235-610e32b584bf
-1641842844254	Marionette	INFO	Listening on port 55720
-1641842844499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641842940971	Marionette	INFO	Stopped listening on port 55720
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileVKoRdG\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:52989/devtools/browser/581bf70e-6e52-45a8-a5f1-2da34a92e3fb
-1641842941611	Marionette	INFO	Listening on port 52995
-1641842942060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641843006046	Marionette	INFO	Stopped listening on port 52995
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-\rust_mozprofileteznvk"
-1641842963910	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileteznvk\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:53107/devtools/browser/1837b445-db07-40fe-86e3-9a583ed4e8e6
-1641842966958	Marionette	INFO	Listening on port 53105
-1641842967243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641843009081	Marionette	INFO	Stopped listening on port 53105
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-1843005667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641843057945	Marionette	INFO	Stopped listening on port 53227
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel clDevTools listening on ws://localhost:53453/devtools/browser/26b21082-5e08-4d30-8ce6-709b252e24bd
-1641843058818	Marionette	INFO	Listening on port 53458
-1641843059013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641843150924	Marionette	INFO	Stopped listening on port 53458
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][Run1641843151487	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileTNihvV\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:53578/devtools/browser/9579293b-6f92-4016-858d-acc0ef0824d2
-1641843155611	Marionette	INFO	Listening on port 53583
-1641843155968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641843249293	Marionette	INFO	Stopped listening on port 53583
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-\\rust_mozprofilekrVbTS"
-1641843216761	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilekrVbTS\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:53713/devtools/browser/07426256-0cb8-46f0-876e-9f46e100103a
-1641843219969	Marionette	INFO	Listening on port 53720
-1641843220182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641843251912	Marionette	INFO	Stopped listening on port 53720
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A000B,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641843663300	Marionette	INFO	Stopped listening on port 53836
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-1641843268780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55455" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileUnyid4"
-1641843269520	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileUnyid4\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:55455/devtools/browser/a5fbba1e-4d5d-472c-976d-1de519060b69
-1641843272556	Marionette	INFO	Listening on port 55460
-1641843273003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641843662707	Marionette	INFO	Stopped listening on port 55460
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-console.error: services.settings: 
-  main/normandy-recipes-capabilities Signature failed  TypeError: NetworkError: Network request failed
-console.error: services.settings: 
-  Message: TypeError: NetworkError: Network request failed
-  Stack:
-    fetch/</request.onerror@resource://services-settings/Utils.jsm:131:26
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late t
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
- too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-rror: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-ile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilehgIajO\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:55788/devtools/browser/9f7f2daf-577d-4099-bcf2-ebb5e9f94a13
-1641843364612	Marionette	INFO	Listening on port 55795
-1641843365772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641843660801	Marionette	INFO	Stopped listening on port 55795
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel c
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-pe=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-ill be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
-
-e=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-essage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-annel: cannot send/recv
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-\\AppData\\Local\\Temp\\rust_mozprofilew77ArG\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:63735/devtools/browser/893dec3e-297e-45c5-8811-4435ab61a6a8
-1641843622349	Marionette	INFO	Listening on port 63741
-1641843622657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641843657564	Marionette	INFO	Stopped listening on port 63741
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-1641844692579	geckodriver	INFO	Listening on 127.0.0.1:64147
-1641844695648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64148" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile6D1Qfm"
-1641844696270	Marionette	INFO	Marionette enabled
-1641844731184	geckodriver	INFO	Listening on 127.0.0.1:64186
-1641844734308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64187" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileyYvYl2"
-1641844735095	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileyYvYl2\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:64187/devtools/browser/6702ae26-9127-4b0d-ac49-d8f5251ad8c7
-1641844739351	Marionette	INFO	Listening on port 64194
-1641844739513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641844907636	geckodriver	INFO	Listening on 127.0.0.1:64319
-1641844910694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64320" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile0eKIKA"
-1641844911356	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile0eKIKA\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:64320/devtools/browser/89d5d99f-58ac-49ce-9e04-e15275939ea0
-1641844914514	Marionette	INFO	Listening on port 64326
-1641844914893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641844989974	geckodriver	INFO	Listening on 127.0.0.1:64442
-1641844993028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64443" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileELokAa"
-1641844993734	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileELokAa\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:64443/devtools/browser/96d9977a-5534-4f74-b53c-b570abbd9505
-1641844997089	Marionette	INFO	Listening on port 64449
-1641844997228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641845063210	geckodriver	INFO	Listening on 127.0.0.1:64553
-1641845066299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64554" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilekqhJe1"
-1641845066866	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilekqhJe1\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:64554/devtools/browser/9d1dcb60-f895-451f-9e24-686d68ee1861
-1641845070298	Marionette	INFO	Listening on port 64560
-1641845070499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641845247366	Marionette	INFO	Stopped listening on port 64560
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-\rust_mozprofilekBZrA8"
-1641845154644	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilekBZrA8\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:64692/devtools/browser/f1bdff17-caca-4696-8b99-87d2bc38464e
-1641845158028	Marionette	INFO	Listening on port 64698
-1641845158252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641845247345	Marionette	INFO	Stopped listening on port 64698
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1641845441020	geckodriver	INFO	Listening on 127.0.0.1:57343
-1641845444069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "57344" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilehwk3qY"
-1641845444665	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilehwk3qY\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:57344/devtools/browser/f6580b6b-dfc5-4ae8-b73f-d711172abaa3
-1641845447878	Marionette	INFO	Listening on port 57351
-1641845448263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641845461147	Marionette	INFO	Stopped listening on port 57351
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1641845562918	geckodriver	INFO	Listening on 127.0.0.1:57527
-1641845566003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "57528" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilePDeCxe"
-1641845566601	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilePDeCxe\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:57528/devtools/browser/69275374-8efb-4ac3-ac3d-d114638b351f
-1641845569846	Marionette	INFO	Listening on port 57534
-1641845570266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641845705215	Marionette	INFO	Stopped listening on port 57534
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1641845717345	geckodriver	INFO	Listening on 127.0.0.1:51035
-1641845720449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51036" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilefXbV5L"
-1641845721182	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilefXbV5L\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:51036/devtools/browser/d68f11c9-4d2e-4cd2-973c-1a323f4aa9af
-1641845724279	Marionette	INFO	Listening on port 51042
-1641845724686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641845803515	Marionette	INFO	Stopped listening on port 51042
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1641846068884	geckodriver	INFO	Listening on 127.0.0.1:57770
-1641846071982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "57771" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileZ6bgTO"
-1641846072804	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileZ6bgTO\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:57771/devtools/browser/c1fe0a4e-7542-4028-a675-dfbad1602198
-1641846075665	Marionette	INFO	Listening on port 57779
-1641846075772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641846329257	Marionette	INFO	Stopped listening on port 57779
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-nette" "--remote-debugging-port" "55037" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile3PzfVZ"
-1641846277819	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile3PzfVZ\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:55037/devtools/browser/9778d669-30f5-423e-9b73-fb1181a41c53
-1641846280729	Marionette	INFO	Listening on port 55043
-1641846280851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641846334526	Marionette	INFO	Stopped listening on port 55043
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
-1641847002220	geckodriver	INFO	Listening on 127.0.0.1:64355
-1641847005284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64356" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileN6wWIV"
-1641847006112	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileN6wWIV\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:64356/devtools/browser/b07aadfc-a06f-406b-bad8-40146ad17a91
-1641847009775	Marionette	INFO	Listening on port 64363
-1641847010185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641847041691	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641847112533	geckodriver	INFO	Listening on 127.0.0.1:64561
-1641847115629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64562" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile8lbSjz"
-1641847116412	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile8lbSjz\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:64562/devtools/browser/3182e868-f7a1-4015-8015-1734540d0f36
-1641847120167	Marionette	INFO	Listening on port 64568
-1641847120509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641847127099	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641847353516	geckodriver	INFO	Listening on 127.0.0.1:64823
-1641847356552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64824" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileKI3h1B"
-1641847357359	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileKI3h1B\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:64824/devtools/browser/13e70b4c-939a-4beb-979c-db8b576df277
-1641847362238	Marionette	INFO	Listening on port 64830
-1641847362398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641847393797	geckodriver	INFO	Listening on 127.0.0.1:64919
-1641847396923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64920" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileQST2Nx"
-1641847397829	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileQST2Nx\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:64920/devtools/browser/7d53873a-38fe-4754-89ac-da3913905f38
-1641847403573	Marionette	INFO	Listening on port 64926
-1641847403928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641847413409	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641847443616	Marionette	INFO	Stopped listening on port 64926
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1641847603596	geckodriver	INFO	Listening on 127.0.0.1:65217
-1641847606672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "65218" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile1gcGpw"
-1641847607388	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile1gcGpw\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:65218/devtools/browser/2e4dc96c-e3e6-4ece-97d3-9e8401c7cedc
-1641847611034	Marionette	INFO	Listening on port 65226
-1641847611541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641847618092	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641848043658	Marionette	INFO	Stopped listening on port 65226
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-nette" "--remote-debugging-port" "65453" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileSuzaM6"
-1641847789536	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileSuzaM6\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:65453/devtools/browser/228aef4b-0b88-4406-829a-d85220d80f2f
-1641847793130	Marionette	INFO	Listening on port 65460
-1641847793653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641847818381	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641848045945	Marionette	INFO	Stopped listening on port 65460
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-nette" "--remote-debugging-port" "49217" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilenXHkS6"
-1641847837238	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilenXHkS6\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:49217/devtools/browser/bdd02957-85a3-4f3b-b59d-b22450a23c1d
-1641847841126	Marionette	INFO	Listening on port 49223
-1641847841202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641847901838	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641848047391	Marionette	INFO	Stopped listening on port 49223
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-\rust_mozprofile9CLASc"
-1641848037580	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile9CLASc\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:52160/devtools/browser/4aef57e2-4fb9-44e5-9846-b306dcb4ce1d
-1641848041781	Marionette	INFO	Listening on port 52168
-1641848041976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641848055573	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641848282567	Marionette	INFO	Stopped listening on port 52168
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-\rust_mozprofileeaz2b6"
-1641848074854	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileeaz2b6\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:52312/devtools/browser/0ac89915-dbd6-4ec5-9d03-188eb545bed9
-1641848078549	Marionette	INFO	Listening on port 52318
-1641848078951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641848139295	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641848284525	Marionette	INFO	Stopped listening on port 52318
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1641848286142	geckodriver	INFO	Listening on 127.0.0.1:49449
-1641848289205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "49450" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile5G2kX6"
-1641848290191	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile5G2kX6\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:49450/devtools/browser/e9a8321f-7fdd-4520-aceb-9ef6d650af20
-1641848294567	Marionette	INFO	Listening on port 49462
-1641848295074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641848311345	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641848800241	Marionette	INFO	Stopped listening on port 49462
-1641848800462	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,na1641848802664	Marionette	INFO	Stopped listening on port 49602
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-nnel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641848804554	Marionette	INFO	Stopped listening on port 49733
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-nette" "--remote-debugging-port" "49857" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileGlbQN5"
-1641848407975	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileGlbQN5\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:49857/devtools/browser/b22c8862-2c49-4ad2-b88d-b3c556129b90
-1641848412191	Marionette	INFO	Listening on port 49862
-1641848412666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641848420139	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641848806565	Marionette	INFO	Stopped listening on port 49862
-console.error: services.settings: 
-  security-state/cert-revocations Signature failed  TypeError: NetworkError: Network request failed
-console.error: services.settings: 
-  Message: TypeError: NetworkError: Network request failed
-  Stack:
-    fetch/</request.onerror@resource://services-settings/Utils.jsm:131:26
-
-console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-onette	INFO	Listening on port 49989
-1641848445326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641848466558	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641848809000	Marionette	INFO	Stopped listening on port 49989
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-nette" "--remote-debugging-port" "49848" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileNVHkWF"
-1641848486635	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileNVHkWF\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:49848/devtools/browser/5cac365c-716c-4cd4-98c4-c94930d3c0fe
-1641848491445	Marionette	INFO	Listening on port 49853
-1641848491725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641848498673	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641848810493	Marionette	INFO	Stopped listening on port 49853
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-\rust_mozprofileRRojpG"
-1641848517829	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileRRojpG\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:50121/devtools/browser/98045358-c071-4f13-b67b-2806f2700abe
-1641848522472	Marionette	INFO	Listening on port 50131
-1641848522934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641848565404	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641848812423	Marionette	INFO	Stopped listening on port 50131
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-\rust_mozprofile6bpb45"
-1641848586538	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile6bpb45\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:50252/devtools/browser/ce1b0b2e-c624-469e-b331-11bdb78062d7
-1641848590925	Marionette	INFO	Listening on port 50257
-1641848591190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641848598175	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641848616811	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
-1641848813879	Marionette	INFO	Stopped listening on port 50257
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-84	Marionette	INFO	Listening on port 50366
-1641848624381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641848630851	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641848815315	Marionette	INFO	Stopped listening on port 50366
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-ile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileCZQuBG\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:50469/devtools/browser/e72b4891-b40b-4884-af54-492912274a3b
-1641848655599	Marionette	INFO	Listening on port 50474
-1641848655971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641848666363	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641848816740	Marionette	INFO	Stopped listening on port 50474
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to1641848818197	Marionette	INFO	Stopped listening on port 50596
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-yBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be l1641848820759	Marionette	INFO	Stopped listening on port 49521
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-qsUbLy\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:49642/devtools/browser/019c7fcb-6672-4b8d-bc3b-a0eeb8971507
-1641848809807	Marionette	INFO	Listening on port 49658
-1641848810246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641849396932	Marionette	INFO	Stopped listening on port 49658
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-ionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileW2QYHt\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:49841/devtools/browser/605dd181-6b28-4838-8925-7448a360a9b8
-1641848846087	Marionette	INFO	Listening on port 49846
-1641848846290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641848852526	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641849397225	Marionette	INFO	Stopped listening on port 49846
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-848873012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641848925500	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641849399820	Marionette	INFO	Stopped listening on port 49973
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-nRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641849396675	Marionette	INFO	Stopped listening on port 50167
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-ionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile4sAFVo\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:50269/devtools/browser/afa707cc-42bb-495a-893c-43d43f7dfd44
-1641848975291	Marionette	INFO	Listening on port 50274
-1641848975522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641848981856	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641849397109	Marionette	INFO	Stopped listening on port 50274
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-ers\\le\\AppData\\Local\\Temp\\rust_mozprofilerXSITD\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:50372/devtools/browser/4c7cfa82-3cf1-4b12-ac50-e626cb5c9470
-1641849004078	Marionette	INFO	Listening on port 50377
-1641849004363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641849018999	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641849397564	Marionette	INFO	Stopped listening on port 50377
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-console.error: services.settings: 
-  Message: TypeError: NetworkError: Network request failed
-  Stack:
-    fetch/</request.onerror@resource://services-settings/Utils.jsm:131:26
-observe@resource://gre/modules/AsyncShutdown.jsm:575:16
-
-console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
-console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (m
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages wil
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
- be lost
-
-marionette" "--remote-debugging-port" "53009" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilekoCRZo"
-1641849144966	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilekoCRZo\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:53009/devtools/browser/bdd58a21-6aa7-4b12-9fc5-f14a0896b21c
-1641849149498	Marionette	INFO	Listening on port 53016
-1641849149611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641849162344	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641849398755	Marionette	INFO	Stopped listening on port 53016
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-ng-port" "53136" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilesYs7cb"
-1641849184891	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofilesYs7cb\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:53136/devtools/browser/a1ae03b8-4c3f-41f3-9f1d-94e2fb403467
-1641849189312	Marionette	INFO	Listening on port 53141
-1641849189810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641849197130	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641849399441	Marionette	INFO	Stopped listening on port 53141
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-eraction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641849399037	Marionette	INFO	Stopped listening on port 53269
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1641849246125	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofile5vvYvX\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:53968/devtools/browser/b7b9d65d-c23c-40dc-b5d5-bd72c21e4735
-1641849250664	Marionette	INFO	Listening on port 53987
-1641849251056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641849258198	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641849396934	Marionette	INFO	Stopped listening on port 53987
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-849283348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641849289510	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-1641849397120	Marionette	INFO	Stopped listening on port 54111
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1641849612567	geckodriver	INFO	Listening on 127.0.0.1:55052
-1641849615644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55053" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileBkyQO8"
-1641849616544	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileBkyQO8\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:55053/devtools/browser/0e3a435a-7455-43de-9129-e1162b5d3107
-1641849620010	Marionette	INFO	Listening on port 55059
-1641849620507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1641849626482	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
-TimedPromise@chrome://remote/content/marionette/sync.js:224:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1642674987408	geckodriver	INFO	Listening on 127.0.0.1:51963
+1642674990490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51964" "-no-remote" "-profile" "C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileMp6xKv"
+1642674990797	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\le\\AppData\\Local\\Temp\\rust_mozprofileMp6xKv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51964/devtools/browser/4a32afa6-359a-4573-b0ba-3b0ab0a38de6
+1642674992490	Marionette	INFO	Listening on port 51972
+1642674992554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session

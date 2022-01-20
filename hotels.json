@@ -815,7 +815,7 @@
       "address": "Saint-Louis",
       "additional": "Plage de Gniling Mbao, Sowène, Route de Potou",
       "additional2": "Parc de la Langue de Barbarie",
-      "postal": 01200,
+      "postal": "01200",
       "coordinates": [15.799827606942069, -16.52727364088627]
     },
     "contact": {
@@ -1792,7 +1792,7 @@
     "address": {
       "address": "Dakar",
       "additional": "Route du Meridien Almadies",
-      "postal": 00001,
+      "postal": "00001",
       "coordinates": [14.742996093597135, -17.519415708867996]
     },
     "contact": {
