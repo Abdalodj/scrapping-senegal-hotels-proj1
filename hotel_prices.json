@@ -1,0 +1,2098 @@
+[
+  {
+    "name": "Radisson Blu Hotel, Dakar Sea Plaza",
+    "options": [
+      {
+        "link": "https://linkcenterus.derbysoftca.com/dplatform-linkcenter/booking.htm?hotelCode=CARLSON-DKRZH&providerHotelCode=CARLSON-DKRZH&checkInDate=2022-02-04&checkOutDate=2022-02-05&identifier=radisson-google&price=118992.00&roomTypeCode=BSUPVG----&ratePlanCode=PP01RO&currency=XOF&userCurrency=XOF&language=en&userCountry=SN&testClick=false&sitetype=localuniversal&deviceType=desktop&priceDisplayedTax=10655.64&priceDisplayedTotal=118992.00&brand=radissonblu&partnerId=radisson_row&bookingSource=GoogleCPC&campaignid=&userlistid=&ifDefaultDate=default&isPromoted=false&s_is_ad=false&adults=1&children=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/45790f43-7c31-4a7a-bf91-69eced17d165.png",
+        "website": "Radissonhotels.com",
+        "price": "FCFA 118,992",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=XOF&hid=21727169&RoomID=4656784&PriceTax=10581.09&PriceTotal=106392.00&RatePlan=0fdd87e2-3f08-c45c-2ed2-8280970b6281&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+        "website": "Agoda",
+        "price": "FCFA 106,392",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/radisson-blu-dakar.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=29800201_102726720_1_2_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=106392.00&ext_price_tax=10581.09&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-298002&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-298002_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 106,392",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.bluepillow.com/checkout/594392577c00cb0e6439b607?begin=2022-02-04&end=2022-02-05&block_id=-b29800201_102726720_2_2_0-p100447.27-10044.73-2000-XOF&adults=2&childs=0&infants=0&country=SN&currency=XOF&utm_campaign=hotel",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+        "website": "bluepillow.com",
+        "price": "FCFA 112,492",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.visits.reserving.com/colaboradores/click.php?i=7103&u=https://www.secure.centraldereservas.com/reservas/portal.cgi?rf=GOOGLEHOTELS&portal=rsvcom&lang=en&auto=1&tipo=S&id=96984&numero_habs=1&no_adultos_hab1=1&no_ninos_hab1=0&fecha_entrada=04%2F02%2F2022&fecha_salida=05%2F02%2F2022&refp=112379.09&campaing-id=&tp=&moneda=XOF&r=CAMPAIGN-ID=;TRACKING-PARAM=;CUSTOM1=;PRICE-DISPLAYED-TOTAL=112379.09;DEFAULT-DATE=1;CLICK-TYPE=hotel;USER-COUNTRY=SN;DEVICE=desktop;SITE=localuniversal;USER-LANGUAGE=en;USER-CURRENCY=XOF;POS=ALL-ALL-ALL-RSVCOM;AD-CLICK=0;PAYMENT-ID=free",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c5cc2b7b-66f8-465e-8c65-ce7f52dcb3d8.png",
+        "website": "Reserving.com",
+        "price": "FCFA 112,379",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=SN_HP%7C18329604_localuniversal_1%7C20220204%7Cdesktop%7Cdefaultdate|public|||10%7C1%7C0|0&hotelid=18329604&checkin=20220204&checkout=20220205&rooms=1&currency=XOF&displayedCurr=XOF&pOSCountryCode=SN&taxDisplayMode=BP&cityid=5000001022&adults=2&land=L&metaid=U6MJ8TmI3AtWPCJGP8WZTS14ca5G4l7cS96M8yrlrssopC3c8TyoX0zE9KQf_b7hY18oYogjS1Hn1g6oEXpK8SCou9jB5qJGgzt-j-6N7eDcJf237gWmcamfaJxgfnnuvn-5Fkh1nPUpHUJs0yfz9mZXjqiDErH9Ou0rAkmqHNp0NogytYycnozwZ1Y-t4-FA8hVCwcd088nduBZ2AGIBIf8qiNb4YrEO-_8aLJR97BOWFBAWKpEZirjWjSoKHj-JRA1HZ49t8t3a2IAEHiaWQ&dblcnt=true&user_num_adults=1",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_220.png",
+        "website": "Priceline",
+        "price": "FCFA 112,497",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotelscombined.com/semi/ha/hotel_ads/282159/en.html?utm_source=google&utm_medium=cpc&utm_term=282159&adType=0&utm_content=localuniversal&utm_campaign=HotelAds&ci=2022-02-04&co=2022-02-05&gs=localuniversal&l=1&pc=AUD&rid=&pdtax=2005.54&pdtotal=112818.79&rpid=&uc=SN&ucuc=XOF&d=desktop&lc=en&v=false&rrid=&k_pc=~UEFS&k_rt=29800201&k_sid=QgAEZZ9j6o&k_kct=1643144168&k_gct=1643145659&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack=",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b73f8d82-aa66-4ac5-861d-52bce84c9ae5.png",
+        "website": "HotelsCombined",
+        "price": "FCFA 112,819",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://search.etrip.net/Hotel/Search?checkIn=2022-02-04&checkOut=2022-02-05&curr=XOF&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=1:&utm_source=gha&utm_medium=cpc&hotelId=1521437&userCountry=SN&utm_campaign=gha&profile=r2d2m73kn8&preferredRate=112030.72&token=&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dlocaluniversal%26ucountry%3DSN%26udevice%3Ddesktop%26hotel%3D1521437%26day%3D04%26month%3D02%26year%3D2022%26los%3D1%26price%3D112030.72%26currency%3DXOF%26userlang%3Den%26cid%3D%26listid%3D%26rateid%3DAfrica_Push%26closerateid%3D%26_th%3D036b40135e613e90282953ca3d450e03b7327bf6d4c8f38f%26query%3DPush%26g1%3D0%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/e36eb27d-3456-4b40-bfd8-fba88b94b935.png",
+        "website": "Etrip.net",
+        "price": "FCFA 112,031",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.prestigia.com/en/produit.php?idTarget=4205&arrivee=04/02/2022&depart=05/02/2022&pid=45&a=1000129&dev=XOF&propalRoomId=7fab3ebe29ce5d80e1de70cf10167c7d&pr=16559.40&ra=122846.43",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_101283631.png",
+        "website": "Prestigia.com",
+        "price": "FCFA 122,846",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://vry9.destinia.com/dynclick/destinia/?etf-publisher=googlehotels&etf-name=googlehotels-hoteles&etf-prdref=H_226730&eseg-name=prices&eseg-item=hoteles&eurl=https://destinia.com/www/r.php?remite=googlehotelfree_SN&utm_source=googlehotels_free&request_type=1&multicon=true&num_rooms=1&num_adults=1&num_children=0&action=no_wait_page&hotel_code=226730&checkin_day=04&checkin_month=02&checkin_year=2022&checkout_day=05&checkout_month=02&checkout_year=2022&site=localuniversal&country_code=SN&currency_code=XOF&language_code=en&crawler=false&amount=163882.09&rate_plan_id=226730_193_bri_NRF_2&partner_currency=EUR&campaign_id=&room_id=193&srp=2&srp1=3234372e30327c34322e333736347c31313534387c7c3230382e38327c313634333131353239397c313933&t=1643115300&pid=11548&s=3&rate=226730_5b22627269222c747275652c66616c73652c302c302c22356233303564222c33303039325d",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_156.png",
+        "website": "Destinia",
+        "price": "FCFA 163,882",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.orbitz.com/Hotel-Search?selected=2642154&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=ORBITZ-SN.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.2642154.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=118915.02&exp_tx=12627.99&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+        "website": "Orbitz.com",
+        "price": "FCFA 118,915",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.expedia.com/Hotel-Search?selected=2642154&startDate=2022-02-04&endDate=2022-02-05&MDPCID=SN.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&adults=1&children=&MDPDTL=HTL.2642154.20220204.20220205.DDT.10.CID..AUDID.&mctc=10&ct=hotel&exp_curr=XOF&exp_dp=118915.02&exp_tx=12627.99&exp_pg=google&langid=en&ad=1&tp=&utm_source=google&utm_medium=cpc&utm_term=2642154&utm_content=localuniversal&utm_campaign=HotelAds&rrid=bex_default",
+        "logo": "//www.gstatic.com/travel-hotels/branding/5aabdc92-ace1-40b5-a9a8-f69510cc61eb.png",
+        "website": "Expedia.com",
+        "price": "FCFA 118,915",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.travelocity.com/Hotel-Search?selected=2642154&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=travelocity-SN.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.2642154.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=118915.02&exp_tx=12627.99&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_185.png",
+        "website": "Travelocity.com",
+        "price": "FCFA 118,915",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.ebookers.ie/Hotel-Search?selected=2642154&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&langid=en&MDPCID=EBOOKERS-SN.META.GOOGLE.ORGANIC-desktop-EN.HOTEL&MDPDTL=HTL.2642154.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=118619.10&exp_tx=12597.76",
+        "logo": "//www.gstatic.com/travel-hotels/branding/1af2ba27-a943-48b6-822c-864c167aaaa1_%5BUngrouped%5D.png",
+        "website": "ebookers.ie",
+        "price": "FCFA 118,619",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=313304&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.313304SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=313304&mpf=118915.02&mpj=12627.99&cur=XOF&mpg=XOF&mpl=USD&rateplanid=381878343",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 118,915",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.wotif.com/Hotel-Search?selected=2642154&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&mdpcid=wotif-SN.meta.hpa.organic-desktop-ROW-EN.hotel&mdpdtl=htl.2642154.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=118678.27&exp_tx=12599.74",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100325604.png",
+        "website": "Wotif.com",
+        "price": "FCFA 118,678",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://gg.bookingbargains.com/hotel/202596/?siteid=214&id=202596&rooms=1&adult_1=1&child_1=0&checkin=2022-02-04&checkout=2022-02-05&currency=USD&culture=en-US&nationality=SN&token=hpCCchRf6liZXtUFycQBpQ==&gg=i4DqTCO2S2hdqGCAa9iwMFxIU3gkmshMhVRIV3gyHgYl156YhLFBOxphmYGWDLth&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/6a3ecce5-b877-4352-849e-46bc68d3368c.png",
+        "website": "BookingBargains",
+        "price": "FCFA 118,909",
+        "infos": [
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terrou-Bi",
+    "options": [
+      {
+        "link": "https://terroubi.book-onlinenow.net/index.aspx?page=21&arrival=04/02/2022&departure=05/02/2022&rooms=1&src=805&cur=XOF&adults_1=1&affiliate=505",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_default.png",
+        "website": "Terrou-Bi Dakar",
+        "price": "FCFA 114,368",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.travelocity.com/Hotel-Search?selected=3638890&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=travelocity-SN.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.3638890.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=110554.26&exp_tx=11869.50&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_185.png",
+        "website": "Travelocity.com",
+        "price": "FCFA 110,554",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.expedia.com/Hotel-Search?selected=3638890&startDate=2022-02-04&endDate=2022-02-05&MDPCID=SN.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&adults=1&children=&MDPDTL=HTL.3638890.20220204.20220205.DDT.10.CID..AUDID.&mctc=10&ct=hotel&exp_curr=XOF&exp_dp=110554.26&exp_tx=11869.50&exp_pg=google&langid=en&ad=1&tp=&utm_source=google&utm_medium=cpc&utm_term=3638890&utm_content=localuniversal&utm_campaign=HotelAds&rrid=bex_default",
+        "logo": "//www.gstatic.com/travel-hotels/branding/5aabdc92-ace1-40b5-a9a8-f69510cc61eb.png",
+        "website": "Expedia.com",
+        "price": "FCFA 110,554",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.orbitz.com/Hotel-Search?selected=3638890&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=ORBITZ-SN.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.3638890.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=110554.26&exp_tx=11869.50&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+        "website": "Orbitz.com",
+        "price": "FCFA 110,554",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=348303&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.348303SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=348303&mpf=110554.26&mpj=11869.50&cur=XOF&mpg=XOF&mpl=USD&rateplanid=206149584",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 110,554",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=SN_HP%7C49892404_localuniversal_1%7C20220204%7Cdesktop%7Cdefaultdate|public|||10%7C1%7C0|0&hotelid=49892404&checkin=20220204&checkout=20220205&rooms=1&currency=XOF&displayedCurr=XOF&pOSCountryCode=SN&taxDisplayMode=BP&cityid=5000001022&adults=2&land=L&metaid=HhvPlacwPAkVZaBFCaU18WKFmij4e7kDsgBGTbLEaoYdfwD8A3PcMebZTn3bVEJnOBmsM5Cogekl2SiWtBjQVjdtB9FxCovzaH7qXomisg6CBRtgoMJuUklcMqKh2n8re9oaNeRVGhoyRlRqbP7k1poEt2J8kv4UDJpBNmugHtbQhmHgOsQL211cWeI_ZfyzEDbf36o4nFWrnVwWBHdJzJMiG1SAsL4O4d6BMlpSyhB6pUJz1GEFSis7-0Z7fTCxyqzO_Xdzk7_hpllvGjH3bw&dblcnt=true&user_num_adults=1",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_220.png",
+        "website": "Priceline",
+        "price": "FCFA 116,370",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.visits.reserving.com/colaboradores/click.php?i=7103&u=https://www.secure.centraldereservas.com/reservas/portal.cgi?rf=GOOGLEHOTELS&portal=rsvcom&lang=en&auto=1&tipo=S&id=97023&numero_habs=1&no_adultos_hab1=1&no_ninos_hab1=0&fecha_entrada=04%2F02%2F2022&fecha_salida=05%2F02%2F2022&refp=116493.31&campaing-id=&tp=&moneda=XOF&r=CAMPAIGN-ID=;TRACKING-PARAM=;CUSTOM1=;PRICE-DISPLAYED-TOTAL=116493.31;DEFAULT-DATE=1;CLICK-TYPE=hotel;USER-COUNTRY=SN;DEVICE=desktop;SITE=localuniversal;USER-LANGUAGE=en;USER-CURRENCY=XOF;POS=ALL-ALL-ALL-RSVCOM;AD-CLICK=0;PAYMENT-ID=free",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c5cc2b7b-66f8-465e-8c65-ce7f52dcb3d8.png",
+        "website": "Reserving.com",
+        "price": "FCFA 116,493",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/terrou-bi.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=58006101_89093826_2_2_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=116368.00&ext_price_tax=12397.09&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-580061&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-580061_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 116,368",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.ebookers.ie/Hotel-Search?selected=3638890&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&langid=en&MDPCID=EBOOKERS-SN.META.GOOGLE.ORGANIC-desktop-EN.HOTEL&MDPDTL=HTL.3638890.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=115996.20&exp_tx=12355.75",
+        "logo": "//www.gstatic.com/travel-hotels/branding/1af2ba27-a943-48b6-822c-864c167aaaa1_%5BUngrouped%5D.png",
+        "website": "ebookers.ie",
+        "price": "FCFA 115,996",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.wotif.com/Hotel-Search?selected=3638890&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&mdpcid=wotif-SN.meta.hpa.organic-desktop-ROW-EN.hotel&mdpdtl=htl.3638890.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=116060.73&exp_tx=12359.91",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100325604.png",
+        "website": "Wotif.com",
+        "price": "FCFA 116,061",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=XOF&hid=1444015&RoomID=9759088&PriceTax=11397.09&PriceTotal=115368.00&RatePlan=21be94b1-c795-eb86-0e5d-b9a20e9980ee&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+        "website": "Agoda",
+        "price": "FCFA 115,368",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.hotelscombined.com/semi/ha/hotel_ads/343523/en.html?utm_source=google&utm_medium=cpc&utm_term=343523&adType=0&utm_content=localuniversal&utm_campaign=HotelAds&ci=2022-02-04&co=2022-02-05&gs=localuniversal&l=1&pc=AUD&rid=&pdtax=1993.13&pdtotal=116060.73&rpid=&uc=SN&ucuc=XOF&d=desktop&lc=en&v=false&rrid=&k_pc=~SE9URUxTRE9UQ09NSEM&k_rt=200128635&k_sid=QiCkPBDInx&k_kct=1643126441&k_gct=1643148318&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack=",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b73f8d82-aa66-4ac5-861d-52bce84c9ae5.png",
+        "website": "HotelsCombined",
+        "price": "FCFA 116,061",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://vry9.destinia.com/dynclick/destinia/?etf-publisher=googlehotels&etf-name=googlehotels-hoteles&etf-prdref=H_226732&eseg-name=prices&eseg-item=hoteles&eurl=https://destinia.com/www/r.php?remite=googlehotelfree_SN&utm_source=googlehotels_free&request_type=1&multicon=true&num_rooms=1&num_adults=1&num_children=0&action=no_wait_page&hotel_code=226732&checkin_day=04&checkin_month=02&checkin_year=2022&checkout_day=05&checkout_month=02&checkout_year=2022&site=localuniversal&country_code=SN&currency_code=XOF&language_code=en&crawler=false&amount=178926.14&rate_plan_id=226732_265_bri_RF_2&partner_currency=EUR&campaign_id=&room_id=265&srp=2&srp1=3236392e35393935363730393935377c32352e3437313736373039393536377c31303830337c7c3234392e31317c313634333131353239397c323635&t=1643115300&pid=10803&s=3&rate=226732_5b22627269222c747275652c66616c73652c302c302c22356233303564222c33303039325d",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_156.png",
+        "website": "Destinia",
+        "price": "FCFA 178,926",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lamantin Beach Resort & SPA",
+    "options": [
+      {
+        "link": "https://wtbngprod-cdn.official-rates.com/xml/fichesatellite.phtml?tosite=tmphotel&from=Dist-GHP&DistNum=TASN14441703&fromdate=2022-02-04&todate=2022-02-05&lg=en&nbadult=1&currency=XOF&tdp=104387.91&vrfc=false&offercode=7NA2TLtXD7o&roomId=77304&usercountry=SN&device=desktop&price=104387.91&organicLink=true&rateId=155318",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_58.png",
+        "website": "Lamantin Beach Hotel",
+        "price": "FCFA 104,388",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.visits.reserving.com/colaboradores/click.php?i=7103&u=https://www.secure.centraldereservas.com/reservas/portal.cgi?rf=GOOGLEHOTELS&portal=rsvcom&lang=en&auto=1&tipo=S&id=100345&numero_habs=1&no_adultos_hab1=1&no_ninos_hab1=0&fecha_entrada=04%2F02%2F2022&fecha_salida=05%2F02%2F2022&refp=139870.45&campaing-id=&tp=&moneda=XOF&r=CAMPAIGN-ID=;TRACKING-PARAM=;CUSTOM1=;PRICE-DISPLAYED-TOTAL=139870.45;DEFAULT-DATE=1;CLICK-TYPE=hotel;USER-COUNTRY=SN;DEVICE=desktop;SITE=localuniversal;USER-LANGUAGE=en;USER-CURRENCY=XOF;POS=ALL-ALL-ALL-RSVCOM;AD-CLICK=0;PAYMENT-ID=free",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c5cc2b7b-66f8-465e-8c65-ce7f52dcb3d8.png",
+        "website": "Reserving.com",
+        "price": "FCFA 139,870",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotelscombined.com/semi/ha/hotel_ads/198555/en.html?utm_source=google&utm_medium=cpc&utm_term=198555&adType=0&utm_content=localuniversal&utm_campaign=HotelAds&ci=2022-02-04&co=2022-02-05&gs=localuniversal&l=1&pc=AUD&rid=&pdtax=2005.54&pdtotal=206090.80&rpid=&uc=SN&ucuc=XOF&d=desktop&lc=en&v=false&rrid=&k_pc=~UEFS&k_rt=30259805&k_sid=QNDkdyAc77&k_kct=1643100114&k_gct=1643111261&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack=",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b73f8d82-aa66-4ac5-861d-52bce84c9ae5.png",
+        "website": "HotelsCombined",
+        "price": "FCFA 206,091",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.wotif.com/Hotel-Search?selected=1695660&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&mdpcid=wotif-SN.meta.hpa.organic-desktop-ROW-EN.hotel&mdpdtl=htl.1695660.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=188499.95&exp_tx=17135.98",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100325604.png",
+        "website": "Wotif.com",
+        "price": "FCFA 188,500",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.travelocity.com/Hotel-Search?selected=1695660&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=travelocity-SN.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.1695660.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=188829.27&exp_tx=17167.35&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_185.png",
+        "website": "Travelocity.com",
+        "price": "FCFA 188,829",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=336177&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.336177SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=336177&mpf=188829.27&mpj=17167.35&cur=XOF&mpg=XOF&mpl=USD&rateplanid=200890077",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 188,829",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.ebookers.ie/Hotel-Search?selected=1695660&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&langid=en&MDPCID=EBOOKERS-SN.META.GOOGLE.ORGANIC-desktop-EN.HOTEL&MDPDTL=HTL.1695660.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=188377.75&exp_tx=17124.06",
+        "logo": "//www.gstatic.com/travel-hotels/branding/1af2ba27-a943-48b6-822c-864c167aaaa1_%5BUngrouped%5D.png",
+        "website": "ebookers.ie",
+        "price": "FCFA 188,378",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.expedia.com/Hotel-Search?selected=1695660&startDate=2022-02-04&endDate=2022-02-05&MDPCID=SN.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&adults=1&children=&MDPDTL=HTL.1695660.20220204.20220205.DDT.10.CID..AUDID.&mctc=10&ct=hotel&exp_curr=XOF&exp_dp=188829.27&exp_tx=17167.35&exp_pg=google&langid=en&ad=1&tp=&utm_source=google&utm_medium=cpc&utm_term=1695660&utm_content=localuniversal&utm_campaign=HotelAds&rrid=bex_default",
+        "logo": "//www.gstatic.com/travel-hotels/branding/5aabdc92-ace1-40b5-a9a8-f69510cc61eb.png",
+        "website": "Expedia.com",
+        "price": "FCFA 188,829",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.bringfido.com/lodging/149875?arrival=2022-02-04&departure=2022-02-05&adults=1&source=e&aid=googlehotels-localuniversal",
+        "logo": "//www.gstatic.com/travel-hotels/branding/43acfdaa-b8c3-4934-86a6-40269db7b0e1.png",
+        "website": "BringFido",
+        "price": "FCFA 188,829",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.orbitz.com/Hotel-Search?selected=1695660&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=ORBITZ-SN.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.1695660.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=188829.27&exp_tx=17167.35&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+        "website": "Orbitz.com",
+        "price": "FCFA 188,829",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=USD&hid=24435627&RoomID=1432609&PriceTax=18996.99&PriceTotal=188968.22&RatePlan=ff0da094-974e-ef7e-354a-570c3185a3db&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+        "website": "Agoda",
+        "price": "FCFA 188,968",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/lamantin-beach-resort.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=30259801_242530658_0_1_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=189309.00&ext_price_tax=19028.09&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-302598&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-302598_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 189,309",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://search.etrip.net/Hotel/Search?checkIn=2022-02-04&checkOut=2022-02-05&curr=XOF&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=1:&utm_source=gha&utm_medium=cpc&hotelId=1524406&userCountry=SN&utm_campaign=gha&profile=r2d2m73kn8&preferredRate=188823.48&token=&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dlocaluniversal%26ucountry%3DSN%26udevice%3Ddesktop%26hotel%3D1524406%26day%3D04%26month%3D02%26year%3D2022%26los%3D1%26price%3D188823.48%26currency%3DXOF%26userlang%3Den%26cid%3D%26listid%3D%26rateid%3DAfrica_Push%26closerateid%3D%26_th%3D90f790d3f96b491cb23e2342917374e8961184c85949db61%26query%3DPush%26g1%3D0%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/e36eb27d-3456-4b40-bfd8-fba88b94b935.png",
+        "website": "Etrip.net",
+        "price": "FCFA 188,823",
+        "infos": [
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pullman Dakar Teranga",
+    "options": [
+      {
+        "link": "https://travel-productads.koddi.com/PropertyAdvocateAPI/ClickRedirect?client=Accor&channel=GHPA&placement=localuniversal&campaign=&destinationURL=https%3A%2F%2Fall.accor.com%2Flien_externe.svlt%3Fgoto%3Drech_resa%26destination%3D0563%26dayIn%3D04%26monthIn%3D02%26yearIn%3D2022%26nightNb%3D1%26adultNumber%3D1%26childrenNumber%3D0%26merchantid%3Dseo-meta-google%26sourceid%3Dx-0563-SN-cpc-desktop-default-0--1-04-02-2022-10-Friday-localuniversal--0-0-0%26utm_source%3Dseo_meta_google%26utm_medium%3Dpartenariats%26utm_campaign%3D0563-SN-cpc-desktop-default-0--localuniversal--0-0-0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/500ad992-eda7-4280-aca2-5a58241172ab.png",
+        "website": "Pullman Dakar Teranga",
+        "price": "FCFA 137,000",
+        "infos": [
+          "Obtenez entre 5 et 10 % de réduction en vous inscrivant gratuitement"
+        ]
+      },
+      {
+        "link": "https://www.visits.reserving.com/colaboradores/click.php?i=7103&u=https://www.secure.centraldereservas.com/reservas/portal.cgi?rf=GOOGLEHOTELS&portal=rsvcom&lang=en&auto=1&tipo=S&id=96978&numero_habs=1&no_adultos_hab1=1&no_ninos_hab1=0&fecha_entrada=04%2F02%2F2022&fecha_salida=05%2F02%2F2022&refp=127122.27&campaing-id=&tp=&moneda=XOF&r=CAMPAIGN-ID=;TRACKING-PARAM=;CUSTOM1=;PRICE-DISPLAYED-TOTAL=127122.27;DEFAULT-DATE=1;CLICK-TYPE=hotel;USER-COUNTRY=SN;DEVICE=desktop;SITE=localuniversal;USER-LANGUAGE=en;USER-CURRENCY=XOF;POS=ALL-ALL-ALL-RSVCOM;AD-CLICK=0;PAYMENT-ID=free",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c5cc2b7b-66f8-465e-8c65-ce7f52dcb3d8.png",
+        "website": "Reserving.com",
+        "price": "FCFA 127,122",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.prestigia.com/en/produit.php?idTarget=19596&arrivee=04/02/2022&depart=05/02/2022&pid=0&a=1000154&dev=XOF&propalRoomId=12358403OI0-KGB-RA4DERC-RO-&pr=14058.12&ra=135017.02",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_101283631.png",
+        "website": "Prestigia.com",
+        "price": "FCFA 135,017",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.ebookers.ie/Hotel-Search?selected=20120&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&langid=en&MDPCID=EBOOKERS-SN.META.GOOGLE.ORGANIC-desktop-EN.HOTEL&MDPDTL=HTL.20120.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=135566.56&exp_tx=12323.04",
+        "logo": "//www.gstatic.com/travel-hotels/branding/1af2ba27-a943-48b6-822c-864c167aaaa1_%5BUngrouped%5D.png",
+        "website": "ebookers.ie",
+        "price": "FCFA 135,567",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.wotif.com/Hotel-Search?selected=20120&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&mdpcid=wotif-SN.meta.hpa.organic-desktop-ROW-EN.hotel&mdpdtl=htl.20120.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=135644.70&exp_tx=12330.96",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100325604.png",
+        "website": "Wotif.com",
+        "price": "FCFA 135,645",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.orbitz.com/Hotel-Search?selected=20120&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=ORBITZ-SN.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.20120.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=135914.45&exp_tx=12355.86&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+        "website": "Orbitz.com",
+        "price": "FCFA 135,914",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.expedia.com/Hotel-Search?selected=20120&startDate=2022-02-04&endDate=2022-02-05&MDPCID=SN.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&adults=1&children=&MDPDTL=HTL.20120.20220204.20220205.DDT.10.CID..AUDID.&mctc=10&ct=hotel&exp_curr=XOF&exp_dp=135914.45&exp_tx=12355.86&exp_pg=google&langid=en&ad=1&tp=&utm_source=google&utm_medium=cpc&utm_term=20120&utm_content=localuniversal&utm_campaign=HotelAds&rrid=bex_default",
+        "logo": "//www.gstatic.com/travel-hotels/branding/5aabdc92-ace1-40b5-a9a8-f69510cc61eb.png",
+        "website": "Expedia.com",
+        "price": "FCFA 135,914",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.travelocity.com/Hotel-Search?selected=20120&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=travelocity-SN.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.20120.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=135914.45&exp_tx=12355.86&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_185.png",
+        "website": "Travelocity.com",
+        "price": "FCFA 135,914",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=106899&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.106899SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=106899&mpf=135914.45&mpj=12355.86&cur=XOF&mpg=XOF&mpl=USD&rateplanid=208770709",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 135,914",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=XOF&hid=78270&RoomID=46291787&PriceTax=14363.64&PriceTotal=138000.00&RatePlan=104a433c-619d-c7b5-0d05-bedd80093886&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100337601.png",
+        "website": "Agoda",
+        "price": "FCFA 138,000",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.bluepillow.com/checkout/59439abc7c00cb0e643d86d6?begin=2022-02-04&end=2022-02-05&block_id=-b9842810_94307948_2_10_0-p123636.36-12363.64-2000-XOF&adults=2&childs=0&infants=0&country=SN&currency=XOF&utm_campaign=hotel",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+        "website": "bluepillow.com",
+        "price": "FCFA 138,000",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www2.esky.com/stays/details?metaCode=149087&checkInDate=2022-02-04&checkOutDate=2022-02-05&rooms%5B0%5D%5Badults%5D=1&partner_id=GHSUS&ctags=adType:0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/8f5b847b-af87-4e91-97b8-37d70e1c02b3.png",
+        "website": "eSky.com",
+        "price": "FCFA 138,849",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/dakar-teranga.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=9842806_94307948_1_10_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=137000.00&ext_price_tax=13363.64&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-98428&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-98428_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 137,000",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.hotelscombined.com/semi/ha/hotel_ads/60149/en.html?utm_source=google&utm_medium=cpc&utm_term=60149&adType=0&utm_content=localuniversal&utm_campaign=HotelAds&ci=2022-02-04&co=2022-02-05&gs=localuniversal&l=1&pc=AUD&rid=&pdtax=2005.54&pdtotal=138398.70&rpid=&uc=SN&ucuc=XOF&d=desktop&lc=en&v=false&rrid=&k_pc=~UEFS&k_rt=9842806&k_sid=QbAEWOydff&k_kct=1643130700&k_gct=1643135620&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack=",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b73f8d82-aa66-4ac5-861d-52bce84c9ae5.png",
+        "website": "HotelsCombined",
+        "price": "FCFA 138,399",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://gg.bookingbargains.com/hotel/92828/?siteid=214&id=92828&rooms=1&adult_1=1&child_1=0&checkin=2022-02-04&checkout=2022-02-05&currency=USD&culture=en-US&nationality=SN&token=hpCCchRf6liZXtUFycQBpQ==&gg=UWLaG4TARnZInpyYH4onTvLKt7QWpcvx/lsvcRylm5muzr9jk/uv9pl+cSKe9BWg&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/6a3ecce5-b877-4352-849e-46bc68d3368c.png",
+        "website": "BookingBargains",
+        "price": "FCFA 136,650",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://search.etrip.net/Hotel/Search?checkIn=2022-02-04&checkOut=2022-02-05&curr=XOF&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=1:&utm_source=gha&utm_medium=cpc&hotelId=1108874&userCountry=SN&utm_campaign=gha&profile=r2d2m73kn8&preferredRate=137431.44&token=&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dlocaluniversal%26ucountry%3DSN%26udevice%3Ddesktop%26hotel%3D1108874%26day%3D04%26month%3D02%26year%3D2022%26los%3D1%26price%3D137431.44%26currency%3DXOF%26userlang%3Den%26cid%3D%26listid%3D%26rateid%3DAfrica_Push%26closerateid%3D%26_th%3D036b40b85e4c3e90bf2953ca3d340e03b7327bf6d4c8f38f%26query%3DPush%26g1%3D0%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/e36eb27d-3456-4b40-bfd8-fba88b94b935.png",
+        "website": "Etrip.net",
+        "price": "FCFA 137,431",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://vry9.destinia.com/dynclick/destinia/?etf-publisher=googlehotels&etf-name=googlehotels-hoteles&etf-prdref=H_50415&eseg-name=prices&eseg-item=hoteles&eurl=https://destinia.com/www/r.php?remite=googlehotelfree_SN&utm_source=googlehotels_free&request_type=1&multicon=true&num_rooms=1&num_adults=1&num_children=0&action=no_wait_page&hotel_code=50415&checkin_day=04&checkin_month=02&checkin_year=2022&checkout_day=05&checkout_month=02&checkout_year=2022&site=localuniversal&country_code=SN&currency_code=XOF&language_code=en&crawler=false&amount=140988.97&rate_plan_id=50415_907_nin_NRF_2&partner_currency=EUR&campaign_id=&room_id=907&srp=2&srp0=3231322e34387c33312e393733387c31313534387c7c3138342e31397c313634333131353239397c393037&t=1643115300&pid=11548&s=3&rate=50415_5b226e696e222c66616c73652c66616c73652c302c302c22356233303564222c33303039325d",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_156.png",
+        "website": "Destinia",
+        "price": "FCFA 140,989",
+        "infos": [
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Neptune",
+    "options": [
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=USD&hid=24435551&RoomID=1633519&PriceTax=7376.46&PriceTotal=71170.68&RatePlan=bdd85c49-424d-ebd6-a9a9-b27c98a9da51&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+        "website": "Agoda",
+        "price": "FCFA 71,171",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/neptune.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=31023501_335371779_1_1_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=71300.00&ext_price_tax=7390.91&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-310235&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-310235_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 71,300",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.visits.reserving.com/colaboradores/click.php?i=7103&u=https://www.secure.centraldereservas.com/reservas/portal.cgi?rf=GOOGLEHOTELS&portal=rsvcom&lang=en&auto=1&tipo=S&id=99705&numero_habs=1&no_adultos_hab1=1&no_ninos_hab1=0&fecha_entrada=04%2F02%2F2022&fecha_salida=05%2F02%2F2022&refp=89086.97&campaing-id=&tp=&moneda=XOF&r=CAMPAIGN-ID=;TRACKING-PARAM=;CUSTOM1=;PRICE-DISPLAYED-TOTAL=89086.97;DEFAULT-DATE=1;CLICK-TYPE=hotel;USER-COUNTRY=SN;DEVICE=desktop;SITE=localuniversal;USER-LANGUAGE=en;USER-CURRENCY=XOF;POS=ALL-ALL-ALL-RSVCOM;AD-CLICK=0;PAYMENT-ID=free",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c5cc2b7b-66f8-465e-8c65-ce7f52dcb3d8.png",
+        "website": "Reserving.com",
+        "price": "FCFA 89,087",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://vry9.destinia.com/dynclick/destinia/?etf-publisher=googlehotels&etf-name=googlehotels-hoteles&etf-prdref=H_226729&eseg-name=prices&eseg-item=hoteles&eurl=https://destinia.com/www/r.php?remite=googlehotelfree_SN&utm_source=googlehotels_free&request_type=1&multicon=true&num_rooms=1&num_adults=1&num_children=0&action=no_wait_page&hotel_code=226729&checkin_day=04&checkin_month=02&checkin_year=2022&checkout_day=05&checkout_month=02&checkout_year=2022&site=localuniversal&country_code=SN&currency_code=XOF&language_code=en&crawler=false&amount=95202.71&rate_plan_id=226729_558_hbi_RF_2&partner_currency=EUR&campaign_id=&room_id=558&srp=2&srp2=3134312e36393031343038343530377c31332e35323537343038343530377c31303830337c7c3133302e37387c313634333134383630347c353538&t=1643148604&pid=10803&s=3&rate=226729_5b22686269222c747275652c66616c73652c302c302c22356233303564222c33303038365d",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_156.png",
+        "website": "Destinia",
+        "price": "FCFA 95,203",
+        "infos": [
+          "Annulation gratuite jusqu'au Jan 31",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.wotif.com/Hotel-Search?selected=3751636&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&mdpcid=wotif-SN.meta.hpa.organic-desktop-ROW-EN.hotel&mdpdtl=htl.3751636.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=98180.42&exp_tx=8927.75",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100325604.png",
+        "website": "Wotif.com",
+        "price": "FCFA 98,180",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://search.etrip.net/Hotel/Search?checkIn=2022-02-04&checkOut=2022-02-05&curr=XOF&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=1:&utm_source=gha&utm_medium=cpc&hotelId=1649906&userCountry=SN&utm_campaign=gha&profile=r2d2m73kn8&preferredRate=98343.15&token=&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dlocaluniversal%26ucountry%3DSN%26udevice%3Ddesktop%26hotel%3D1649906%26day%3D04%26month%3D02%26year%3D2022%26los%3D1%26price%3D98343.15%26currency%3DXOF%26userlang%3Den%26cid%3D%26listid%3D%26rateid%3DAfrica_Push%26closerateid%3D%26_th%3D6b2a847719f72b86f1c2d654db5a8ea891ddebffdaa326fc%26query%3DPush%26g1%3D0%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/e36eb27d-3456-4b40-bfd8-fba88b94b935.png",
+        "website": "Etrip.net",
+        "price": "FCFA 98,343",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.travelocity.com/Hotel-Search?selected=3751636&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=travelocity-SN.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.3751636.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=96559.83&exp_tx=8777.64&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_185.png",
+        "website": "Travelocity.com",
+        "price": "FCFA 96,560",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.ebookers.ie/Hotel-Search?selected=3751636&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&langid=en&MDPCID=EBOOKERS-SN.META.GOOGLE.ORGANIC-desktop-EN.HOTEL&MDPDTL=HTL.3751636.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=98113.41&exp_tx=8921.78",
+        "logo": "//www.gstatic.com/travel-hotels/branding/1af2ba27-a943-48b6-822c-864c167aaaa1_%5BUngrouped%5D.png",
+        "website": "ebookers.ie",
+        "price": "FCFA 98,113",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.expedia.com/Hotel-Search?selected=3751636&startDate=2022-02-04&endDate=2022-02-05&MDPCID=SN.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&adults=1&children=&MDPDTL=HTL.3751636.20220204.20220205.DDT.10.CID..AUDID.&mctc=10&ct=hotel&exp_curr=XOF&exp_dp=96559.83&exp_tx=8777.64&exp_pg=google&langid=en&ad=1&tp=&utm_source=google&utm_medium=cpc&utm_term=3751636&utm_content=localuniversal&utm_campaign=HotelAds&rrid=bex_default",
+        "logo": "//www.gstatic.com/travel-hotels/branding/5aabdc92-ace1-40b5-a9a8-f69510cc61eb.png",
+        "website": "Expedia.com",
+        "price": "FCFA 96,560",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=351716&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.351716SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=351716&mpf=96559.83&mpj=8777.64&cur=XOF&mpg=XOF&mpl=USD&rateplanid=382536350",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 96,560",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.orbitz.com/Hotel-Search?selected=3751636&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=ORBITZ-SN.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.3751636.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=96559.83&exp_tx=8777.64&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+        "website": "Orbitz.com",
+        "price": "FCFA 96,560",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Les Paletuviers ",
+    "options": [
+      {
+        "link": "https://www.booking.com/hotel/sn/international-vdn.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=252439101_195339145_1_1_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=39379.60&ext_price_tax=4489.05&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-2524391&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-sn_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-2524391_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-sn_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 121,680",
+        "infos": [
+          "2 personne"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hotelgandiol - Saint-Louis",
+    "options": [
+      {
+        "link": "https://www.booking.com/hotel/sn/hotelgandiol.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=613393905_240053056_1_41_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=24465.00&ext_price_tax=3133.18&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-6133939&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-sn_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-6133939_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-sn_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 24,465",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=XOF&hid=12466870&RoomID=219000960&PriceTax=3245.45&PriceTotal=25700.00&RatePlan=d04eacf7-531c-400b-b099-42ae27d593f5&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+        "website": "Agoda",
+        "price": "FCFA 25,700",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "1 personne"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "FaDu’GH",
+    "options": [
+      {
+        "link": "https://www.booking.com/hotel/sn/hotelgandiol.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=613393905_240053056_1_41_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=24465.00&ext_price_tax=3133.18&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-6133939&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-sn_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-6133939_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-sn_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 80,000",
+        "infos": [
+          "2 personne"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hotel L'Adresse Dakar",
+    "options": [
+      {
+        "link": "https://hotels.cloudbeds.com/en/reservation/xbYtNC?currency=XOF#checkin=2022-02-04&checkout=2022-02-05&rid=234218&rpid=118595&origin=gha&gha_advance_booking_window=10&gha_google_site=localuniversal&gha_length=1&gha_price_displayed_total=68000.00&gha_user_country=SN&gha_user_currency=XOF&gha_user_device=desktop&gha_user_language=en&gha_is_ad_click=0&gha_is_click_type_hotel=1&gha_is_click_type_room=0&gha_is_hotel_campaign=1&gha_is_promoted=0&adults=1&kids=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_default.png",
+        "website": "L'Adresse Hotel",
+        "price": "FCFA 68,000",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=XOF&hid=12164253&RoomID=141713967&PriceTax=8000.00&PriceTotal=78000.00&RatePlan=e3eddfcf-7440-168a-5051-7a92cabfc99c&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+        "website": "Agoda",
+        "price": "FCFA 78,000",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.bluepillow.com/checkout/5eb44e4067a9d10d04237cf9?begin=2022-02-04&end=2022-02-05&block_id=-b593941604_232922024_2_2_0-p70000-7000-2000-XOF&adults=2&childs=0&infants=0&country=SN&currency=XOF&utm_campaign=hotel",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+        "website": "bluepillow.com",
+        "price": "FCFA 79,000",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=SN_HP%7C126464203_localuniversal_1%7C20220204%7Cdesktop%7Cdefaultdate|public|||10%7C1%7C0|0&hotelid=126464203&checkin=20220204&checkout=20220205&rooms=1&currency=XOF&displayedCurr=XOF&pOSCountryCode=SN&taxDisplayMode=BP&cityid=5000001022&adults=2&land=L&metaid=Z7peHimHoItfE-bdolYYYkn7sXpMp7mFhvKkHH-BkrhK0Tlp-SDAptMI7FoesWmOJbrdFas3zDT9Y9hnc3lzg4rxVvaVVrv5dnQzZPCdoZgtNm74_1gzRbSJtl_O98GYy66BoAzs3RvlCMz76B-05hXyg1sqwqWxyWuPhKVrasq5n20xi_2apZOiTxtJ1m0pHiwB1q6-0p_IxHE2M9EltzwCUq_cB_jLjeWVAK5JFLvjOtaVjaPrEb7mT3uEsv0OyUHdVvGtbyVL7SBkHIj5gQ&dblcnt=true&user_num_adults=1",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_220.png",
+        "website": "Priceline",
+        "price": "FCFA 79,000",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://search.etrip.net/Hotel/Search?checkIn=2022-02-04&checkOut=2022-02-05&curr=XOF&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=1:&utm_source=gha&utm_medium=cpc&hotelId=5164271&userCountry=SN&utm_campaign=gha&profile=r2d2m73kn8&preferredRate=78674.52&token=&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dlocaluniversal%26ucountry%3DSN%26udevice%3Ddesktop%26hotel%3D5164271%26day%3D04%26month%3D02%26year%3D2022%26los%3D1%26price%3D78674.52%26currency%3DXOF%26userlang%3Den%26cid%3D%26listid%3D%26rateid%3DAfrica_Push%26closerateid%3D%26_th%3D036b40cf5ec63e90052953ca3dfd0e03b7327bf6d4c8f38f%26query%3DPush%26g1%3D0%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/e36eb27d-3456-4b40-bfd8-fba88b94b935.png",
+        "website": "Etrip.net",
+        "price": "FCFA 78,675",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.ebookers.ie/Hotel-Search?selected=45162588&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&langid=en&MDPCID=EBOOKERS-SN.META.GOOGLE.ORGANIC-desktop-EN.HOTEL&MDPDTL=HTL.45162588.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=82735.76&exp_tx=12957.51",
+        "logo": "//www.gstatic.com/travel-hotels/branding/1af2ba27-a943-48b6-822c-864c167aaaa1_%5BUngrouped%5D.png",
+        "website": "ebookers.ie",
+        "price": "FCFA 82,736",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.wotif.com/Hotel-Search?selected=45162588&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&mdpcid=wotif-SN.meta.hpa.organic-desktop-ROW-EN.hotel&mdpdtl=htl.45162588.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=82781.19&exp_tx=12963.64",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100325604.png",
+        "website": "Wotif.com",
+        "price": "FCFA 82,781",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.orbitz.com/Hotel-Search?selected=45162588&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=ORBITZ-SN.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.45162588.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=82947.54&exp_tx=12992.76&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+        "website": "Orbitz.com",
+        "price": "FCFA 82,948",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.expedia.com/Hotel-Search?selected=45162588&startDate=2022-02-04&endDate=2022-02-05&MDPCID=SN.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&adults=1&children=&MDPDTL=HTL.45162588.20220204.20220205.DDT.10.CID..AUDID.&mctc=10&ct=hotel&exp_curr=XOF&exp_dp=82947.54&exp_tx=12992.76&exp_pg=google&langid=en&ad=1&tp=&utm_source=google&utm_medium=cpc&utm_term=45162588&utm_content=localuniversal&utm_campaign=HotelAds&rrid=bex_default",
+        "logo": "//www.gstatic.com/travel-hotels/branding/5aabdc92-ace1-40b5-a9a8-f69510cc61eb.png",
+        "website": "Expedia.com",
+        "price": "FCFA 82,948",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.travelocity.com/Hotel-Search?selected=45162588&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=travelocity-SN.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.45162588.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=82947.54&exp_tx=12992.76&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_185.png",
+        "website": "Travelocity.com",
+        "price": "FCFA 82,948",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=1446202816&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.1446202816SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=1446202816&mpf=82947.54&mpj=12992.76&cur=XOF&mpg=XOF&mpl=USD&rateplanid=260283558",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 82,948",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hotel Lagon 2",
+    "options": [
+      {
+        "link": "https://www.hotelscombined.com/semi/ha/hotel_ads/75986/en.html?utm_source=google&utm_medium=cpc&utm_term=75986&adType=0&utm_content=localuniversal&utm_campaign=HotelAds&ci=2022-02-04&co=2022-02-05&gs=localuniversal&l=1&pc=AUD&rid=free_cancel&pdtax=0.00&pdtotal=83773.62&rpid=&uc=SN&ucuc=XOF&d=desktop&lc=en&v=false&rrid=&k_pc=~SE9URUxTRE9UQ09NSEM&k_rt=200125511&k_sid=QgCkFpHOYq&k_kct=1643144538&k_gct=1643145403&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack=",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b73f8d82-aa66-4ac5-861d-52bce84c9ae5.png",
+        "website": "HotelsCombined",
+        "price": "FCFA 83,774",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=243821&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.243821SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=243821&mpf=83926.05&mpj=7631.22&cur=XOF&mpg=XOF&mpl=USD&rateplanid=200691237",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 83,926",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.bringfido.com/lodging/149865?arrival=2022-02-04&departure=2022-02-05&adults=1&source=e&aid=googlehotels-localuniversal",
+        "logo": "//www.gstatic.com/travel-hotels/branding/43acfdaa-b8c3-4934-86a6-40269db7b0e1.png",
+        "website": "BringFido",
+        "price": "FCFA 83,926",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://search.etrip.net/Hotel/Search?checkIn=2022-02-04&checkOut=2022-02-05&curr=XOF&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=1:&utm_source=gha&utm_medium=cpc&hotelId=1446608&userCountry=SN&utm_campaign=gha&profile=r2d2m73kn8&preferredRate=83926.05&token=&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dlocaluniversal%26ucountry%3DSN%26udevice%3Ddesktop%26hotel%3D1446608%26day%3D04%26month%3D02%26year%3D2022%26los%3D1%26price%3D83926.05%26currency%3DXOF%26userlang%3Den%26cid%3D%26listid%3D%26rateid%3DAfrica_Push%26closerateid%3D%26_th%3Df7bb9925bcbc8f8ec2fccfdae0d897a0fe523885f5b06187%26query%3DPush%26g1%3D0%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/e36eb27d-3456-4b40-bfd8-fba88b94b935.png",
+        "website": "Etrip.net",
+        "price": "FCFA 83,926",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.visits.reserving.com/colaboradores/click.php?i=7103&u=https://www.secure.centraldereservas.com/reservas/portal.cgi?rf=GOOGLEHOTELS&portal=rsvcom&lang=en&auto=1&tipo=S&id=31511&numero_habs=1&no_adultos_hab1=1&no_ninos_hab1=0&fecha_entrada=04%2F02%2F2022&fecha_salida=05%2F02%2F2022&refp=86189.36&campaing-id=&tp=&moneda=XOF&r=CAMPAIGN-ID=;TRACKING-PARAM=;CUSTOM1=;PRICE-DISPLAYED-TOTAL=86189.36;DEFAULT-DATE=1;CLICK-TYPE=hotel;USER-COUNTRY=SN;DEVICE=desktop;SITE=localuniversal;USER-LANGUAGE=en;USER-CURRENCY=XOF;POS=ALL-ALL-ALL-RSVCOM;AD-CLICK=0;PAYMENT-ID=free",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c5cc2b7b-66f8-465e-8c65-ce7f52dcb3d8.png",
+        "website": "Reserving.com",
+        "price": "FCFA 86,189",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://vry9.destinia.com/dynclick/destinia/?etf-publisher=googlehotels&etf-name=googlehotels-hoteles&etf-prdref=H_50409&eseg-name=prices&eseg-item=hoteles&eurl=https://destinia.com/www/r.php?remite=googlehotelfree_SN&utm_source=googlehotels_free&request_type=1&multicon=true&num_rooms=1&num_adults=1&num_children=0&action=no_wait_page&hotel_code=50409&checkin_day=04&checkin_month=02&checkin_year=2022&checkout_day=05&checkout_month=02&checkout_year=2022&site=localuniversal&country_code=SN&currency_code=XOF&language_code=en&crawler=false&amount=89930.75&rate_plan_id=50409_295_bri_RF_2&partner_currency=EUR&campaign_id=&room_id=295&srp=2&srp1=3133372e30343534353435343534357c31322e3934383035343534353435357c31303830337c7c3132362e36337c313634333131353239397c323935&t=1643115300&pid=10803&s=3&rate=50409_5b22627269222c747275652c66616c73652c302c302c22356233303564222c33303039325d",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_156.png",
+        "website": "Destinia",
+        "price": "FCFA 89,931",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=XOF&hid=7092987&RoomID=85513077&PriceTax=0.00&PriceTotal=175000.00&RatePlan=114a62bf-d37e-c470-bd8a-cad77711227c&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100337601.png",
+        "website": "Agoda",
+        "price": "FCFA 175,000",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.bluepillow.com/checkout/5caf4820e24da42df017ce64?begin=2022-02-04&end=2022-02-05&block_id=-b50070207_155809624_2_41_0-p175000-0-0-XOF&adults=2&childs=0&infants=0&country=SN&currency=XOF&utm_campaign=hotel",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+        "website": "bluepillow.com",
+        "price": "FCFA 175,000",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/lagon-2.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=50070207_155809624_2_41_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=175000.00&ext_price_tax=0.00&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-500702&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-500702_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 175,000",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "International Hotel Dakar",
+    "options": [
+      {
+        "link": "https://www.booking.com/hotel/sn/international-vdn.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=252439101_195339145_1_1_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=39379.60&ext_price_tax=4489.05&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-2524391&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-sn_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-2524391_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-sn_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 39,380",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=XOF&hid=2675342&RoomID=16548134&PriceTax=4876.73&PriceTotal=43644.00&RatePlan=01d1a7b9-a50b-6be2-24b9-a9e45e07c9cd&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100337601.png",
+        "website": "Agoda",
+        "price": "FCFA 43,644",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.ebookers.ie/Hotel-Search?selected=19834161&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&langid=en&MDPCID=EBOOKERS-SN.META.GOOGLE.ORGANIC-desktop-EN.HOTEL&MDPDTL=HTL.19834161.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=47741.98&exp_tx=6122.28",
+        "logo": "//www.gstatic.com/travel-hotels/branding/1af2ba27-a943-48b6-822c-864c167aaaa1_%5BUngrouped%5D.png",
+        "website": "ebookers.ie",
+        "price": "FCFA 47,742",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.wotif.com/Hotel-Search?selected=19834161&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&mdpcid=wotif-SN.meta.hpa.organic-desktop-ROW-EN.hotel&mdpdtl=htl.19834161.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=47769.04&exp_tx=6128.26",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100325604.png",
+        "website": "Wotif.com",
+        "price": "FCFA 47,769",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.travelocity.com/Hotel-Search?selected=19834161&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=travelocity-SN.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.19834161.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=47860.14&exp_tx=6137.40&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_185.png",
+        "website": "Travelocity.com",
+        "price": "FCFA 47,860",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=635693152&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.635693152SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=635693152&mpf=47860.14&mpj=6137.40&cur=XOF&mpg=XOF&mpl=USD&rateplanid=211078424",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 47,860",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.expedia.com/Hotel-Search?selected=19834161&startDate=2022-02-04&endDate=2022-02-05&MDPCID=SN.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&adults=1&children=&MDPDTL=HTL.19834161.20220204.20220205.DDT.10.CID..AUDID.&mctc=10&ct=hotel&exp_curr=XOF&exp_dp=47860.14&exp_tx=6137.40&exp_pg=google&langid=en&ad=1&tp=&utm_source=google&utm_medium=cpc&utm_term=19834161&utm_content=localuniversal&utm_campaign=HotelAds&rrid=bex_us_desktop",
+        "logo": "//www.gstatic.com/travel-hotels/branding/5aabdc92-ace1-40b5-a9a8-f69510cc61eb.png",
+        "website": "Expedia.com",
+        "price": "FCFA 47,860",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.orbitz.com/Hotel-Search?selected=19834161&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=ORBITZ-SN.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.19834161.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=47860.14&exp_tx=6137.40&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+        "website": "Orbitz.com",
+        "price": "FCFA 47,860",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.bluepillow.com/checkout/5a84f8847c00cb0e042742a1?begin=2022-02-04&end=2022-02-05&block_id=-b252439101_195339145_2_1_0-p41749.09-4174.91-2000-XOF&adults=2&childs=0&infants=0&country=SN&currency=XOF&utm_campaign=hotel",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+        "website": "bluepillow.com",
+        "price": "FCFA 47,924",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotelscombined.com/semi/ha/hotel_ads/3374447/en.html?utm_source=google&utm_medium=cpc&utm_term=3374447&adType=0&utm_content=localuniversal&utm_campaign=HotelAds&ci=2022-02-04&co=2022-02-05&gs=localuniversal&l=1&pc=AUD&rid=free_cancel&pdtax=1964.19&pdtotal=47769.04&rpid=&uc=SN&ucuc=XOF&d=desktop&lc=en&v=false&rrid=&k_pc=~RVhQRURJQUhPVEVMSEM&k_rt=202162526&k_sid=QNAEKNaPOV&k_kct=1643103211&k_gct=1643110379&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack=",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b73f8d82-aa66-4ac5-861d-52bce84c9ae5.png",
+        "website": "HotelsCombined",
+        "price": "FCFA 47,769",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://search.etrip.net/Hotel/Search?checkIn=2022-02-04&checkOut=2022-02-05&curr=XOF&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=1:&utm_source=gha&utm_medium=cpc&hotelId=3524824&userCountry=SN&utm_campaign=gha&profile=r2d2m73kn8&preferredRate=47860.14&token=&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dlocaluniversal%26ucountry%3DSN%26udevice%3Ddesktop%26hotel%3D3524824%26day%3D04%26month%3D02%26year%3D2022%26los%3D1%26price%3D47860.14%26currency%3DXOF%26userlang%3Den%26cid%3D%26listid%3D%26rateid%3DAfrica_Push%26closerateid%3D%26_th%3Def013d1dfda81fa08368558357d95a906b0a1f20b17957ff%26query%3DPush%26g1%3D0%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/e36eb27d-3456-4b40-bfd8-fba88b94b935.png",
+        "website": "Etrip.net",
+        "price": "FCFA 47,860",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BOMA LifeStyle Hotel",
+    "options": [
+      {
+        "link": "https://hotels.wix.com/promotion/refer/google?propertyId=0aea6c45-5918-468d-8ceb-3c4ba8d016cd&checkin=2022-02-04&checkout=2022-02-05&adults=1&children=0&bookingSource=cpc&displayedPrice=90000.00",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_default.png",
+        "website": "BOMA Lifestyle Hotel",
+        "price": "FCFA 90,000",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/boma-dakar.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=682440301_298234398_1_0_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=82000.00&ext_price_tax=8363.64&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-6824403&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-sn_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-6824403_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-sn_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/0db7b410-170b-414a-a1d7-453125a74f54.png",
+        "website": "Booking.com",
+        "price": "FCFA 82,000",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=SN_HP%7C122943605_localuniversal_1%7C20220204%7Cdesktop%7Cdefaultdate|public|||10%7C1%7C0|0&hotelid=122943605&checkin=20220204&checkout=20220205&rooms=1&currency=XOF&displayedCurr=XOF&pOSCountryCode=SN&taxDisplayMode=BP&cityid=5000001022&adults=1&land=L&metaid=pOYMHrGBu7NUl2-rSWDt2GaTvtCIJ_UVAo3gcHkKYPQE1cFN4YXn0RGpjU1eHjxVSyQJuSqyVXyjqU3VT4O1G1Jt4RazlRr9P91luQuDuKy4mugc8WWa84T34EL5KQd8hPb_k_M_7jA5Xl8lUhDuNshFB35OOJTCkcZSjDOyH7coFtEUxovE5D39JdET6YrCO9g7gBZgExIXxjZANuhh0t3SxDFQRETEhi5vs9VC2bLezfAzGJKMjdqDPNtx2e1w22nVDDmxU0HiLMLo0SGGIA&dblcnt=true&user_num_adults=1",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_220.png",
+        "website": "Priceline",
+        "price": "FCFA 91,000",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=XOF&hid=18776985&RoomID=272169471&PriceTax=9181.82&PriceTotal=91000.00&RatePlan=1dd4b89a-e6db-6531-b100-5846c1ef08e4&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+        "website": "Agoda",
+        "price": "FCFA 91,000",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.bluepillow.com/checkout/5ff78f6d2e43a44b27e23dd5?begin=2022-02-04&end=2022-02-05&block_id=-b682440302_298234398_2_0_0-p90909.09-9090.91-2000-XOF&adults=2&childs=0&infants=0&country=SN&currency=XOF&utm_campaign=hotel",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+        "website": "bluepillow.com",
+        "price": "FCFA 102,000",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hotel Fleur de Lys Plateau",
+    "options": [
+      {
+        "link": "https://app.thebookingbutton.com/properties/fleurdelysdirect?locale=en&currency=XOF&check_out_date=2022-02-05&check_in_date=2022-02-04&number_adults=1&_src=DemandPlus&meta=Google&campaign_id=&utm_source=GoogleHotelAds&_gha_gcid=100588786&_gha_phid=1d087e24-abbc-41f9-a841-ebbc2bf3427a&_gads_gcid=731734140&_gads_gclabel=1GYcCOzFp7MBEPzA9dwC&booking_source=organic&room_rate=",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_default.png",
+        "website": "Hôtel Fleur de Lys Plateau",
+        "price": "FCFA 62,200",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=USD&hid=24435541&RoomID=4842042&PriceTax=7196.97&PriceTotal=68188.83&RatePlan=ee01d9f0-c714-0032-88ae-d720eff51c6a&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+        "website": "Agoda",
+        "price": "FCFA 68,189",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/fleur-de-lys-plateau.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=131635002_334999344_1_41_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=68310.00&ext_price_tax=7210.00&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-1316350&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-1316350_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 68,310",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.bluepillow.com/checkout/594381d47c00cb0e643181f2?begin=2022-02-04&end=2022-02-05&block_id=-b131635003_334999344_2_41_0-p82200-8220-2200-XOF&adults=2&childs=0&infants=0&country=SN&currency=XOF&utm_campaign=hotel",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+        "website": "bluepillow.com",
+        "price": "FCFA 92,620",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotelscombined.com/semi/ha/hotel_ads/2302152/en.html?utm_source=google&utm_medium=cpc&utm_term=2302152&adType=0&utm_content=localuniversal&utm_campaign=HotelAds&ci=2022-02-04&co=2022-02-05&gs=localuniversal&l=1&pc=AUD&rid=free_cancel&pdtax=2208.16&pdtotal=92891.59&rpid=&uc=SN&ucuc=XOF&d=desktop&lc=en&v=false&rrid=&k_pc=~UEFS&k_rt=131635003&k_sid=QYCkXwNR22&k_kct=1643112151&k_gct=1643130039&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack=",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b73f8d82-aa66-4ac5-861d-52bce84c9ae5.png",
+        "website": "HotelsCombined",
+        "price": "FCFA 92,892",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.ebookers.ie/Hotel-Search?selected=11769675&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&langid=en&MDPCID=EBOOKERS-SN.META.GOOGLE.ORGANIC-desktop-EN.HOTEL&MDPDTL=HTL.11769675.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=87719.92&exp_tx=20721.55",
+        "logo": "//www.gstatic.com/travel-hotels/branding/1af2ba27-a943-48b6-822c-864c167aaaa1_%5BUngrouped%5D.png",
+        "website": "ebookers.ie",
+        "price": "FCFA 87,720",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.wotif.com/Hotel-Search?selected=11769675&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&mdpcid=wotif-SN.meta.hpa.organic-desktop-ROW-EN.hotel&mdpdtl=htl.11769675.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=87772.30&exp_tx=20737.68",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100325604.png",
+        "website": "Wotif.com",
+        "price": "FCFA 87,772",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=536459&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.536459SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=536459&mpf=87944.31&mpj=20780.31&cur=XOF&mpg=XOF&mpl=USD&rateplanid=205651365",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 87,944",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.expedia.com/Hotel-Search?selected=11769675&startDate=2022-02-04&endDate=2022-02-05&MDPCID=SN.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&adults=1&children=&MDPDTL=HTL.11769675.20220204.20220205.DDT.10.CID..AUDID.&mctc=10&ct=hotel&exp_curr=XOF&exp_dp=87944.31&exp_tx=20780.31&exp_pg=google&langid=en&ad=1&tp=&utm_source=google&utm_medium=cpc&utm_term=11769675&utm_content=localuniversal&utm_campaign=HotelAds&rrid=bex_default",
+        "logo": "//www.gstatic.com/travel-hotels/branding/5aabdc92-ace1-40b5-a9a8-f69510cc61eb.png",
+        "website": "Expedia.com",
+        "price": "FCFA 87,944",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.travelocity.com/Hotel-Search?selected=11769675&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=travelocity-SN.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.11769675.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=87944.31&exp_tx=20780.31&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_185.png",
+        "website": "Travelocity.com",
+        "price": "FCFA 87,944",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.orbitz.com/Hotel-Search?selected=11769675&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=ORBITZ-SN.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.11769675.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=87944.31&exp_tx=20780.31&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+        "website": "Orbitz.com",
+        "price": "FCFA 87,944",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://search.etrip.net/Hotel/Search?checkIn=2022-02-04&checkOut=2022-02-05&curr=XOF&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=1:&utm_source=gha&utm_medium=cpc&hotelId=2674517&userCountry=SN&utm_campaign=gha&profile=r2d2m73kn8&preferredRate=87955.89&token=&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dlocaluniversal%26ucountry%3DSN%26udevice%3Ddesktop%26hotel%3D2674517%26day%3D04%26month%3D02%26year%3D2022%26los%3D1%26price%3D87955.89%26currency%3DXOF%26userlang%3Den%26cid%3D%26listid%3D%26rateid%3DAfrica_Pull%26closerateid%3D%26_th%3Da989382b8916225bec2da5ce803e1659bbccb8ac91541344%26query%3DPull%26g1%3D0%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/e36eb27d-3456-4b40-bfd8-fba88b94b935.png",
+        "website": "Etrip.net",
+        "price": "FCFA 87,956",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rysara Hotel",
+    "options": [
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=USD&hid=24435598&RoomID=6451937&PriceTax=8256.54&PriceTotal=80851.55&RatePlan=a947bbfd-2d94-4d23-db80-e34da58707c4&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+        "website": "Agoda",
+        "price": "FCFA 80,852",
+        "infos": [
+          "Annulation gratuite jusqu'au Jan 29",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=SN_HP%7C48973504_localuniversal_1%7C20220204%7Cdesktop%7Cdefaultdate|public|||10%7C1%7C0|0&hotelid=48973504&checkin=20220204&checkout=20220205&rooms=1&currency=XOF&displayedCurr=XOF&pOSCountryCode=SN&taxDisplayMode=BP&cityid=5000001022&adults=2&land=L&metaid=QvCaeLyF3Z5YABHjaf9rNBSkMlwJlAUvO4BYZnPb-_nD55y74JNJd1ZFZsfAvbH207OeZf4L2hP8DdnHNj9Kd_FL7bFx2epvfrqkLo9OVia7bMCwYo0X15g6pxXEaKcimv9orIFyZLUopIoD7NrGTXTp0qrRh8xm1tH_74RxkzrjcJiFwPFlnec28D2zdp3xySk1IhvzjVu5VwEkDU5af2tqTZXQM_wdSgbZSQRDLsNXQxm5bhpxW98NT2lbn54zS3KvgBjXCpDOY9-tcPF6ag&dblcnt=true&user_num_adults=1",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_220.png",
+        "website": "Priceline",
+        "price": "FCFA 82,002",
+        "infos": [
+          "Annulation gratuite jusqu'au Jan 30",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/rysara.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=30756902_226082963_2_41_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=82000.00&ext_price_tax=9272.73&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-307569&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-307569_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 82,000",
+        "infos": [
+          "Annulation gratuite jusqu'au Jan 29",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://search.etrip.net/Hotel/Search?checkIn=2022-02-04&checkOut=2022-02-05&curr=XOF&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=1:&utm_source=gha&utm_medium=cpc&hotelId=1659084&userCountry=SN&utm_campaign=gha&profile=r2d2m73kn8&preferredRate=81662.16&token=&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dlocaluniversal%26ucountry%3DSN%26udevice%3Ddesktop%26hotel%3D1659084%26day%3D04%26month%3D02%26year%3D2022%26los%3D1%26price%3D81662.16%26currency%3DXOF%26userlang%3Den%26cid%3D%26listid%3D%26rateid%3DAfrica_Push%26closerateid%3D%26_th%3D4d5cb91c6852834ca891df302d81bd2e5c616d68a0fdcb81%26query%3DPush%26g1%3D0%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/e36eb27d-3456-4b40-bfd8-fba88b94b935.png",
+        "website": "Etrip.net",
+        "price": "FCFA 81,662",
+        "infos": [
+          "Annulation gratuite jusqu'au Jan 30",
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "THE PALMS Luxury Boutique Hotel",
+    "options": [
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=XOF&hid=2640822&RoomID=15418862&PriceTax=12545.45&PriceTotal=128000.00&RatePlan=2258fca5-44fd-4ed6-99b2-429fb2264209&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+        "website": "Agoda",
+        "price": "FCFA 128,000",
+        "infos": [
+          "Annulation gratuite jusqu'au Jan 31",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=SN_HP%7C85041104_localuniversal_1%7C20220204%7Cdesktop%7Cdefaultdate|public|||10%7C1%7C0|0&hotelid=85041104&checkin=20220204&checkout=20220205&rooms=1&currency=XOF&displayedCurr=XOF&pOSCountryCode=SN&taxDisplayMode=BP&cityid=5000001022&adults=2&land=L&metaid=yn9_r47_fcRgUM8m26_dG02oc6rMDOcwDT3J28ARFFmcpFKvrwfQWT9gCLtWC8ecMUD6TGtTAphRWKsV2ewekxSfYim_jcdcS7n_qZCfnuus9FOTxCnpn81sXRs9M7R8iQyLDABuHjGrNBqMwx2ApDOS0kfpDxRBWJDNZRKCh4xJynyA-TMPK3qx9oY7xr3JoFepnHpKmKJsz7LWbmkqeL57O5HEq9uPm0aq8mV5Yv3NIftfFbJLw7xicgSFg39d6iWafM1rhB63bzzXM6_0hg&dblcnt=true&user_num_adults=1",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_220.png",
+        "website": "Priceline",
+        "price": "FCFA 129,000",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.bluepillow.com/checkout/5a84fa477c00cb0e04284c1d?begin=2022-02-04&end=2022-02-05&block_id=-b263560801_299000574_2_2_0-p115454.55-11545.45-2000-XOF&adults=2&childs=0&infants=0&country=SN&currency=XOF&utm_campaign=hotel",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+        "website": "bluepillow.com",
+        "price": "FCFA 129,000",
+        "infos": [
+          "Annulation gratuite jusqu'au Jan 31",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/the-palms-luxury-boutique.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=263560801_299000574_2_2_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=129000.00&ext_price_tax=13545.45&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-2635608&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-2635608_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 129,000",
+        "infos": [
+          "Annulation gratuite jusqu'au Jan 31",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotelscombined.com/semi/ha/hotel_ads/3123726/en.html?utm_source=google&utm_medium=cpc&utm_term=3123726&adType=0&utm_content=localuniversal&utm_campaign=HotelAds&ci=2022-02-04&co=2022-02-05&gs=localuniversal&l=1&pc=AUD&rid=free_cancel&pdtax=1989.00&pdtotal=128189.07&rpid=&uc=SN&ucuc=XOF&d=desktop&lc=en&v=false&rrid=&k_pc=~UEFS&k_rt=263560801&k_sid=QlBkU1NfZb&k_kct=1643059908&k_gct=1643067748&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack=",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b73f8d82-aa66-4ac5-861d-52bce84c9ae5.png",
+        "website": "HotelsCombined",
+        "price": "FCFA 128,189",
+        "infos": [
+          "Annulation gratuite jusqu'au Jan 30",
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hotel du Parc Exotique",
+    "options": [
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=XOF&hid=13809374&RoomID=159482375&PriceTax=0.00&PriceTotal=35000.00&RatePlan=98b78486-6633-5916-dc53-51556d7d5989&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+        "website": "Agoda",
+        "price": "FCFA 35,000",
+        "infos": [
+          "Annulation gratuite jusqu'au Jan 31",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/du-parc.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=626070301_336090735_1_1_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=35000.00&ext_price_tax=0.00&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-6260703&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-6260703_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 35,000",
+        "infos": [
+          "Annulation gratuite jusqu'au Jan 31",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.ebookers.ie/Hotel-Search?selected=48632780&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&langid=en&MDPCID=EBOOKERS-SN.META.GOOGLE.ORGANIC-desktop-EN.HOTEL&MDPDTL=HTL.48632780.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=54825.77&exp_tx=4984.16",
+        "logo": "//www.gstatic.com/travel-hotels/branding/1af2ba27-a943-48b6-822c-864c167aaaa1_%5BUngrouped%5D.png",
+        "website": "ebookers.ie",
+        "price": "FCFA 54,826",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.wotif.com/Hotel-Search?selected=48632780&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&mdpcid=wotif-SN.meta.hpa.organic-desktop-ROW-EN.hotel&mdpdtl=htl.48632780.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=54856.65&exp_tx=4986.97",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100325604.png",
+        "website": "Wotif.com",
+        "price": "FCFA 54,857",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=1557248960&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.1557248960SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=1557248960&mpf=54964.47&mpj=4996.77&cur=XOF&mpg=XOF&mpl=USD&rateplanid=266294119",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 54,964",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.orbitz.com/Hotel-Search?selected=48632780&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=ORBITZ-SN.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.48632780.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=54964.47&exp_tx=4996.77&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+        "website": "Orbitz.com",
+        "price": "FCFA 54,964",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.travelocity.com/Hotel-Search?selected=48632780&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=travelocity-SN.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.48632780.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=54964.47&exp_tx=4996.77&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_185.png",
+        "website": "Travelocity.com",
+        "price": "FCFA 54,964",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.expedia.com/Hotel-Search?selected=48632780&startDate=2022-02-04&endDate=2022-02-05&MDPCID=SN.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&adults=1&children=&MDPDTL=HTL.48632780.20220204.20220205.DDT.10.CID..AUDID.&mctc=10&ct=hotel&exp_curr=XOF&exp_dp=54964.47&exp_tx=4996.77&exp_pg=google&langid=en&ad=1&tp=&utm_source=google&utm_medium=cpc&utm_term=48632780&utm_content=localuniversal&utm_campaign=HotelAds&rrid=bex_default",
+        "logo": "//www.gstatic.com/travel-hotels/branding/5aabdc92-ace1-40b5-a9a8-f69510cc61eb.png",
+        "website": "Expedia.com",
+        "price": "FCFA 54,964",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.bluepillow.com/checkout/5eb454eb67a9d10d04262291?begin=2022-02-04&end=2022-02-05&block_id=-b626070302_336090735_2_1_0-p55000-0-0-XOF&adults=2&childs=0&infants=0&country=SN&currency=XOF&utm_campaign=hotel",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+        "website": "bluepillow.com",
+        "price": "FCFA 55,000",
+        "infos": [
+          "Annulation gratuite jusqu'au Jan 31",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://search.etrip.net/Hotel/Search?checkIn=2022-02-04&checkOut=2022-02-05&curr=XOF&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=1:&utm_source=gha&utm_medium=cpc&hotelId=5211281&userCountry=SN&utm_campaign=gha&profile=r2d2m73kn8&preferredRate=54964.47&token=&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dlocaluniversal%26ucountry%3DSN%26udevice%3Ddesktop%26hotel%3D5211281%26day%3D04%26month%3D02%26year%3D2022%26los%3D1%26price%3D54964.47%26currency%3DXOF%26userlang%3Den%26cid%3D%26listid%3D%26rateid%3DAfrica_Push%26closerateid%3D%26_th%3D8d3411d3bbdcad1534a3081ac25cd18266c0634506bc945f%26query%3DPush%26g1%3D0%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/e36eb27d-3456-4b40-bfd8-fba88b94b935.png",
+        "website": "Etrip.net",
+        "price": "FCFA 54,964",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Villa Keur Bibou",
+    "options": [
+      {
+        "link": "https://www.ebookers.ie/Hotel-Search?selected=22710685&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&langid=en&MDPCID=EBOOKERS-SN.META.GOOGLE.ORGANIC-desktop-EN.HOTEL&MDPDTL=HTL.22710685.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=118412.50&exp_tx=12553.74",
+        "logo": "//www.gstatic.com/travel-hotels/branding/1af2ba27-a943-48b6-822c-864c167aaaa1_%5BUngrouped%5D.png",
+        "website": "ebookers.ie",
+        "price": "FCFA 118,413",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.wotif.com/Hotel-Search?selected=22710685&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&mdpcid=wotif-SN.meta.hpa.organic-desktop-ROW-EN.hotel&mdpdtl=htl.22710685.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=118640.38&exp_tx=12573.33",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100325604.png",
+        "website": "Wotif.com",
+        "price": "FCFA 118,640",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=727741920&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.727741920SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=727741920&mpf=118652.62&mpj=12575.15&cur=XOF&mpg=XOF&mpl=USD&rateplanid=296014379",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 118,653",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.travelocity.com/Hotel-Search?selected=22710685&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=travelocity-SN.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.22710685.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=118652.62&exp_tx=12575.15&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_185.png",
+        "website": "Travelocity.com",
+        "price": "FCFA 118,653",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.orbitz.com/Hotel-Search?selected=22710685&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=ORBITZ-SN.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.22710685.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=118652.62&exp_tx=12575.15&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+        "website": "Orbitz.com",
+        "price": "FCFA 118,653",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.expedia.com/Hotel-Search?selected=22710685&startDate=2022-02-04&endDate=2022-02-05&MDPCID=SN.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&adults=1&children=&MDPDTL=HTL.22710685.20220204.20220205.DDT.10.CID..AUDID.&mctc=10&ct=hotel&exp_curr=XOF&exp_dp=118652.62&exp_tx=12575.15&exp_pg=google&langid=en&ad=1&tp=&utm_source=google&utm_medium=cpc&utm_term=22710685&utm_content=localuniversal&utm_campaign=HotelAds&rrid=bex_default",
+        "logo": "//www.gstatic.com/travel-hotels/branding/5aabdc92-ace1-40b5-a9a8-f69510cc61eb.png",
+        "website": "Expedia.com",
+        "price": "FCFA 118,653",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www2.esky.com/stays/details?metaCode=944629&checkInDate=2022-02-04&checkOutDate=2022-02-05&rooms%5B0%5D%5Badults%5D=1&partner_id=GHSUS&ctags=adType:0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/8f5b847b-af87-4e91-97b8-37d70e1c02b3.png",
+        "website": "eSky.com",
+        "price": "FCFA 122,582",
+        "infos": [
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hotel Jardin Savana Dakar",
+    "options": [
+      {
+        "link": "https://www.booking.com/hotel/sn/jardin-savana-dakar.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=51753811_233641562_1_41_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=71200.00&ext_price_tax=7381.82&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-517538&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-517538_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 71,200",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://search.etrip.net/Hotel/Search?checkIn=2022-02-04&checkOut=2022-02-05&curr=XOF&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=1:&utm_source=gha&utm_medium=cpc&hotelId=1751008&userCountry=SN&utm_campaign=gha&profile=r2d2m73kn8&preferredRate=74691.00&token=&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dlocaluniversal%26ucountry%3DSN%26udevice%3Ddesktop%26hotel%3D1751008%26day%3D04%26month%3D02%26year%3D2022%26los%3D1%26price%3D74691.00%26currency%3DXOF%26userlang%3Den%26cid%3D%26listid%3D%26rateid%3DAfrica_Push%26closerateid%3D%26_th%3Dcd989420a709f1e86da04848ca974d1e92ab2cb7e59b1f5e%26query%3DPush%26g1%3D0%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/e36eb27d-3456-4b40-bfd8-fba88b94b935.png",
+        "website": "Etrip.net",
+        "price": "FCFA 74,691",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://vry9.destinia.com/dynclick/destinia/?etf-publisher=googlehotels&etf-name=googlehotels-hoteles&etf-prdref=H_64730&eseg-name=prices&eseg-item=hoteles&eurl=https://destinia.com/www/r.php?remite=googlehotelfree_SN&utm_source=googlehotels_free&request_type=1&multicon=true&num_rooms=1&num_adults=1&num_children=0&action=no_wait_page&hotel_code=64730&checkin_day=04&checkin_month=02&checkin_year=2022&checkout_day=05&checkout_month=02&checkout_year=2022&site=localuniversal&country_code=SN&currency_code=XOF&language_code=en&crawler=false&amount=84737.27&rate_plan_id=64730_182_bri_NRF_2&partner_currency=EUR&campaign_id=&room_id=182&srp=2&srp1=3132352e35343132363437333734317c31302e3735333836343733373430367c31313534387c7c3131372e31337c313634333131353239397c313832&t=1643115300&pid=11548&s=3&rate=64730_5b22627269222c66616c73652c66616c73652c302c302c22356233303564222c33303039325d",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_156.png",
+        "website": "Destinia",
+        "price": "FCFA 84,737",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www2.esky.com/stays/details?metaCode=293875&checkInDate=2022-02-04&checkOutDate=2022-02-05&rooms%5B0%5D%5Badults%5D=1&partner_id=GHSUS&ctags=adType:0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/8f5b847b-af87-4e91-97b8-37d70e1c02b3.png",
+        "website": "eSky.com",
+        "price": "FCFA 90,295",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=USD&hid=26890322&RoomID=131917264&PriceTax=8980.29&PriceTotal=88835.97&RatePlan=4569f2fb-d656-a29c-8132-c2e467f180ad&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+        "website": "Agoda",
+        "price": "FCFA 88,836",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=849082752&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.849082752SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=849082752&mpf=79948.32&mpj=7266.45&cur=XOF&mpg=XOF&mpl=USD&rateplanid=262039744",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 79,948",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.travelocity.com/Hotel-Search?selected=26502586&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=travelocity-SN.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.26502586.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=79948.32&exp_tx=7266.45&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_185.png",
+        "website": "Travelocity.com",
+        "price": "FCFA 79,948",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.visits.reserving.com/colaboradores/click.php?i=7103&u=https://www.secure.centraldereservas.com/reservas/portal.cgi?rf=GOOGLEHOTELS&portal=rsvcom&lang=en&auto=1&tipo=S&id=317677&numero_habs=1&no_adultos_hab1=1&no_ninos_hab1=0&fecha_entrada=04%2F02%2F2022&fecha_salida=05%2F02%2F2022&refp=79766.20&campaing-id=&tp=&moneda=XOF&r=CAMPAIGN-ID=;TRACKING-PARAM=;CUSTOM1=;PRICE-DISPLAYED-TOTAL=79766.20;DEFAULT-DATE=1;CLICK-TYPE=hotel;USER-COUNTRY=SN;DEVICE=desktop;SITE=localuniversal;USER-LANGUAGE=en;USER-CURRENCY=XOF;POS=ALL-ALL-ALL-RSVCOM;AD-CLICK=0;PAYMENT-ID=free",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c5cc2b7b-66f8-465e-8c65-ce7f52dcb3d8.png",
+        "website": "Reserving.com",
+        "price": "FCFA 79,766",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.expedia.com/Hotel-Search?selected=26502586&startDate=2022-02-04&endDate=2022-02-05&MDPCID=SN.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&adults=1&children=&MDPDTL=HTL.26502586.20220204.20220205.DDT.10.CID..AUDID.&mctc=10&ct=hotel&exp_curr=XOF&exp_dp=79948.32&exp_tx=7266.45&exp_pg=google&langid=en&ad=1&tp=&utm_source=google&utm_medium=cpc&utm_term=26502586&utm_content=localuniversal&utm_campaign=HotelAds&rrid=bex_us_desktop",
+        "logo": "//www.gstatic.com/travel-hotels/branding/5aabdc92-ace1-40b5-a9a8-f69510cc61eb.png",
+        "website": "Expedia.com",
+        "price": "FCFA 79,948",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.orbitz.com/Hotel-Search?selected=26502586&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=ORBITZ-SN.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.26502586.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=79948.32&exp_tx=7266.45&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+        "website": "Orbitz.com",
+        "price": "FCFA 79,948",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.bluepillow.com/checkout/5943967b7c00cb0e643bb659?begin=2022-02-04&end=2022-02-05&block_id=-b51753811_233641562_2_41_0-p70909.09-7090.91-2000-XOF&adults=2&childs=0&infants=0&country=SN&currency=XOF&utm_campaign=hotel",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+        "website": "bluepillow.com",
+        "price": "FCFA 80,000",
+        "infos": [
+          "Annulation gratuite jusqu'au 4 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.ebookers.ie/Hotel-Search?selected=26502586&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&langid=en&MDPCID=EBOOKERS-SN.META.GOOGLE.ORGANIC-desktop-EN.HOTEL&MDPDTL=HTL.26502586.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=79746.58&exp_tx=7247.31",
+        "logo": "//www.gstatic.com/travel-hotels/branding/1af2ba27-a943-48b6-822c-864c167aaaa1_%5BUngrouped%5D.png",
+        "website": "ebookers.ie",
+        "price": "FCFA 79,747",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.wotif.com/Hotel-Search?selected=26502586&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&mdpcid=wotif-SN.meta.hpa.organic-desktop-ROW-EN.hotel&mdpdtl=htl.26502586.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=79791.49&exp_tx=7253.02",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100325604.png",
+        "website": "Wotif.com",
+        "price": "FCFA 79,791",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotelscombined.com/semi/ha/hotel_ads/142793/en.html?utm_source=google&utm_medium=cpc&utm_term=142793&adType=0&utm_content=localuniversal&utm_campaign=HotelAds&ci=2022-02-04&co=2022-02-05&gs=localuniversal&l=1&pc=AUD&rid=free_cancel&pdtax=0.00&pdtotal=79791.49&rpid=&uc=SN&ucuc=XOF&d=desktop&lc=en&v=false&rrid=&k_pc=~RVhQRURJQUhPVEVMSEM&k_rt=216310888&k_sid=QTBkAVGiEf&k_kct=1643111371&k_gct=1643121408&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack=",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b73f8d82-aa66-4ac5-861d-52bce84c9ae5.png",
+        "website": "HotelsCombined",
+        "price": "FCFA 79,791",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fathala Wildlife Reserve",
+    "options": [
+      {
+        "link": "https://book.nightsbridge.com/17418?nbid=952&startdate=2022-02-04&enddate=2022-02-05",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_default.png",
+        "website": "Fathala Wildlife Reserve - Safari Senegal Accommodation",
+        "price": "FCFA 94,189",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/fathala-wildlife-reserve.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=89026201_219533648_1_42_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=91922.00&ext_price_tax=1000.00&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-890262&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-890262_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 91,922",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.ebookers.ie/Hotel-Search?selected=7855999&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&langid=en&MDPCID=EBOOKERS-SN.META.GOOGLE.ORGANIC-desktop-EN.HOTEL&MDPDTL=HTL.7855999.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=141283.30&exp_tx=17352.99",
+        "logo": "//www.gstatic.com/travel-hotels/branding/1af2ba27-a943-48b6-822c-864c167aaaa1_%5BUngrouped%5D.png",
+        "website": "ebookers.ie",
+        "price": "FCFA 141,283",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=SN_HP%7C46810804_localuniversal_1%7C20220204%7Cdesktop%7Cdefaultdate|public|||10%7C1%7C0|0&hotelid=46810804&checkin=20220204&checkout=20220205&rooms=1&currency=XOF&displayedCurr=XOF&pOSCountryCode=SN&taxDisplayMode=BP&cityid=5000397036&adults=2&land=L&metaid=nDjMkTjNLKpdSUODGwiDhcF2D8ie8AOUMf2cgd2CLgF7GRf8oOUUrlMDOCvhyIItELjLq5QISzvjxaWb3PgyqqvAAL55WcVwG784OSfASXlMjMUiNpv4sla4BvwBafm9qmI9dLWKz-TWFtotkPslQBOa0061zLS8HaitFtA20agcQ4lvqIIfSekY4wlYQAO-BYobEPKJ9QIi6XDyMCC8LCFcT3VGUJDjNEx9EgY6EcdGPf22L3B9HXjouDoXyZXDsSepeSz5mGNbGvKMLW1mhg&dblcnt=true&user_num_adults=1",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_220.png",
+        "website": "Priceline",
+        "price": "FCFA 141,335",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.wotif.com/Hotel-Search?selected=7855999&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&mdpcid=wotif-SN.meta.hpa.organic-desktop-ROW-EN.hotel&mdpdtl=htl.7855999.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=141380.14&exp_tx=17363.42",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100325604.png",
+        "website": "Wotif.com",
+        "price": "FCFA 141,380",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.orbitz.com/Hotel-Search?selected=7855999&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=ORBITZ-SN.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.7855999.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=141623.41&exp_tx=17393.16&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+        "website": "Orbitz.com",
+        "price": "FCFA 141,623",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=454005&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.454005SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=454005&mpf=141623.41&mpj=17393.16&cur=XOF&mpg=XOF&mpl=USD&rateplanid=203087557",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 141,623",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.travelocity.com/Hotel-Search?selected=7855999&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=travelocity-SN.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.7855999.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=141623.41&exp_tx=17393.16&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_185.png",
+        "website": "Travelocity.com",
+        "price": "FCFA 141,623",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.expedia.com/Hotel-Search?selected=7855999&startDate=2022-02-04&endDate=2022-02-05&MDPCID=SN.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&adults=1&children=&MDPDTL=HTL.7855999.20220204.20220205.DDT.10.CID..AUDID.&mctc=10&ct=hotel&exp_curr=XOF&exp_dp=141623.41&exp_tx=17393.16&exp_pg=google&langid=en&ad=1&tp=&utm_source=google&utm_medium=cpc&utm_term=7855999&utm_content=localuniversal&utm_campaign=HotelAds&rrid=bex_default",
+        "logo": "//www.gstatic.com/travel-hotels/branding/5aabdc92-ace1-40b5-a9a8-f69510cc61eb.png",
+        "website": "Expedia.com",
+        "price": "FCFA 141,623",
+        "infos": [
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hotel Royam",
+    "options": [
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=XOF&hid=844377&RoomID=4325980&PriceTax=5879.00&PriceTotal=54669.00&RatePlan=0f765445-7b26-7d09-14bf-4fefe16e0bd4&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100337601.png",
+        "website": "Agoda",
+        "price": "FCFA 54,669",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/royam.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=49637905_242445152_1_25_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=64250.00&ext_price_tax=1000.00&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-496379&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-496379_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 64,250",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.visits.reserving.com/colaboradores/click.php?i=7103&u=https://www.secure.centraldereservas.com/reservas/portal.cgi?rf=GOOGLEHOTELS&portal=rsvcom&lang=en&auto=1&tipo=S&id=294257&numero_habs=1&no_adultos_hab1=1&no_ninos_hab1=0&fecha_entrada=04%2F02%2F2022&fecha_salida=05%2F02%2F2022&refp=68954.10&campaing-id=&tp=&moneda=XOF&r=CAMPAIGN-ID=;TRACKING-PARAM=;CUSTOM1=;PRICE-DISPLAYED-TOTAL=68954.10;DEFAULT-DATE=1;CLICK-TYPE=hotel;USER-COUNTRY=SN;DEVICE=desktop;SITE=localuniversal;USER-LANGUAGE=en;USER-CURRENCY=XOF;POS=ALL-ALL-ALL-RSVCOM;AD-CLICK=0;PAYMENT-ID=free",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c5cc2b7b-66f8-465e-8c65-ce7f52dcb3d8.png",
+        "website": "Reserving.com",
+        "price": "FCFA 68,954",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://vry9.destinia.com/dynclick/destinia/?etf-publisher=googlehotels&etf-name=googlehotels-hoteles&etf-prdref=H_360817&eseg-name=prices&eseg-item=hoteles&eurl=https://destinia.com/www/r.php?remite=googlehotelfree_SN&utm_source=googlehotels_free&request_type=1&multicon=true&num_rooms=1&num_adults=1&num_children=0&action=no_wait_page&hotel_code=360817&checkin_day=04&checkin_month=02&checkin_year=2022&checkout_day=05&checkout_month=02&checkout_year=2022&site=localuniversal&country_code=SN&currency_code=XOF&language_code=en&crawler=false&amount=72963.67&rate_plan_id=360817_216_tin_RF_2&partner_currency=EUR&campaign_id=&room_id=216&srp=2&srp4=3130382e33373038343637333039387c392e323833303436373330393735337c31313534387c7c3130312e31317c313634333134383630357c323136&t=1643148605&pid=11548&s=3&rate=360817_5b2274696e222c747275652c66616c73652c302c302c22356233303564222c33303038365d",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_156.png",
+        "website": "Destinia",
+        "price": "FCFA 72,964",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.ebookers.ie/Hotel-Search?selected=6271996&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&langid=en&MDPCID=EBOOKERS-SN.META.GOOGLE.ORGANIC-desktop-EN.HOTEL&MDPDTL=HTL.6271996.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=77274.12&exp_tx=7024.92",
+        "logo": "//www.gstatic.com/travel-hotels/branding/1af2ba27-a943-48b6-822c-864c167aaaa1_%5BUngrouped%5D.png",
+        "website": "ebookers.ie",
+        "price": "FCFA 77,274",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.wotif.com/Hotel-Search?selected=6271996&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&mdpcid=wotif-SN.meta.hpa.organic-desktop-ROW-EN.hotel&mdpdtl=htl.6271996.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=77322.83&exp_tx=7029.72",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100325604.png",
+        "website": "Wotif.com",
+        "price": "FCFA 77,323",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=435331&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.435331SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=435331&mpf=77470.20&mpj=7040.64&cur=XOF&mpg=XOF&mpl=USD&rateplanid=201893115",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 77,470",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.expedia.com/Hotel-Search?selected=6271996&startDate=2022-02-04&endDate=2022-02-05&MDPCID=SN.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&adults=1&children=&MDPDTL=HTL.6271996.20220204.20220205.DDT.10.CID..AUDID.&mctc=10&ct=hotel&exp_curr=XOF&exp_dp=77470.20&exp_tx=7040.64&exp_pg=google&langid=en&ad=1&tp=&utm_source=google&utm_medium=cpc&utm_term=6271996&utm_content=localuniversal&utm_campaign=HotelAds&rrid=bex_default",
+        "logo": "//www.gstatic.com/travel-hotels/branding/5aabdc92-ace1-40b5-a9a8-f69510cc61eb.png",
+        "website": "Expedia.com",
+        "price": "FCFA 77,470",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.orbitz.com/Hotel-Search?selected=6271996&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=ORBITZ-SN.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.6271996.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=77470.20&exp_tx=7040.64&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+        "website": "Orbitz.com",
+        "price": "FCFA 77,470",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.travelocity.com/Hotel-Search?selected=6271996&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=travelocity-SN.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.6271996.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=77470.20&exp_tx=7040.64&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_185.png",
+        "website": "Travelocity.com",
+        "price": "FCFA 77,470",
+        "infos": [
+          "Annulation gratuite jusqu'au 3 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.bluepillow.com/checkout/59439a327c00cb0e643d5071?begin=2022-02-04&end=2022-02-05&block_id=-b87752301_338172354_2_85_0-p70474.55-7047.45-2000-XOF&adults=2&childs=0&infants=0&country=SN&currency=XOF&utm_campaign=hotel",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+        "website": "bluepillow.com",
+        "price": "FCFA 79,522",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=SN_HP%7C49276804_localuniversal_1%7C20220204%7Cdesktop%7Cdefaultdate|public|||10%7C1%7C0|0&hotelid=49276804&checkin=20220204&checkout=20220205&rooms=1&currency=XOF&displayedCurr=XOF&pOSCountryCode=SN&taxDisplayMode=BP&cityid=5000300619&adults=2&land=L&metaid=qylbqUYyFyCQ68BoMRxMvH2IyHCZqEsHY05rmQgJvZ9sh1lseZWoPHHgJH-ufT6Z7sxCF3fmsW7mzVSjqQ85Ic0P4p2OKnQ-GolrfJ6fG3W0eqnckp5sb2_uGqzdcyIC-GQss1LnzrX1QnHSePlraMYv2NcuuVabqagQz27XGtlKXWloVmaRVsYHFjsQ3y7f1TLrgb3UM_4pAoIrwOJesI2LKYax64QBysa42LhIkdG1wWJVG499BgA2uIT_x6M2dYWQRSAvJwue9ePclZ-rzg&dblcnt=true&user_num_adults=1",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_220.png",
+        "website": "Priceline",
+        "price": "FCFA 79,522",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotelscombined.com/semi/ha/hotel_ads/2011945/en.html?utm_source=google&utm_medium=cpc&utm_term=2011945&adType=0&utm_content=localuniversal&utm_campaign=HotelAds&ci=2022-02-04&co=2022-02-05&gs=localuniversal&l=1&pc=AUD&rid=free_cancel&pdtax=0.00&pdtotal=77318.68&rpid=&uc=SN&ucuc=XOF&d=desktop&lc=en&v=false&rrid=&k_pc=~RVhQRURJQUhPVEVMSEM&k_rt=200312457&k_sid=QNBkEH4dN7&k_kct=1643096348&k_gct=1643110365&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack=",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b73f8d82-aa66-4ac5-861d-52bce84c9ae5.png",
+        "website": "HotelsCombined",
+        "price": "FCFA 77,319",
+        "infos": [
+          "Annulation gratuite jusqu'au 2 févr.",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://search.etrip.net/Hotel/Search?checkIn=2022-02-04&checkOut=2022-02-05&curr=XOF&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=1:&utm_source=gha&utm_medium=cpc&hotelId=2038330&userCountry=SN&utm_campaign=gha&profile=r2d2m73kn8&preferredRate=79195.62&token=&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dlocaluniversal%26ucountry%3DSN%26udevice%3Ddesktop%26hotel%3D2038330%26day%3D04%26month%3D02%26year%3D2022%26los%3D1%26price%3D79195.62%26currency%3DXOF%26userlang%3Den%26cid%3D%26listid%3D%26rateid%3DAfrica_Push%26closerateid%3D%26_th%3D77091e24b302d716a97a774a9bdd764cbca042ec55da5c89%26query%3DPush%26g1%3D0%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/e36eb27d-3456-4b40-bfd8-fba88b94b935.png",
+        "website": "Etrip.net",
+        "price": "FCFA 79,196",
+        "infos": [
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Riad cote jardin",
+    "options": [
+      {
+        "link": "https://www.booking.com/hotel/sn/hotelgandiol.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=613393905_240053056_1_41_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=24465.00&ext_price_tax=3133.18&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-6133939&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-sn_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-6133939_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-sn_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 24,000",
+        "infos": [
+          "2 personne"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Amour Senegal",
+    "options": [
+      {
+        "link": "https://www.booking.com/hotel/sn/hotelgandiol.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=613393905_240053056_1_41_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=24465.00&ext_price_tax=3133.18&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-6133939&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-sn_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-6133939_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-sn_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 37,500",
+        "infos": [
+          "1 personne"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Le Clos Des Papillons",
+    "options": [
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=XOF&hid=619054&RoomID=80666757&PriceTax=5090.91&PriceTotal=46000.00&RatePlan=ab8ef643-67b5-7671-2213-17ad873dad04&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+        "website": "Agoda",
+        "price": "FCFA 46,000",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=SN_HP%7C49695504_localuniversal_1%7C20220204%7Cdesktop%7Cdefaultdate|public|||10%7C1%7C0|0&hotelid=49695504&checkin=20220204&checkout=20220205&rooms=1&currency=XOF&displayedCurr=XOF&pOSCountryCode=SN&taxDisplayMode=BP&cityid=5000396207&adults=2&land=L&metaid=ljD6F6GQY2mUSFF-b2GhwZhkCdzlWtHgkY2bWCDU6Jzt5ketHyilTOfqE0loYz9tyY3Gt2yw0NpLUAz0jitBNfPwdv3e7GAkoZbUqUEfZPaHbcpsrVQgJvp0ndCHwgGvDe8bEg6UK_VcIjLlM5d-l3FxHRRT2wQppCJ40wphh3PjJzm4OvI9-rkMm6Ocq9fQKFRUrRF7Mh6btfse1J2HL3rgYOuA_eC126KZfKPdV5em3aofyxDE_EqYnn8lBS2Y2YC8j2E8XAZ3P7H5o_Uu0g&dblcnt=true&user_num_adults=1",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_220.png",
+        "website": "Priceline",
+        "price": "FCFA 46,997",
+        "infos": [
+          "Annulation gratuite jusqu'au Jan 28",
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.bluepillow.com/checkout/59439a307c00cb0e643d4fe1?begin=2022-02-04&end=2022-02-05&block_id=-b87711013_335403201_2_41_0-p40909.09-4090.91-2000-XOF&adults=2&childs=0&infants=0&country=SN&currency=XOF&utm_campaign=hotel",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+        "website": "bluepillow.com",
+        "price": "FCFA 47,000",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/le-clos-des-papillons-saly.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=87711013_335403201_2_41_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=47000.00&ext_price_tax=6090.91&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-877110&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-877110_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 47,000",
+        "infos": [
+          "2 personnes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Novotel Dakar",
+    "options": [
+      {
+        "link": "https://travel-productads.koddi.com/PropertyAdvocateAPI/ClickRedirect?client=Accor&channel=GHPA&placement=localuniversal&campaign=&destinationURL=https%3A%2F%2Fall.accor.com%2Flien_externe.svlt%3Fgoto%3Drech_resa%26destination%3D0529%26dayIn%3D04%26monthIn%3D02%26yearIn%3D2022%26nightNb%3D1%26adultNumber%3D1%26childrenNumber%3D0%26merchantid%3Dseo-meta-google%26sourceid%3Dx-0529-SN-cpc-desktop-default-0--1-04-02-2022-10-Friday-localuniversal--0-0-0%26utm_source%3Dseo_meta_google%26utm_medium%3Dpartenariats%26utm_campaign%3D0529-SN-cpc-desktop-default-0--localuniversal--0-0-0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/dceb9551-37a7-4b2b-84c1-207576699106.png",
+        "website": "Novotel Dakar",
+        "price": "FCFA 99,100",
+        "infos": [
+          "Obtenez entre 5 et 10 % de réduction en vous inscrivant gratuitement"
+        ]
+      },
+      {
+        "link": "https://www.visits.reserving.com/colaboradores/click.php?i=7103&u=https://www.secure.centraldereservas.com/reservas/portal.cgi?rf=GOOGLEHOTELS&portal=rsvcom&lang=en&auto=1&tipo=S&id=65026&numero_habs=1&no_adultos_hab1=1&no_ninos_hab1=0&fecha_entrada=04%2F02%2F2022&fecha_salida=05%2F02%2F2022&refp=92174.27&campaing-id=&tp=&moneda=XOF&r=CAMPAIGN-ID=;TRACKING-PARAM=;CUSTOM1=;PRICE-DISPLAYED-TOTAL=92174.27;DEFAULT-DATE=1;CLICK-TYPE=hotel;USER-COUNTRY=SN;DEVICE=desktop;SITE=localuniversal;USER-LANGUAGE=en;USER-CURRENCY=XOF;POS=ALL-ALL-ALL-RSVCOM;AD-CLICK=0;PAYMENT-ID=free",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c5cc2b7b-66f8-465e-8c65-ce7f52dcb3d8.png",
+        "website": "Reserving.com",
+        "price": "FCFA 92,174",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.prestigia.com/en/produit.php?idTarget=4207&arrivee=04/02/2022&depart=05/02/2022&pid=45&a=1000129&dev=XOF&propalRoomId=87bd168e93b073447726dc39f981a54c&pr=14301.30&ra=103426.77",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_101283631.png",
+        "website": "Prestigia.com",
+        "price": "FCFA 103,427",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1731041&CkInDay=04&CkInMonth=02&CkInYear=2022&CkOutDay=05&campaignid=&CkOutMonth=02&CkOutYear=2022&SearchDateType=default&NumberOfAdults=1&LT=10&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=1&PartnerCurrency=XOF&hid=78269&RoomID=6552961&PriceTax=9918.18&PriceTotal=99100.00&RatePlan=02b73ff4-becf-4cee-9f09-d42d76d0dbc7&UserCountry=SN&Currency=XOF&UserDevice=desktop&Verif=false&rr=&audience_list=&mcid=3038&booking_source=cpc&adType=0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100337601.png",
+        "website": "Agoda",
+        "price": "FCFA 99,100",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.expedia.com/Hotel-Search?selected=7251&startDate=2022-02-04&endDate=2022-02-05&MDPCID=SN.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&adults=1&children=&MDPDTL=HTL.7251.20220204.20220205.DDT.10.CID..AUDID.&mctc=10&ct=hotel&exp_curr=XOF&exp_dp=100039.62&exp_tx=10914.15&exp_pg=google&langid=en&ad=1&tp=&utm_source=google&utm_medium=cpc&utm_term=7251&utm_content=localuniversal&utm_campaign=HotelAds&rrid=bex_default",
+        "logo": "//www.gstatic.com/travel-hotels/branding/5aabdc92-ace1-40b5-a9a8-f69510cc61eb.png",
+        "website": "Expedia.com",
+        "price": "FCFA 100,040",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.ebookers.ie/Hotel-Search?selected=7251&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&langid=en&MDPCID=EBOOKERS-SN.META.GOOGLE.ORGANIC-desktop-EN.HOTEL&MDPDTL=HTL.7251.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=99781.34&exp_tx=10884.05",
+        "logo": "//www.gstatic.com/travel-hotels/branding/1af2ba27-a943-48b6-822c-864c167aaaa1_%5BUngrouped%5D.png",
+        "website": "ebookers.ie",
+        "price": "FCFA 99,781",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.wotif.com/Hotel-Search?selected=7251&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&mdpcid=wotif-SN.meta.hpa.organic-desktop-ROW-EN.hotel&mdpdtl=htl.7251.20220204.20220205.DDT.10.CID..AUDID..localuniversal&mctc=10&exp_curr=XOF&exp_dp=99838.61&exp_tx=10887.80",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100325604.png",
+        "website": "Wotif.com",
+        "price": "FCFA 99,839",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.bringfido.com/lodging/59624?arrival=2022-02-04&departure=2022-02-05&adults=1&source=b&aid=googlehotels-localuniversal",
+        "logo": "//www.gstatic.com/travel-hotels/branding/43acfdaa-b8c3-4934-86a6-40269db7b0e1.png",
+        "website": "BringFido",
+        "price": "FCFA 99,924",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.travelocity.com/Hotel-Search?selected=7251&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=travelocity-SN.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.7251.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=100039.62&exp_tx=10914.15&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_185.png",
+        "website": "Travelocity.com",
+        "price": "FCFA 100,040",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.hotels.com/PPCHotelDetails?hotelid=110786&arrivalDate=04/02/2022&departureDate=05/02/2022&numberOfRooms=1&adultsPerRoom=1&childrenPerRoom=0&childAgesPerRoom=&rffrid=sem.hcom.SN.156.024.localuniversal.02.desktop-1.kwrd=GGMETA.110786SNen-20220204-D-ABW=10-camp=-aud=-N&wapa7=110786&mpf=100039.62&mpj=10914.15&cur=XOF&mpg=XOF&mpl=USD&rateplanid=201201748",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_92.png",
+        "website": "Hotels.com",
+        "price": "FCFA 100,040",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.bluepillow.com/checkout/59439abc7c00cb0e643d86d5?begin=2022-02-04&end=2022-02-05&block_id=-b9842401_95455613_2_42_0-p89181.82-8918.18-2000-XOF&adults=2&childs=0&infants=0&country=SN&currency=XOF&utm_campaign=hotel",
+        "logo": "//www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+        "website": "bluepillow.com",
+        "price": "FCFA 100,100",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.orbitz.com/Hotel-Search?selected=7251&startDate=2022-02-04&endDate=2022-02-05&adults=1&children=&MDPCID=ORBITZ-SN.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.7251.20220204.20220205.DDT.10.CID..AUDID..localuniversal&exp_curr=XOF&exp_dp=100039.62&exp_tx=10914.15&mctc=10",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_100640403.png",
+        "website": "Orbitz.com",
+        "price": "FCFA 100,040",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www2.esky.com/stays/details?metaCode=149088&checkInDate=2022-02-04&checkOutDate=2022-02-05&rooms%5B0%5D%5Badults%5D=1&partner_id=GHSUS&ctags=adType:0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/8f5b847b-af87-4e91-97b8-37d70e1c02b3.png",
+        "website": "eSky.com",
+        "price": "FCFA 100,072",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://www.booking.com/hotel/sn/dakar.html?&checkin=2022-02-04&checkout=2022-02-05&group_adults=1&show_room=9842401_95455613_1_42_0&lang=en&selected_currency=XOF&exrt=1.00000000&ext_price_total=99100.00&ext_price_tax=9918.18&xfc=XOF&group_children=0&req_children=0&&utm_source=metagha&utm_medium=localuniversal&utm_campaign=SN&utm_term=hotel-98424&utm_content=dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204&aid=2127705&label=metagha-link-LUSN-hotel-98424_dev-desktop_los-1_bw-10_dow-Friday_defdate-1_room-0_gstadt-1_rateid-0_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20220204",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_184.png",
+        "website": "Booking.com",
+        "price": "FCFA 99,100",
+        "infos": [
+          "1 personne"
+        ]
+      },
+      {
+        "link": "https://www.hotelscombined.com/semi/ha/hotel_ads/60148/en.html?utm_source=google&utm_medium=cpc&utm_term=60148&adType=0&utm_content=localuniversal&utm_campaign=HotelAds&ci=2022-02-04&co=2022-02-05&gs=localuniversal&l=1&pc=AUD&rid=&pdtax=2005.54&pdtotal=100388.58&rpid=&uc=SN&ucuc=XOF&d=desktop&lc=en&v=false&rrid=&k_pc=~UEFS&k_rt=9842401&k_sid=QbCkTrCuv6&k_kct=1643130700&k_gct=1643135628&g=2&r=1&ac=2&k_cc=us&dt=default&cmpid=&cmptrack=",
+        "logo": "//www.gstatic.com/travel-hotels/branding/b73f8d82-aa66-4ac5-861d-52bce84c9ae5.png",
+        "website": "HotelsCombined",
+        "price": "FCFA 100,389",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://search.etrip.net/Hotel/Search?checkIn=2022-02-04&checkOut=2022-02-05&curr=XOF&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=1:&utm_source=gha&utm_medium=cpc&hotelId=1108873&userCountry=SN&utm_campaign=gha&profile=r2d2m73kn8&preferredRate=99686.43&token=&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dlocaluniversal%26ucountry%3DSN%26udevice%3Ddesktop%26hotel%3D1108873%26day%3D04%26month%3D02%26year%3D2022%26los%3D1%26price%3D99686.43%26currency%3DXOF%26userlang%3Den%26cid%3D%26listid%3D%26rateid%3DAfrica_Push%26closerateid%3D%26_th%3D036b40c45e313e90d42953ca3db60e03b7327bf6d4c8f38f%26query%3DPush%26g1%3D0%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0",
+        "logo": "//www.gstatic.com/travel-hotels/branding/e36eb27d-3456-4b40-bfd8-fba88b94b935.png",
+        "website": "Etrip.net",
+        "price": "FCFA 99,686",
+        "infos": [
+          "2 personnes"
+        ]
+      },
+      {
+        "link": "https://vry9.destinia.com/dynclick/destinia/?etf-publisher=googlehotels&etf-name=googlehotels-hoteles&etf-prdref=H_50417&eseg-name=prices&eseg-item=hoteles&eurl=https://destinia.com/www/r.php?remite=googlehotelfree_SN&utm_source=googlehotels_free&request_type=1&multicon=true&num_rooms=1&num_adults=1&num_children=0&action=no_wait_page&hotel_code=50417&checkin_day=04&checkin_month=02&checkin_year=2022&checkout_day=05&checkout_month=02&checkout_year=2022&site=localuniversal&country_code=SN&currency_code=XOF&language_code=en&crawler=false&amount=114171.30&rate_plan_id=50417_216_nin_NRF_2&partner_currency=EUR&campaign_id=&room_id=216&srp=2&srp0=3137302e39317c32382e323032347c31313534387c7c3134352e36327c313634333131353239397c323136&t=1643115300&pid=11548&s=3&rate=50417_5b226e696e222c747275652c66616c73652c302c302c22356233303564222c33303039325d",
+        "logo": "//www.gstatic.com/travel-hotels/branding/icon_156.png",
+        "website": "Destinia",
+        "price": "FCFA 114,171",
+        "infos": [
+          "2 personnes"
+        ]
+      }
+    ]
+  }
+]

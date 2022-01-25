@@ -11,49 +11,22 @@ BASE_URL = "https://www.google.com/travel/hotels?utm_campaign=sharing&utm_medium
 listePrices = []
 
 
-with open("hotelName.txt", "r", encoding='utf-8') as names, open("urls_google_hotel_link.txt", "w+") as output: 
+with open("urls_google_hotel_link.txt", "r", encoding='utf-8') as urls, open("hotelName.txt", "r") as names, open("hotel_prices.json", "w+", encoding='utf-8') as output:
   try:
-    for row in names:
-      row.strip('\n')
+    for (url, name) in zip(urls, names):
+      row = url.strip('\n')
       browser = webdriver.Firefox()
-      browser.get(BASE_URL)
-      # Save the window opener (current window, do not mistaken with tab... not the same)
-      inputs = browser.find_elements(By.CSS_SELECTOR, 'input.whsOnd.zHQkBf')
+      browser.get(row)
       print(browser.title)
-      inputElement = inputs[1]
-      inputElement.clear()
-      time.sleep(1)
-      inputElement.click()
-      time.sleep(1)
-      inputElement.send_keys(str(row))
-      time.sleep(1)
-      inputElement.send_keys(Keys.ENTER)
-      time.sleep(5)
-      browser.implicitly_wait(10)
-      button = browser.find_element(By.CSS_SELECTOR, 'a.aS3xV.lRagtb.US5C9c')
-      browser.page_source
-      print(browser.title)
-      button.click()
-      browser.switch_to.window(browser.window_handles[-1])
-      time.sleep(5)
-      print(browser.title)
-        
-      print('testa')
-      
-      """ time.sleep(20) """
-      print(browser.title)
-      url = browser.current_url
-      print(url)
-      output.write(url + '\n')
-      
-      """ res2 = browser.page_source
+      res2 = browser.page_source
       
       time.sleep(1)
       soup = BeautifulSoup(res2, "html.parser")
       
       listItem = soup.select('.R09YGb.WCYWbc > .vxYgIc > span > .KQO6ob a')
+      listItem = listItem[2:]
       obj = dict()
-      obj['name'] = row
+      obj['name'] = name.strip('\n')
       listInfo = []
       for item in listItem:
         infoDict = {}
@@ -61,25 +34,25 @@ with open("hotelName.txt", "r", encoding='utf-8') as names, open("urls_google_ho
         logo = item.select_one('.Ab0FDe.XK9Blb')
         infoDict['logo'] = logo.get('src') if logo.get('src') else logo.get('data-src')
         infoDict['website'] = item.select_one('.FjC1We.ogfYpf.zUyrwb').text
-        infosBasic = item.select('.pNExyb > .MW1oTb')
+        infoDict['price'] = item.select_one('.pNExyb > .MW1oTb').text if item.select_one('.pNExyb > .MW1oTb') else item.select_one('.qeZJob > .MW1oTb').text
+        infosBasic = item.select('.r1Jjcc.x4RNH span')
         infoDict['infos'] = [elt.text for elt in infosBasic]
         listInfo.append(infoDict)
         
-      obj['prices'] = listInfo
+      obj['options'] = listInfo
       listePrices.append(obj)
-        
-      json.dump(listePrices, output, indent=2, ensure_ascii=False)   """
         
       
       """ pp.pprint(soup.prettify()) """
       browser.quit()
-      time.sleep(10)
+      """ break """
   except Exception:
     print(traceback.format_exc())
     
+  json.dump(listePrices, output, indent=2, ensure_ascii=False)
     
     
-""" , open("sup2.json", "w+", encoding='utf-8') as output """
+    
 """ .R09YGb.WCYWbc > .vxYgIc > span > .KQO6ob a  -->  link
 
 .R09YGb.WCYWbc > .vxYgIc > span > .KQO6ob a .Ab0FDe.XK9Blb  -->  logo
